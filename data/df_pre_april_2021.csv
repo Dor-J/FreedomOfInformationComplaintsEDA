@@ -1,0 +1,445 @@
+_id,Complaint Number,Channel of Receipt,Initial Request Date for Information,Complaint Subject,Complaint Receipt Date,Entity Complained Against,Closing Date,Decision,Number of Treatment Days,Status
+1,2/19,Online Form,2018-11-26 00:00:00,Lack of Justification,2019-01-03 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2019-03-21 12:15:12,Justified,77,Treatment Completed
+2,4/19,Online Form,2018-11-27 00:00:00,No Response,2019-01-13 00:00:00,הנהלת בתי הדין הרבניים,2019-02-17 09:04:41,Unjustified,35,Treatment Completed
+3,5/19,Online Form,2018-08-09 00:00:00,No Response,2019-01-16 00:00:00,משרד ראש הממשלה,2019-03-24 18:04:32,Justified,67,Treatment Completed
+4,6/19,Online Form,2018-03-03 00:00:00,No Response,2019-01-17 00:00:00,משרד האוצר,2019-03-11 11:22:06,Justified,53,Treatment Completed
+5,8/19,Email,2018-11-18 00:00:00,No Response,2019-01-27 13:25:00,משרד האוצר,2019-06-17 14:27:44,Justified,141,Treatment Completed
+6,10/19,Online Form,2018-10-10 00:00:00,No Response,2019-01-29 00:00:00,משרד ראש הממשלה,2019-04-11 09:09:14,Justified,72,Treatment Completed
+7,11/19,Online Form,2018-12-18 00:00:00,No Response,2019-01-29 00:00:00,משרד הבריאות,2019-04-15 13:43:14,Justified,76,Treatment Completed
+8,12/19,Online Form,2019-01-30 00:00:00,No Response,2019-01-30 00:00:00,משרד התחבורה והבטיחות בדרכים,2019-03-11 12:00:59,Unjustified,40,Treatment Completed
+9,19/19,Fax,2018-09-13 00:00:00,No Response,2019-02-03 16:26:00,רשות המסים בישראל,2019-03-07 11:24:45,Justified,31,Treatment Completed
+10,20/19,Online Form,2019-01-14 00:00:00,No Response,2019-02-04 00:00:00,רשות האכיפה והגבייה,2019-03-05 13:19:25,Unjustified,29,Treatment Completed
+11,22/19,Email,2018-08-28 00:00:00,No Response,2019-02-11 11:42:00,משרד העבודה הרווחה והשירותים החברתיים,2019-03-11 13:21:43,Justified,28,Treatment Completed
+12,23/19,Online Form,2018-12-06 00:00:00,No Response,2019-02-14 00:00:00,משרד החקלאות ופיתוח הכפר,2019-06-03 08:30:49,Justified,109,Treatment Completed
+13,24/19,Online Form,2019-02-14 00:00:00,No Response,2019-02-14 00:00:00,משרד האוצר,2019-03-04 08:20:38,Unjustified,18,Treatment Completed
+14,25/19,Online Form,2018-12-11 00:00:00,No Response,2019-02-19 00:00:00,משרד החקלאות ופיתוח הכפר,2019-06-17 08:13:45,Justified,118,Treatment Completed
+15,26/19,Online Form,2018-12-10 00:00:00,No Response,2019-02-20 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2019-03-11 13:57:29,Justified,19,Treatment Completed
+16,28/19,Online Form,2019-01-20 00:00:00,No Response,2019-02-25 00:00:00,משרד האוצר,2019-03-11 14:06:27,Justified,14,Treatment Completed
+17,30/19,Email,2018-07-26 00:00:00,No Response,2019-02-26 09:42:00,המשרד לביטחון פנים,2019-04-16 10:17:14,Justified,49,Treatment Completed
+18,33/19,Online Form,2019-02-27 00:00:00,Administrative Guidelines,2019-02-27 00:00:00,הנהלת בתי המשפט,2019-05-12 13:06:27,Justified,74,Treatment Completed
+19,32/19,Online Form,2018-11-05 00:00:00,No Response,2019-02-27 00:00:00,משרד החינוך,2019-06-19 09:48:38,Justified,112,Treatment Completed
+20,34/19,Online Form,2019-01-22 00:00:00,No Response,2019-03-04 00:00:00,רשות המסים בישראל,2019-06-02 09:00:31,Justified,90,Treatment Completed
+21,35/19,Online Form,2019-02-06 00:00:00,No Response,2019-03-07 00:00:00,משרד הבריאות,2019-05-20 12:18:15,Unjustified,74,Treatment Completed
+22,37/19,Online Form,2018-01-07 00:00:00,No Response,2019-03-17 00:00:00,משרד הביטחון,2019-09-04 15:03:38,Justified,171,Treatment Completed
+23,36/19,Online Form,2017-08-10 00:00:00,No Response,2019-03-17 00:00:00,משרד הביטחון,2019-05-16 12:05:08,Unjustified,60,Treatment Completed
+24,40/19,Online Form,2019-01-01 00:00:00,No Response,2019-03-19 00:00:00,משרד הבריאות,2019-07-31 09:16:23,Justified,134,Treatment Completed
+25,41/19,Online Form,2019-02-06 00:00:00,No Response,2019-03-20 00:00:00,עיריית טבריה,2019-03-28 09:39:43,Justified,8,Treatment Completed
+26,44/19,Online Form,2019-02-20 00:00:00,No Response,2019-03-28 00:00:00,רשות מקרקעי ישראל,2019-05-29 10:37:25,Unjustified,62,Treatment Completed
+27,46/19,Online Form,2018-05-03 00:00:00,No Response,2019-03-31 00:00:00,משרד התחבורה והבטיחות בדרכים,2019-08-12 11:47:25,Justified,134,Treatment Completed
+28,48/19,Online Form,2018-09-02 00:00:00,No Response,2019-03-31 00:00:00,משרד התחבורה והבטיחות בדרכים,2019-07-04 08:24:35,Justified,95,Treatment Completed
+29,50/19,Online Form,2019-01-31 00:00:00,No Response,2019-03-31 00:00:00,משרד התחבורה והבטיחות בדרכים,2019-07-21 11:09:26,Justified,112,Treatment Completed
+30,47/19,Online Form,2018-09-02 00:00:00,No Response,2019-03-31 00:00:00,משרד התחבורה והבטיחות בדרכים,2019-04-04 14:09:25,Treatment Discontinued,4,Treatment Completed
+31,49/19,Online Form,2019-01-13 00:00:00,No Response,2019-03-31 00:00:00,משרד התחבורה והבטיחות בדרכים,2019-04-04 14:13:00,Treatment Discontinued,4,Treatment Completed
+32,45/19,Online Form,2019-02-03 00:00:00,No Response,2019-03-31 00:00:00,רשות המים והביוב,2019-12-02 15:28:26,Unjustified,246,Treatment Completed
+33,54/19,Online Form,2018-12-31 00:00:00,No Response,2019-04-03 00:00:00,משרד החינוך,2019-08-12 11:22:15,Justified,131,Treatment Completed
+34,53/19,Online Form,2018-12-27 00:00:00,No Response,2019-04-03 00:00:00,משרד החינוך,2019-08-13 07:56:13,Justified,132,Treatment Completed
+35,58/19,Email,2019-02-11 00:00:00,Unknown,2019-04-11 11:47:00,משרד הבריאות,2019-07-09 10:23:10,Justified,88,Treatment Completed
+36,59/19,Email,2019-01-15 00:00:00,Unknown,2019-04-11 13:05:00,משרד העבודה הרווחה והשירותים החברתיים,2019-10-23 12:12:36,Justified,194,Treatment Completed
+37,61/19,Online Form,2019-01-28 00:00:00,No Response,2019-04-14 00:00:00,משרד הבריאות,2019-07-18 10:38:53,Justified,95,Treatment Completed
+38,63/19,Online Form,2019-01-27 00:00:00,No Response,2019-04-15 00:00:00,משרד החינוך,2019-08-13 09:53:26,Justified,120,Treatment Completed
+39,62/19,Online Form,2018-04-16 00:00:00,No Response,2019-04-15 00:00:00,רשות האוכלוסין וההגירה,2019-06-23 09:15:25,Justified,69,Treatment Completed
+40,64/19,Email,2019-01-20 00:00:00,No Response,2019-04-18 15:08:00,משרד הבריאות,2019-06-18 11:31:41,Justified,60,Treatment Completed
+41,65/19,Online Form,2019-01-21 00:00:00,No Response,2019-04-26 00:00:00,משרד ראש הממשלה,2019-07-31 09:49:16,Justified,96,Treatment Completed
+42,66/19,Online Form,2018-12-26 00:00:00,No Response,2019-05-01 00:00:00,משרד החקלאות ופיתוח הכפר,2019-06-18 09:50:29,Justified,48,Treatment Completed
+43,69/19,Online Form,2019-02-23 00:00:00,Unknown,2019-05-09 00:00:00,משרד החינוך,2019-09-05 09:00:49,Justified,119,Treatment Completed
+44,68/19,Online Form,2019-03-22 00:00:00,No Response,2019-05-09 00:00:00,משרד התחבורה והבטיחות בדרכים,2019-05-29 14:25:52,Unjustified,20,Treatment Completed
+45,70/19,Email,2018-12-25 00:00:00,No Response,2019-05-12 09:37:00,משרד העבודה הרווחה והשירותים החברתיים,2019-07-11 14:59:01,Justified,60,Treatment Completed
+46,72/19,Online Form,2019-01-24 00:00:00,No Response,2019-05-14 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2019-07-17 08:46:57,Justified,64,Treatment Completed
+47,74/19,Online Form,2019-03-31 00:00:00,No Response,2019-05-16 00:00:00,משרד הבריאות,2019-09-19 10:26:24,Justified,126,Treatment Completed
+48,78/19,Online Form,2019-03-07 00:00:00,No Response,2019-05-20 00:00:00,המשרד לביטחון פנים,2019-09-12 14:08:39,Justified,115,Treatment Completed
+49,77/19,Online Form,2019-03-12 00:00:00,No Response,2019-05-20 00:00:00,המשרד לביטחון הפנים,2019-11-11 08:25:52,Justified,175,Treatment Completed
+50,81/19,Online Form,2019-02-05 00:00:00,No Response,2019-05-22 00:00:00,משרד הבריאות,2019-07-11 15:33:06,Justified,50,Treatment Completed
+51,80/19,Online Form,2019-04-12 00:00:00,No Response,2019-05-22 00:00:00,הנהלת בתי המשפט,2019-10-22 12:38:51,Unjustified,153,Treatment Completed
+52,84/19,Email,2018-12-30 00:00:00,Environmental Information,2019-05-23 15:00:00,המשרד להגנת הסביבה,2019-08-15 17:52:07,Justified,84,Treatment Completed
+53,86/19,Online Form,2019-02-05 00:00:00,No Response,2019-05-26 00:00:00,משרד הבריאות,2019-07-15 09:11:49,Justified,50,Treatment Completed
+54,88/19,Email,2018-12-23 00:00:00,No Response,2019-05-28 11:23:00,משרד ראש הממשלה,2020-01-01 11:08:52,Justified,217,Treatment Completed
+55,89/19,Online Form,2019-02-03 00:00:00,No Response,2019-05-29 00:00:00,רשות המים והביוב,2019-08-29 13:16:41,Treatment Discontinued,92,Treatment Completed
+56,91/19,Online Form,2019-03-20 00:00:00,No Response,2019-06-04 00:00:00,משרד הבריאות,2019-10-06 14:56:53,Treatment Discontinued,124,Treatment Completed
+57,93/19,Email,2019-05-23 00:00:00,Administrative Guidelines,2019-06-10 14:28:00,משרד המשפטים,2019-12-01 14:58:45,Unjustified,174,Treatment Completed
+58,94/19,Email,2019-05-16 00:00:00,No Response,2019-06-10 15:08:00,האפוטרופוס הכללי והכונס הרשמי,2019-07-18 12:20:14,Unjustified,37,Treatment Completed
+59,96/19,Online Form,2018-12-27 00:00:00,No Response,2019-06-12 00:00:00,משרד הבריאות,2019-10-22 13:01:45,Justified,132,Treatment Completed
+60,95/19,Email,2019-03-20 00:00:00,Unknown,2019-06-12 11:46:00,משרד העבודה הרווחה והשירותים החברתיים,2019-07-23 08:16:02,Justified,40,Treatment Completed
+61,98/19,Online Form,2019-01-22 00:00:00,No Response,2019-06-13 00:00:00,צהל,2019-08-12 11:30:07,Justified,60,Treatment Completed
+62,99/19,Online Form,2019-01-22 00:00:00,No Response,2019-06-13 00:00:00,צבא הגנה לישראל,2019-08-12 11:40:25,Justified,60,Treatment Completed
+63,97/19,Online Form,2018-08-06 00:00:00,No Response,2019-06-13 00:00:00,משרד החקלאות ופיתוח הכפר,2019-07-07 10:53:08,Justified,24,Treatment Completed
+64,100/19,Online Form,2019-01-22 00:00:00,No Response,2019-06-13 00:00:00,צבא הגנה לישראל,2019-07-09 09:36:40,Justified,26,Treatment Completed
+65,101/19,Email,2019-03-19 00:00:00,No Response,2019-06-16 10:23:00,משרד הבריאות,2019-07-31 08:17:37,Justified,44,Treatment Completed
+66,102/19,Email,2018-11-19 00:00:00,No Response,2019-06-16 14:49:00,משרד החינוך,2019-10-23 11:59:14,Justified,128,Treatment Completed
+67,104/19,Online Form,2019-03-20 00:00:00,No Response,2019-06-19 00:00:00,משרד הבריאות,2019-10-22 11:08:26,Justified,125,Treatment Completed
+68,103/19,Email,2018-02-28 00:00:00,Unknown,2019-06-19 10:03:00,משטרת ישראל,2019-06-27 10:53:07,Unjustified,8,Treatment Completed
+69,107/19,Online Form,2019-01-07 00:00:00,No Response,2019-06-22 00:00:00,משרד הביטחון,2019-07-08 16:27:21,Justified,16,Treatment Completed
+70,108/19,Online Form,2019-05-19 00:00:00,No Response,2019-06-24 00:00:00,משרד הבריאות,2019-07-31 08:30:08,Justified,37,Treatment Completed
+71,109/19,Email,2019-02-11 00:00:00,Unknown,2019-06-24 15:45:00,המשרד להגנת הסביבה,2019-08-13 09:44:35,Justified,49,Treatment Completed
+72,110/19,Email,2019-04-17 00:00:00,No Response,2019-06-25 13:43:00,צבא הגנה לישראל,2019-08-12 10:43:17,Unjustified,47,Treatment Completed
+73,111/19,Email,2019-04-24 00:00:00,Unknown,2019-06-27 08:34:00,משרד הבריאות,2019-11-07 12:19:59,Justified,133,Treatment Completed
+74,112/19,Online Form,2019-04-14 00:00:00,No Response,2019-07-01 00:00:00,משרד הבריאות,2019-07-17 08:40:19,Justified,16,Treatment Completed
+75,115/19,Online Form,2019-04-16 00:00:00,No Response,2019-07-02 00:00:00,המשרד להגנת הסביבה,2019-07-11 15:51:49,Justified,9,Treatment Completed
+76,116/19,Online Form,2019-05-22 00:00:00,No Response,2019-07-04 00:00:00,רשות האוכלוסין וההגירה,2019-07-29 15:26:13,Justified,25,Treatment Completed
+77,118/19,Online Form,2018-02-26 00:00:00,No Response,2019-07-09 00:00:00,משרד החקלאות ופיתוח הכפר,2019-07-29 15:29:19,Justified,20,Treatment Completed
+78,119/19,Online Form,2019-05-22 00:00:00,No Response,2019-07-09 00:00:00,משרד החקלאות ופיתוח הכפר,2019-11-06 09:07:22,Justified,120,Treatment Completed
+79,121/19,Email,2019-03-21 00:00:00,Unknown,2019-07-14 15:56:00,רשות האכיפה והגבייה,2019-07-24 08:32:33,Unjustified,9,Treatment Completed
+80,123/19,Email,2019-03-13 00:00:00,No Response,2019-07-16 16:24:00,צהל,2019-09-05 09:17:33,Justified,50,Treatment Completed
+81,124/19,Email,2019-07-04 00:00:00,Annual Report,2019-07-18 14:23:00,המשרד לביטחון הפנים,2019-12-25 11:02:47,Justified,159,Treatment Completed
+82,131/19,Online Form,2018-12-09 00:00:00,No Response,2019-07-21 00:00:00,משרד העלייה והקליטה,2019-09-05 11:09:11,Unjustified,46,Treatment Completed
+83,125/19,Email,2019-07-04 00:00:00,Annual Report,2019-07-21 09:09:00,רשות המים והביוב,2019-12-25 11:07:41,Justified,157,Treatment Completed
+84,126/19,Email,2019-07-04 00:00:00,Annual Report,2019-07-21 09:41:00,המשרד לנושאים אסטרטגיים והסברה,2019-09-12 14:33:58,Justified,53,Treatment Completed
+85,127/19,Email,2019-07-04 00:00:00,Unknown,2019-07-21 10:04:00,המשרד לשוויון חברתי,2019-11-06 12:48:42,Justified,108,Treatment Completed
+86,129/19,Email,2019-07-04 00:00:00,Annual Report,2019-07-21 10:20:00,משרד ראש הממשלה,2020-01-01 10:01:16,Justified,163,Treatment Completed
+87,128/19,Email,2019-07-04 00:00:00,Unknown,2019-07-21 10:20:00,הנהלת בתי הדין הרבניים,2019-09-15 11:26:13,Unjustified,56,Treatment Completed
+88,130/19,Email,2018-03-27 00:00:00,No Response,2019-07-21 11:47:00,משרד ראש הממשלה,2020-01-09 11:24:45,Justified,171,Treatment Completed
+89,132/19,Online Form,2018-07-29 00:00:00,No Response,2019-07-23 00:00:00,משרד הביטחון,2019-10-23 12:17:40,Justified,92,Treatment Completed
+90,133/19,Online Form,2018-12-04 00:00:00,No Response,2019-07-23 00:00:00,המשרד לביטחון הפנים,2020-01-08 11:49:51,Justified,169,Treatment Completed
+91,134/19,Online Form,2019-04-11 00:00:00,No Response,2019-07-24 00:00:00,רשות החברות הממשלתיות,2019-09-16 08:43:09,Justified,54,Treatment Completed
+92,136/19,Online Form,2019-07-21 00:00:00,No Response,2019-07-28 00:00:00,משרד הפנים,2019-09-11 10:42:38,Justified,45,Treatment Completed
+93,137/19,Online Form,2019-05-16 00:00:00,No Response,2019-07-30 00:00:00,האפוטרופוס הכללי והכונס הרשמי,2019-09-16 09:14:43,Justified,48,Treatment Completed
+94,138/19,Online Form,2019-04-01 00:00:00,No Response,2019-08-06 00:00:00,משרד המשפטים,2019-09-18 15:35:44,Unjustified,43,Treatment Completed
+95,150/19,Email,2019-05-02 00:00:00,No Response,2019-08-09 00:00:00,משרד הבריאות,2019-11-03 09:31:16,Justified,86,Treatment Completed
+96,139/19,Email,2019-05-18 00:00:00,No Response,2019-08-15 00:00:00,משרד האוצר,2019-09-22 12:34:14,Justified,38,Treatment Completed
+97,140/19,Email,2019-06-23 00:00:00,No Response,2019-08-18 14:04:00,רשות האכיפה והגבייה,2019-09-05 11:48:12,Unjustified,17,Treatment Completed
+98,141/19,Online Form,2019-06-16 00:00:00,No Response,2019-08-20 00:00:00,צהל,2019-11-18 08:02:49,Justified,90,Treatment Completed
+99,143/19,Online Form,2019-07-15 00:00:00,No Response,2019-08-25 00:00:00,מנהל אזרחי אזור יהודה ושומרון,2019-11-12 07:51:05,Justified,79,Treatment Completed
+100,151/19,Email,2019-06-22 00:00:00,No Response,2019-08-25 00:00:00,משטרת ישראל,2019-11-17 13:25:34,Justified,84,Treatment Completed
+101,142/19,Online Form,2019-06-23 00:00:00,No Response,2019-08-25 00:00:00,הנהלת בתי המשפט,2019-10-29 11:20:01,Unjustified,65,Treatment Completed
+102,144/19,Online Form,2019-07-23 00:00:00,No Response,2019-08-26 00:00:00,משרד החינוך,2019-10-06 13:11:11,Unjustified,41,Treatment Completed
+103,145/19,Email,2019-04-07 00:00:00,Lack of Justification,2019-08-26 09:45:00,משרד החינוך,2019-10-29 11:31:00,Justified,64,Treatment Completed
+104,146/19,Online Form,2019-05-22 00:00:00,No Response,2019-08-27 00:00:00,רשות האוכלוסין וההגירה,2019-09-18 16:02:35,Justified,22,Treatment Completed
+105,147/19,Online Form,2019-05-28 00:00:00,No Response,2019-08-27 00:00:00,רשות האוכלוסין וההגירה,2019-10-10 08:48:05,Justified,44,Treatment Completed
+106,148/19,Email,2019-06-10 00:00:00,No Response,2019-08-28 12:16:00,משרד התחבורה והבטיחות בדרכים,2019-11-12 11:20:56,Justified,75,Treatment Completed
+107,164/19,Email,2019-06-17 00:00:00,Lack of Justification,2019-09-01 00:00:00,משטרת ישראל,2019-11-14 08:22:00,Justified,74,Treatment Completed
+108,149/19,Online Form,2019-08-01 00:00:00,No Response,2019-09-01 00:00:00,משרד המשפטים,2019-09-19 08:18:43,Unjustified,18,Treatment Completed
+109,153/19,Online Form,2019-07-28 00:00:00,No Response,2019-09-02 00:00:00,רשות האוכלוסין וההגירה,2019-11-19 11:15:58,Partially Justified,78,Treatment Completed
+110,154/19,Online Form,2019-07-28 00:00:00,No Response,2019-09-02 00:00:00,רשות האוכלוסין וההגירה,2019-09-22 13:42:00,Justified,20,Treatment Completed
+111,155/19,Online Form,2019-07-28 00:00:00,No Response,2019-09-02 00:00:00,רשות האוכלוסין וההגירה,2019-11-12 08:08:12,Justified,71,Treatment Completed
+112,156/19,Phone,2019-09-03 15:27:00,Unknown,2019-09-03 15:27:00,רשות התחרות,2019-09-03 15:36:53,Unjustified,0,Treatment Completed
+113,158/19,Online Form,2019-07-18 00:00:00,No Response,2019-09-04 00:00:00,משטרת ישראל,2019-11-05 08:12:02,Justified,62,Treatment Completed
+114,157/19,Online Form,2019-07-21 00:00:00,No Response,2019-09-04 00:00:00,צהל,2019-09-15 13:17:47,Unjustified,11,Treatment Completed
+115,160/19,Online Form,2018-11-07 00:00:00,No Response,2019-09-05 00:00:00,מנהל אזרחי אזור יהודה ושומרון,2020-01-01 11:12:58,Justified,118,Treatment Completed
+116,159/19,Email,2019-07-05 03:00:00,No Response,2019-09-05 13:28:00,צבא הגנה לישראל,2020-01-01 10:53:12,Justified,117,Treatment Completed
+117,161/19,Online Form,2019-07-30 00:00:00,No Response,2019-09-08 00:00:00,משרד החינוך,2019-12-25 08:49:40,Justified,108,Treatment Completed
+118,163/19,Online Form,2019-05-30 00:00:00,No Response,2019-09-09 00:00:00,משרד המשפטים,2019-10-22 12:49:21,Justified,43,Treatment Completed
+119,165/19,Online Form,2019-08-11 00:00:00,No Response,2019-09-09 00:00:00,המשרד להגנת הסביבה,2020-01-12 11:10:24,Justified,125,Treatment Completed
+120,166/19,Online Form,2019-03-06 00:00:00,No Response,2019-09-10 00:00:00,הרשות להסדרת התיישבות הבדואים בנגב,2019-11-05 08:27:28,Justified,56,Treatment Completed
+121,170/19,Online Form,2019-06-18 00:00:00,No Response,2019-09-11 00:00:00,הנהלת בתי הדין הרבניים,2019-10-10 14:08:19,Justified,29,Treatment Completed
+122,167/19,Online Form,2019-06-10 00:00:00,No Response,2019-09-11 00:00:00,משרד הביטחון,2019-10-23 10:41:23,Justified,42,Treatment Completed
+123,169/19,Online Form,2019-09-11 00:00:00,Annual Report,2019-09-11 00:00:00,רשות שוק ההון הביטוח והחיסכון,2019-10-30 09:54:35,Justified,49,Treatment Completed
+124,168/19,Online Form,2019-06-12 00:00:00,No Response,2019-09-11 00:00:00,הרשות להסדרת התיישבות הבדואים בנגב,2019-11-05 08:31:10,Justified,55,Treatment Completed
+125,171/19,Online Form,2019-06-30 00:00:00,No Response,2019-09-16 00:00:00,הרבנות הראשית לישראל,2019-10-23 10:45:47,Unjustified,37,Treatment Completed
+126,172/19,Email,2019-07-23 00:00:00,Unknown,2019-09-18 11:32:00,משרד החינוך,2019-10-30 11:06:51,Justified,41,Treatment Completed
+127,175/19,Online Form,2019-05-15 00:00:00,No Response,2019-09-22 00:00:00,המשרד לביטחון הפנים,2019-11-12 08:22:15,Justified,51,Treatment Completed
+128,176/19,Email,2019-06-12 00:00:00,Lack of Justification,2019-09-22 14:10:00,משטרת ישראל,2019-10-24 08:36:23,Justified,31,Treatment Completed
+129,177/19,Email,2019-05-16 00:00:00,No Response,2019-09-23 15:08:00,משרד העבודה הרווחה והשירותים החברתיים,2020-02-17 12:07:55,Justified,146,Treatment Completed
+130,179/19,Email,2019-07-17 00:00:00,No Response,2019-09-26 10:00:00,משרד התחבורה והבטיחות בדרכים,2019-11-06 13:00:25,Justified,41,Treatment Completed
+131,180/19,Online Form,2019-08-22 00:00:00,No Response,2019-10-01 00:00:00,משרד הפנים,2020-01-12 07:43:33,Justified,103,Treatment Completed
+132,183/19,Email,2019-04-30 00:00:00,No Response,2019-10-02 00:00:00,משרד הבריאות,2019-12-02 10:37:55,Justified,61,Treatment Completed
+133,182/19,Email,2019-06-17 00:00:00,No Response,2019-10-02 00:00:00,צהל,2020-01-13 14:14:11,Justified,103,Treatment Completed
+134,184/19,Email,2019-07-25 00:00:00,No Response,2019-10-03 12:57:00,משרד החינוך,2019-10-31 08:07:01,Justified,27,Treatment Completed
+135,185/19,Email,2019-04-15 00:00:00,No Response,2019-10-03 13:40:00,משטרת ישראל,2019-11-20 08:58:51,Justified,47,Treatment Completed
+136,186/19,Email,2019-07-21 00:00:00,No Response,2019-10-07 00:00:00,משרד החינוך,2019-10-29 11:46:04,Justified,22,Treatment Completed
+137,187/19,Online Form,2019-08-31 00:00:00,No Response,2019-10-17 00:00:00,משרד הפנים,2019-12-25 09:20:07,Justified,69,Treatment Completed
+138,188/19,Email,2019-08-22 00:00:00,No Response,2019-10-22 08:58:00,רשות המים והביוב,2019-12-18 08:36:22,Justified,56,Treatment Completed
+139,191/19,Online Form,2019-10-23 00:00:00,Administrative Guidelines,2019-10-23 00:00:00,המשרד להגנת הסביבה,2019-10-24 09:33:08,Unjustified,1,Treatment Completed
+140,189/19,Online Form,2019-08-20 00:00:00,No Response,2019-10-23 00:00:00,רשות מקרקעי ישראל,2019-12-10 09:52:42,Unjustified,48,Treatment Completed
+141,190/19,Online Form,2019-08-20 00:00:00,No Response,2019-10-23 00:00:00,משרד הבינוי והשיכון,2020-01-09 14:44:44,Unjustified,78,Treatment Completed
+142,193/19,Online Form,2019-08-28 00:00:00,No Response,2019-11-06 00:00:00,משרד החינוך,2019-12-16 13:42:53,Unjustified,40,Treatment Completed
+143,192/19,Email,2019-07-05 00:00:00,No Response,2019-11-06 10:48:00,משרד ראש הממשלה,2019-12-09 10:06:23,Unjustified,32,Treatment Completed
+144,194/19,Email,2019-09-03 00:00:00,No Response,2019-11-07 09:14:00,משרד החינוך,2019-11-17 10:37:37,Unjustified,10,Treatment Completed
+145,196/19,Online Form,2019-06-11 00:00:00,No Response,2019-11-10 00:00:00,משרד הבריאות,2020-02-06 12:50:18,Justified,88,Treatment Completed
+146,198/19,Email,2019-08-12 00:00:00,No Response,2019-11-11 00:00:00,משטרת ישראל,2019-11-21 12:20:43,Justified,10,Treatment Completed
+147,197/19,Online Form,2019-10-27 00:00:00,No Response,2019-11-11 00:00:00,משרד החינוך,2019-12-25 09:39:40,Justified,44,Treatment Completed
+148,202/19,Online Form,2019-07-25 00:00:00,No Response,2019-11-13 00:00:00,משרד הבריאות,2020-02-10 13:04:48,Justified,89,Treatment Completed
+149,199/19,Online Form,2019-02-05 00:00:00,No Response,2019-11-13 00:00:00,משרד הבריאות,2020-01-05 11:40:01,Justified,53,Treatment Completed
+150,200/19,Email,2019-05-13 00:00:00,No Response,2019-11-13 13:17:00,משרד החקלאות ופיתוח הכפר,2019-12-15 11:48:55,Justified,31,Treatment Completed
+151,201/19,Email,2019-09-09 00:00:00,No Response,2019-11-13 14:16:00,משרד העבודה הרווחה והשירותים החברתיים,2020-02-02 13:09:36,Justified,80,Treatment Completed
+152,203/19,Email,2019-10-13 00:00:00,No Response,2019-11-14 10:43:00,משרד התקשורת,2019-11-14 12:47:20,Treatment Discontinued,0,Treatment Completed
+153,205/19,Email,2019-08-13 00:00:00,No Response,2019-11-17 00:00:00,משרד הבריאות,2019-12-17 08:10:53,Justified,30,Treatment Completed
+154,206/19,Email,2019-07-22 00:00:00,No Response,2019-11-21 10:12:00,משרד הבריאות,2019-12-23 13:34:00,Treatment Discontinued,32,Treatment Completed
+155,207/19,Email,2019-05-21 00:00:00,No Response,2019-11-22 00:00:00,משרד העלייה והקליטה,2019-12-01 11:47:18,Treatment Discontinued,9,Treatment Completed
+156,208/19,Email,2019-05-21 00:00:00,No Response,2019-11-22 00:00:00,משרד ראש הממשלה,2019-12-01 11:43:56,Treatment Discontinued,9,Treatment Completed
+157,209/19,Email,2019-11-19 00:00:00,No Response,2019-12-01 15:13:00,מנהל אזרחי אזור יהודה ושומרון,2020-03-11 12:48:21,Justified,100,Treatment Completed
+158,210/19,Email,2019-10-10 00:00:00,No Response,2019-12-01 15:52:00,המשרד להגנת הסביבה,2020-01-05 10:44:13,Justified,34,Treatment Completed
+159,211/19,Online Form,2019-08-01 00:00:00,No Response,2019-12-03 00:00:00,נציבות שירות המדינה,2019-12-30 14:28:18,Justified,27,Treatment Completed
+160,216/19,Online Form,2019-10-28 00:00:00,No Response,2019-12-11 00:00:00,משרד הבריאות,2019-12-30 07:58:49,Unjustified,19,Treatment Completed
+161,217/19,Email,2019-10-06 00:00:00,No Response,2019-12-12 09:38:00,האפוטרופוס הכללי והכונס הרשמי,2020-02-17 11:58:00,Justified,67,Treatment Completed
+162,218/19,Email,2019-11-26 00:00:00,Lack of Justification,2019-12-12 10:21:00,משרד הפנים,2020-03-03 11:17:16,Justified,82,Treatment Completed
+163,219/19,Email,2019-10-24 00:00:00,No Response,2019-12-18 09:03:00,מנהל אזרחי אזור יהודה ושומרון,2020-03-03 13:40:20,Justified,76,Treatment Completed
+164,220/19,Email,2019-02-11 00:00:00,No Response,2019-12-25 08:06:00,המשרד להגנת הסביבה,2020-01-30 15:04:57,Treatment Discontinued,36,Treatment Completed
+165,221/19,Email,2019-11-19 00:00:00,No Response,2019-12-25 09:06:00,המשרד לביטחון הפנים,2020-01-12 08:42:39,Justified,17,Treatment Completed
+166,222/19,Email,2019-11-21 00:00:00,No Response,2019-12-25 09:15:00,המשרד לביטחון הפנים,2019-12-30 08:32:27,Justified,4,Treatment Completed
+167,223/19,Email,2019-11-25 00:00:00,No Response,2019-12-30 08:36:00,נציבות שירות המדינה,2020-01-05 14:19:11,Justified,6,Treatment Completed
+168,1/20,Email,2019-12-02 00:00:00,No Response,2020-01-05 08:42:00,רשות התחרות,2020-02-03 11:22:57,Unjustified,29,Treatment Completed
+169,2/20,Email,2019-11-29 00:00:00,No Response,2020-01-05 09:19:00,משטרת ישראל,2020-02-19 09:48:40,Justified,45,Treatment Completed
+170,3/20,Online Form,2019-07-23 00:00:00,No Response,2020-01-07 00:00:00,משטרת ישראל,2020-02-03 11:40:21,Justified,27,Treatment Completed
+171,5/20,Online Form,2019-12-05 00:00:00,No Response,2020-01-07 00:00:00,משרד הפנים,2020-05-21 10:32:07,Justified,135,Treatment Completed
+172,4/20,Online Form,2019-07-23 00:00:00,No Response,2020-01-07 00:00:00,משטרת ישראל,2020-01-08 09:07:03,Treatment Discontinued,1,Treatment Completed
+173,6/20,Email,2019-11-30 00:00:00,No Response,2020-01-08 10:04:00,משטרת ישראל,2020-02-19 10:01:53,Justified,41,Treatment Completed
+174,7/20,Email,2019-11-06 00:00:00,No Response,2020-01-12 08:02:00,המשרד להגנת הסביבה,2020-01-13 14:27:26,Treatment Discontinued,1,Treatment Completed
+175,9/20,Online Form,2019-12-02 00:00:00,Unknown,2020-01-13 00:00:00,משרד האוצר,2020-01-14 09:50:14,Treatment Discontinued,1,Treatment Completed
+176,10/20,Email,2019-12-07 00:00:00,No Response,2020-01-13 15:19:00,משטרת ישראל,2020-02-19 10:09:11,Justified,36,Treatment Completed
+177,11/20,Email,2019-12-09 00:00:00,No Response,2020-01-13 15:43:00,משטרת ישראל,2020-02-19 10:13:13,Justified,36,Treatment Completed
+178,12/20,Online Form,2019-12-02 00:00:00,Lack of Justification,2020-01-14 00:00:00,משרד האוצר,2020-01-14 09:44:53,Treatment Discontinued,0,Treatment Completed
+179,16/20,Online Form,2019-12-15 00:00:00,No Response,2020-01-15 00:00:00,משרד החינוך,2020-01-26 10:18:13,Justified,11,Treatment Completed
+180,19/20,Online Form,2019-11-25 00:00:00,No Response,2020-01-15 00:00:00,רשות שוק ההון הביטוח והחיסכון,2020-01-30 11:56:17,Justified,15,Treatment Completed
+181,18/20,Online Form,2019-11-10 00:00:00,No Response,2020-01-15 00:00:00,צהל,2020-02-26 12:03:11,Justified,42,Treatment Completed
+182,20/20,Online Form,2020-01-01 00:00:00,Fees,2020-01-15 00:00:00,משרד הפנים,2020-01-21 11:22:34,Unjustified,6,Treatment Completed
+183,13/20,Email,2019-11-27 00:00:00,No Response,2020-01-15 09:30:00,משרד החינוך,2020-02-09 12:02:16,Unjustified,25,Treatment Completed
+184,14/20,Email,2019-10-16 00:00:00,No Response,2020-01-15 10:25:00,צהל,2020-02-10 13:12:36,Justified,26,Treatment Completed
+185,15/20,Email,2019-12-10 00:00:00,No Response,2020-01-15 10:55:00,משרד הפנים,2020-05-12 10:11:28,Justified,117,Treatment Completed
+186,17/20,Email,2019-10-20 00:00:00,No Response,2020-01-15 14:51:00,משרד הבריאות,2020-03-05 13:14:32,Treatment Discontinued,49,Treatment Completed
+187,21/20,Email,2019-10-03 00:00:00,No Response,2020-01-19 07:51:00,משרד החקלאות ופיתוח הכפר,2020-02-09 10:41:08,Justified,21,Treatment Completed
+188,22/20,Online Form,2019-11-17 00:00:00,No Response,2020-01-21 00:00:00,צהל,2020-06-01 11:32:15,Justified,132,Treatment Completed
+189,23/20,Online Form,2019-12-02 00:00:00,No Response,2020-01-21 00:00:00,רשות התחרות,2020-01-22 10:39:12,Treatment Discontinued,1,Treatment Completed
+190,24/20,Email,2019-08-15 00:00:00,No Response,2020-01-26 16:00:00,משטרת ישראל,2020-05-27 08:54:13,Justified,121,Treatment Completed
+191,25/20,Email,2019-11-18 00:00:00,No Response,2020-01-27 14:39:00,משטרת ישראל,2020-02-19 10:16:57,Justified,22,Treatment Completed
+192,27/20,Online Form,2020-01-01 00:00:00,No Response,2020-02-02 00:00:00,רשות האוכלוסין וההגירה,2020-02-17 11:48:45,Unjustified,15,Treatment Completed
+193,28/20,Online Form,2020-02-04 00:00:00,Lack of Justification,2020-02-04 00:00:00,מרכז רפואי פוריה,2020-02-04 11:12:59,Treatment Discontinued,0,Treatment Completed
+194,29/20,Online Form,2019-12-09 00:00:00,No Response,2020-02-04 00:00:00,בית חולים וולפסון,2020-02-06 08:41:28,Treatment Discontinued,2,Treatment Completed
+195,30/20,Online Form,2020-02-04 00:00:00,Fees,2020-02-04 00:00:00,בית חולים איכילוב,2020-02-06 08:42:46,Treatment Discontinued,2,Treatment Completed
+196,31/20,Online Form,2020-02-04 00:00:00,Unknown,2020-02-04 00:00:00,בית חולים איכילוב,2020-02-06 08:44:13,Treatment Discontinued,2,Treatment Completed
+197,32/20,Online Form,2019-06-02 00:00:00,Unknown,2020-02-05 00:00:00,המשרד להגנת הסביבה,2020-07-29 10:00:15,Partially Justified,175,Treatment Completed
+198,33/20,Online Form,2019-05-30 00:00:00,No Response,2020-02-06 00:00:00,משרד החקלאות ופיתוח הכפר,2020-06-08 09:05:31,Justified,123,Treatment Completed
+199,35/20,Online Form,2019-11-24 00:00:00,No Response,2020-02-10 00:00:00,המשרד לביטחון הפנים,2020-03-05 10:11:56,Justified,24,Treatment Completed
+200,37/20,Online Form,2019-12-02 00:00:00,No Response,2020-02-10 00:00:00,משרד האוצר,2020-03-11 10:28:22,Justified,30,Treatment Completed
+201,36/20,Email,2020-01-06 00:00:00,No Response,2020-02-10 13:53:00,משטרת ישראל,2020-02-20 12:28:58,Treatment Discontinued,9,Treatment Completed
+202,39/20,Online Form,2019-12-19 00:00:00,No Response,2020-02-12 00:00:00,בית חולים איכילוב,2020-05-24 11:42:55,Justified,102,Treatment Completed
+203,40/20,Online Form,2019-12-15 00:00:00,No Response,2020-02-14 00:00:00,רשות שוק ההון הביטוח והחיסכון,2020-02-26 12:20:19,Justified,12,Treatment Completed
+204,42/20,Online Form,2019-09-17 00:00:00,No Response,2020-02-20 00:00:00,משרד האוצר,2020-03-11 15:47:42,Justified,20,Treatment Completed
+205,44/20,Online Form,2018-04-16 00:00:00,No Response,2020-02-23 00:00:00,המשרד להגנת הסביבה,2020-07-09 10:40:55,Justified,137,Treatment Completed
+206,45/20,Email,2020-01-01 00:00:00,Fees,2020-02-24 08:22:00,משרד הפנים,2020-06-16 16:42:11,Treatment Discontinued,113,Treatment Completed
+207,46/20,Email,2019-11-18 00:00:00,No Response,2020-02-24 09:33:00,משטרת ישראל,2020-02-26 10:09:38,Unjustified,2,Treatment Completed
+208,47/20,Online Form,2019-01-04 00:00:00,No Response,2020-02-25 00:00:00,משרד האוצר,2020-08-02 09:23:15,Justified,159,Treatment Completed
+209,49/20,Online Form,2019-07-23 00:00:00,No Response,2020-02-26 00:00:00,משטרת ישראל,2020-03-09 12:13:01,Treatment Discontinued,12,Treatment Completed
+210,48/20,Online Form,2019-11-11 00:00:00,No Response,2020-02-26 00:00:00,שירות בתי הסוהר,2020-05-11 11:17:57,Unjustified,75,Treatment Completed
+211,50/20,Online Form,2020-01-26 00:00:00,No Response,2020-02-27 00:00:00,משרד החינוך,2020-05-11 12:10:33,Justified,74,Treatment Completed
+212,55/20,Online Form,2020-01-31 00:00:00,No Response,2020-03-03 00:00:00,משרד הבריאות,2020-08-18 11:56:11,Justified,168,Treatment Completed
+213,54/20,Online Form,2020-01-30 00:00:00,No Response,2020-03-03 00:00:00,משרד המשפטים,2020-03-05 12:08:03,Unjustified,2,Treatment Completed
+214,56/20,Online Form,2019-12-02 00:00:00,Administrative Guidelines,2020-03-03 00:00:00,רשות התחרות,2020-05-20 10:33:56,Unjustified,78,Treatment Completed
+215,57/20,Online Form,2019-08-18 00:00:00,No Response,2020-03-04 00:00:00,צהל,2020-08-05 07:53:29,Justified,154,Treatment Completed
+216,59/20,Email,2019-12-08 00:00:00,No Response,2020-03-05 12:11:00,משטרת ישראל,2020-05-27 09:03:39,Unjustified,82,Treatment Completed
+217,61/20,Email,2019-10-23 00:00:00,No Response,2020-03-05 16:22:00,מנהל אזרחי אזור יהודה ושומרון,2020-05-10 11:08:22,Justified,65,Treatment Completed
+218,62/20,Online Form,2018-12-24 00:00:00,No Response,2020-03-07 00:00:00,המשרד להגנת הסביבה,2020-08-18 12:10:38,Justified,164,Treatment Completed
+219,64/20,Email,2020-01-28 00:00:00,No Response,2020-03-09 07:26:00,האפוטרופוס הכללי והכונס הרשמי,2020-06-07 13:58:04,Justified,90,Treatment Completed
+220,67/20,Online Form,2019-01-15 00:00:00,No Response,2020-03-24 00:00:00,צבא הגנה לישראל,2020-05-05 07:52:05,Treatment Discontinued,42,Treatment Completed
+221,66/20,Online Form,2019-01-15 00:00:00,No Response,2020-03-24 00:00:00,צבא הגנה לישראל,2020-05-07 10:29:04,Treatment Discontinued,44,Treatment Completed
+222,69/20,Online Form,2020-01-01 00:00:00,No Response,2020-03-25 00:00:00,משרד החקלאות ופיתוח הכפר,2020-06-08 08:49:05,Justified,75,Treatment Completed
+223,79/20,Email,2019-11-03 00:00:00,No Response,2020-05-06 09:59:00,מתאם פעולות הממשלה בשטחים מתפש,2020-07-09 11:36:07,Justified,64,Treatment Completed
+224,80/20,Email,2019-12-05 00:00:00,No Response,2020-05-07 10:52:00,הרבנות הראשית לישראל,2020-05-20 12:41:05,Unjustified,13,Treatment Completed
+225,81/20,Email,2020-04-05 00:00:00,No Response,2020-05-07 11:16:00,משרד האוצר,2020-08-11 11:28:25,Justified,96,Treatment Completed
+226,82/20,Online Form,2019-12-17 00:00:00,No Response,2020-05-08 00:00:00,המשרד להגנת הסביבה,2020-06-08 08:53:11,Justified,31,Treatment Completed
+227,83/20,Email,2020-04-16 00:00:00,No Response,2020-05-10 12:24:00,משרד הבריאות,2020-05-12 10:25:37,Justified,1,Treatment Completed
+228,87/20,Online Form,2020-02-06 00:00:00,No Response,2020-05-13 00:00:00,נציבות שירות המדינה,2020-11-25 09:40:41,Justified,196,Treatment Completed
+229,86/20,Online Form,2020-01-15 00:00:00,No Response,2020-05-13 00:00:00,משרד הפנים,2020-07-01 13:49:20,Justified,49,Treatment Completed
+230,85/20,Online Form,2020-02-24 00:00:00,No Response,2020-05-13 00:00:00,המשרד להגנת הסביבה,2020-05-26 10:40:59,Unjustified,13,Treatment Completed
+231,88/20,Email,2019-08-02 00:00:00,Lack of Justification,2020-05-17 00:00:00,משרד המשפטים,2020-07-06 14:12:40,Justified,50,Treatment Completed
+232,89/20,Email,2020-03-17 00:00:00,No Response,2020-05-20 11:43:00,צהל,2020-08-20 10:05:11,Justified,91,Treatment Completed
+233,90/20,Online Form,2019-12-01 00:00:00,No Response,2020-05-21 00:00:00,צהל,2020-08-27 09:13:25,Justified,98,Treatment Completed
+234,91/20,Online Form,2020-02-10 00:00:00,No Response,2020-05-26 00:00:00,משרד ראש הממשלה,2020-07-06 09:41:31,Justified,41,Treatment Completed
+235,92/20,Online Form,2020-01-14 00:00:00,No Response,2020-06-01 00:00:00,משרד הבריאות,2021-04-22 10:12:04,Justified,325,Treatment Completed
+236,94/20,Online Form,2020-05-27 00:00:00,No Response,2020-06-02 00:00:00,משרד הבינוי והשיכון,2020-06-09 10:43:24,Unjustified,7,Treatment Completed
+237,93/20,Email,2020-02-10 00:00:00,No Response,2020-06-02 09:09:00,צהל,2020-07-16 09:13:06,Justified,44,Treatment Completed
+238,95/20,Online Form,2019-08-28 00:00:00,No Response,2020-06-03 00:00:00,המשרד לשירותי דת,2020-06-21 13:36:30,Unjustified,18,Treatment Completed
+239,96/20,Online Form,2020-05-06 00:00:00,No Response,2020-06-06 00:00:00,צהל,2020-06-07 15:58:23,Treatment Discontinued,1,Treatment Completed
+240,97/20,Online Form,2020-03-08 00:00:00,No Response,2020-06-07 00:00:00,משטרת ישראל,2020-06-25 09:10:25,Unjustified,18,Treatment Completed
+241,98/20,Online Form,2019-11-04 00:00:00,No Response,2020-06-10 00:00:00,המשרד להגנת הסביבה,2020-09-21 14:51:12,Justified,103,Treatment Completed
+242,99/20,Online Form,2020-03-10 00:00:00,No Response,2020-06-11 00:00:00,משרד הפנים,2020-06-21 13:14:44,Unjustified,10,Treatment Completed
+243,100/20,Online Form,2020-03-24 00:00:00,No Response,2020-06-15 00:00:00,משרד החקלאות ופיתוח הכפר,2020-06-24 09:16:54,Justified,9,Treatment Completed
+244,102/20,Email,2020-03-07 00:00:00,No Response,2020-06-18 08:58:00,משרד הביטחון,2020-07-08 11:46:11,Justified,20,Treatment Completed
+245,105/20,Online Form,2020-05-15 00:00:00,No Response,2020-06-21 00:00:00,משרד הבריאות,2020-06-25 09:16:46,Justified,4,Treatment Completed
+246,106/20,Online Form,2019-12-09 00:00:00,No Response,2020-06-21 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-07-02 13:00:05,Justified,11,Treatment Completed
+247,107/20,Online Form,2020-05-15 00:00:00,No Response,2020-06-22 00:00:00,משטרת ישראל,2020-06-28 13:09:19,Unjustified,6,Treatment Completed
+248,109/20,Online Form,2020-05-12 00:00:00,No Response,2020-06-23 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2020-07-29 12:31:50,Justified,36,Treatment Completed
+249,111/20,Online Form,2020-05-26 00:00:00,No Response,2020-06-29 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2020-07-09 10:01:03,Unjustified,10,Treatment Completed
+250,112/20,Email,2020-03-16 00:00:00,No Response,2020-06-29 13:04:00,משרד החקלאות ופיתוח הכפר,2020-07-16 09:19:54,Unjustified,16,Treatment Completed
+251,114/20,Online Form,2019-10-31 00:00:00,No Response,2020-07-01 00:00:00,משרד ראש הממשלה,2020-09-01 18:42:06,Treatment Discontinued,62,Treatment Completed
+252,117/20,Online Form,2020-02-09 00:00:00,No Response,2020-07-06 00:00:00,משרד התיירות,2020-07-22 11:00:46,Partially Justified,16,Treatment Completed
+253,121/20,Online Form,2020-06-22 00:00:00,No Response,2020-07-12 00:00:00,משרד החינוך,2020-08-10 11:09:38,Justified,29,Treatment Completed
+254,122/20,Email,2020-01-14 00:00:00,No Response,2020-07-13 09:22:00,צהל,2020-08-03 09:58:04,Justified,21,Treatment Completed
+255,124/20,Online Form,2020-06-12 00:00:00,No Response,2020-07-19 00:00:00,משטרת ישראל,2020-07-20 08:43:37,Unjustified,1,Treatment Completed
+256,126/20,Online Form,2020-07-20 00:00:00,Fees,2020-07-20 00:00:00,משרד התיירות,2020-07-28 13:33:56,Justified,8,Treatment Completed
+257,127/20,Online Form,2020-03-29 00:00:00,No Response,2020-07-20 00:00:00,משרד החינוך,2020-10-29 08:33:14,Justified,101,Treatment Completed
+258,130/20,Online Form,2020-01-19 00:00:00,No Response,2020-07-22 00:00:00,משרד הפנים,2020-08-10 09:57:23,Justified,19,Treatment Completed
+259,131/20,Online Form,2020-05-10 00:00:00,Lack of Justification,2020-07-26 00:00:00,משרד המשפטים,2020-11-05 12:15:40,Justified,102,Treatment Completed
+260,132/20,Online Form,2020-07-27 00:00:00,Lack of Justification,2020-07-27 00:00:00,משרד התיירות,2020-08-04 14:38:09,Unjustified,8,Treatment Completed
+261,134/20,Online Form,2020-05-07 00:00:00,Lack of Justification,2020-07-27 00:00:00,רשות מקרקעי ישראל,2020-09-07 12:53:41,Unjustified,42,Treatment Completed
+262,141/20,Online Form,2020-04-23 00:00:00,No Response,2020-07-28 00:00:00,צבא הגנה לישראל,2020-12-03 13:47:01,Justified,128,Treatment Completed
+263,156/20,Email,2020-06-02 00:00:00,No Response,2020-08-02 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-10-26 10:58:27,Justified,85,Treatment Completed
+264,143/20,Online Form,2020-03-18 00:00:00,No Response,2020-08-02 00:00:00,המשרד להגנת הסביבה,2021-07-12 10:31:29,Justified,344,Treatment Completed
+265,146/20,Email,2020-04-21 00:00:00,No Response,2020-08-03 10:07:00,משרד הבריאות,2020-09-16 10:28:54,Justified,44,Treatment Completed
+266,151/20,Online Form,2020-07-04 00:00:00,No Response,2020-08-06 00:00:00,משטרת ישראל,2020-09-16 10:38:26,Unjustified,41,Treatment Completed
+267,158/20,Online Form,2020-01-28 00:00:00,No Response,2020-08-12 00:00:00,המשרד להגנת הסביבה,2020-09-07 15:22:13,Unjustified,26,Treatment Completed
+268,157/20,Online Form,2020-03-23 00:00:00,No Response,2020-08-12 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-09-22 11:51:01,Unjustified,41,Treatment Completed
+269,167/20,Email,2020-03-26 00:00:00,No Response,2020-08-13 00:00:00,משרדי ממשלה שונים בתלונות רוחביות,2020-10-29 15:17:47,Treatment Discontinued,77,Treatment Completed
+270,162/20,Online Form,2020-07-07 00:00:00,No Response,2020-08-13 00:00:00,המשרד להגנת הסביבה,2020-08-27 09:20:54,Unjustified,14,Treatment Completed
+271,159/20,Email,2020-01-07 00:00:00,No Response,2020-08-13 07:28:00,משרד האוצר,2021-04-07 12:58:25,Justified,237,Treatment Completed
+272,160/20,Email,2018-08-12 00:00:00,No Response,2020-08-13 07:32:00,משרד ראש הממשלה,2021-04-07 13:15:11,Justified,237,Treatment Completed
+273,161/20,Email,2019-01-30 00:00:00,No Response,2020-08-13 07:37:00,משרד ראש הממשלה,2021-04-07 13:19:23,Justified,237,Treatment Completed
+274,165/20,Online Form,2020-05-21 00:00:00,No Response,2020-08-16 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-10-18 14:50:52,Justified,63,Treatment Completed
+275,169/20,Online Form,2019-09-18 00:00:00,No Response,2020-08-20 00:00:00,משרד התפוצות,2020-10-14 11:35:09,Justified,55,Treatment Completed
+276,170/20,Online Form,2020-07-01 00:00:00,No Response,2020-08-20 00:00:00,משטרת ישראל,2020-08-27 09:30:56,Unjustified,7,Treatment Completed
+277,171/20,Online Form,2020-02-25 00:00:00,No Response,2020-08-23 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2020-10-20 10:34:20,Partially Justified,58,Treatment Completed
+278,172/20,Online Form,2020-02-09 00:00:00,No Response,2020-08-23 00:00:00,מנהל אזרחי אזור יהודה ושומרון,2020-08-31 14:33:41,Justified,8,Treatment Completed
+279,173/20,Online Form,2020-07-22 00:00:00,No Response,2020-08-24 00:00:00,משרד הבינוי והשיכון,2020-10-12 10:00:58,Treatment Discontinued,49,Treatment Completed
+280,176/20,Online Form,2020-03-23 00:00:00,No Response,2020-08-25 00:00:00,רשות מקרקעי ישראל,2020-09-13 09:57:56,Treatment Discontinued,19,Treatment Completed
+281,177/20,Email,2020-07-29 00:00:00,Lack of Justification,2020-08-26 09:51:00,משטרת ישראל,2020-11-12 08:26:33,Partially Justified,77,Treatment Completed
+282,178/20,Online Form,2020-06-06 00:00:00,No Response,2020-08-27 00:00:00,משרד הבריאות,2020-10-26 11:12:10,Unjustified,60,Treatment Completed
+283,190/20,Online Form,2019-12-22 00:00:00,No Response,2020-08-30 00:00:00,משרד החוץ,2020-11-23 13:03:53,Justified,85,Treatment Completed
+284,191/20,Online Form,2020-05-08 00:00:00,No Response,2020-08-30 00:00:00,משרד הבריאות,2020-11-29 10:06:11,Justified,91,Treatment Completed
+285,193/20,Online Form,2020-01-26 00:00:00,No Response,2020-08-30 00:00:00,משרד הבריאות,2020-11-29 10:08:51,Justified,91,Treatment Completed
+286,189/20,Online Form,2020-01-18 00:00:00,No Response,2020-08-30 00:00:00,משרד הבריאות,2020-11-30 13:19:24,Justified,92,Treatment Completed
+287,187/20,Online Form,2020-07-28 00:00:00,No Response,2020-08-30 00:00:00,משרד החינוך,2020-09-07 13:11:31,Justified,8,Treatment Completed
+288,192/20,Online Form,2020-04-17 00:00:00,No Response,2020-08-30 00:00:00,משרד ראש הממשלה,2021-04-07 13:23:13,Justified,220,Treatment Completed
+289,194/20,Online Form,2020-03-15 00:00:00,No Response,2020-08-30 00:00:00,משרד הבריאות,2021-04-12 10:03:02,Justified,225,Treatment Completed
+290,186/20,Online Form,2020-07-08 00:00:00,No Response,2020-08-30 00:00:00,רשות מקרקעי ישראל,2021-07-12 11:32:59,Justified,316,Treatment Completed
+291,195/20,Online Form,2020-03-10 00:00:00,No Response,2020-08-30 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-10-12 10:05:00,Unjustified,43,Treatment Completed
+292,198/20,Online Form,2020-05-25 00:00:00,No Response,2020-08-31 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2020-09-21 14:02:46,Unjustified,21,Treatment Completed
+293,204/20,Online Form,2020-04-13 00:00:00,No Response,2020-09-01 00:00:00,משרד ראש הממשלה,2020-09-24 12:46:26,Justified,23,Treatment Completed
+294,211/20,Online Form,2020-06-30 00:00:00,No Response,2020-09-03 00:00:00,משרד החקלאות ופיתוח הכפר,2020-09-07 13:57:15,Justified,4,Treatment Completed
+295,215/20,Online Form,2020-05-18 00:00:00,No Response,2020-09-06 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2020-10-12 10:14:51,Justified,36,Treatment Completed
+296,214/20,Online Form,2020-08-06 00:00:00,No Response,2020-09-06 00:00:00,משטרת ישראל,2020-10-28 15:07:17,Unjustified,52,Treatment Completed
+297,218/20,Online Form,2020-06-02 00:00:00,No Response,2020-09-07 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2020-12-02 10:37:06,Justified,86,Treatment Completed
+298,219/20,Online Form,2020-07-28 00:00:00,No Response,2020-09-07 00:00:00,משרד החינוך,2020-11-05 14:23:38,Unjustified,59,Treatment Completed
+299,228/20,Online Form,2020-08-05 00:00:00,No Response,2020-09-09 00:00:00,משרד החינוך,2020-10-26 11:24:38,Justified,47,Treatment Completed
+300,231/20,Online Form,2020-07-13 00:00:00,No Response,2020-09-13 00:00:00,צהל,2020-11-04 12:14:07,Justified,52,Treatment Completed
+301,230/20,Online Form,2020-02-02 00:00:00,No Response,2020-09-13 00:00:00,המשרד להגנת הסביבה,2020-11-09 13:47:44,Justified,57,Treatment Completed
+302,232/20,Online Form,2020-08-08 00:00:00,No Response,2020-09-13 00:00:00,נציבות שירות המדינה,2020-11-10 11:10:06,Justified,58,Treatment Completed
+303,234/20,Online Form,2020-07-13 00:00:00,No Response,2020-09-13 00:00:00,משרד הבינוי והשיכון,2020-09-16 13:20:34,Treatment Discontinued,3,Treatment Completed
+304,233/20,Online Form,2020-07-13 00:00:00,No Response,2020-09-13 00:00:00,משרד הבינוי והשיכון,2020-09-16 14:23:38,Treatment Discontinued,3,Treatment Completed
+305,238/20,Online Form,2020-02-02 00:00:00,No Response,2020-09-16 00:00:00,המשרד להגנת הסביבה,2020-11-09 13:55:28,Justified,54,Treatment Completed
+306,239/20,Online Form,2020-04-27 00:00:00,No Response,2020-09-16 00:00:00,משרד האוצר,2021-04-07 13:40:44,Justified,203,Treatment Completed
+307,236/20,Online Form,2019-12-04 00:00:00,No Response,2020-09-16 00:00:00,צהל,2021-04-07 14:18:43,Justified,203,Treatment Completed
+308,235/20,Online Form,2020-08-05 00:00:00,No Response,2020-09-16 00:00:00,נציבות שירות המדינה,2020-12-02 10:10:26,Justified,77,Treatment Completed
+309,243/20,Online Form,2020-06-19 00:00:00,No Response,2020-09-22 00:00:00,משטרת ישראל,2020-10-12 10:49:20,Justified,20,Treatment Completed
+310,244/20,Online Form,2020-08-16 00:00:00,No Response,2020-09-22 00:00:00,משרד הביטחון,2020-09-23 12:43:58,Treatment Discontinued,1,Treatment Completed
+311,247/20,Online Form,2020-08-22 00:00:00,No Response,2020-09-22 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-10-26 11:41:21,Unjustified,34,Treatment Completed
+312,248/20,Online Form,2020-07-16 00:00:00,No Response,2020-09-23 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-12-23 14:03:46,Justified,91,Treatment Completed
+313,252/20,Online Form,2019-12-02 00:00:00,No Response,2020-09-24 00:00:00,משטרת ישראל,2021-04-07 13:54:12,Unjustified,195,Treatment Completed
+314,254/20,Online Form,2020-03-29 00:00:00,No Response,2020-09-28 00:00:00,משרד הביטחון,2020-10-18 15:10:22,Treatment Discontinued,20,Treatment Completed
+315,256/20,Online Form,2020-07-05 00:00:00,No Response,2020-09-30 00:00:00,משטרת ישראל,2020-12-01 15:06:27,Justified,62,Treatment Completed
+316,268/20,Online Form,2020-03-29 00:00:00,No Response,2020-10-11 00:00:00,משרד הבריאות,2021-05-20 12:31:27,Justified,221,Treatment Completed
+317,267/20,Online Form,2020-07-30 00:00:00,No Response,2020-10-11 00:00:00,רשות החשמל,2020-10-26 12:59:38,Treatment Discontinued,15,Treatment Completed
+318,270/20,Online Form,2020-09-09 00:00:00,No Response,2020-10-11 00:00:00,משרד הכלכלה,2020-10-20 10:15:57,Unjustified,9,Treatment Completed
+319,271/20,Online Form,2020-09-03 00:00:00,No Response,2020-10-13 00:00:00,המינהל לחינוך התיישבותי ועליית הנוער,2020-10-26 12:09:06,Justified,13,Treatment Completed
+320,275/20,Online Form,2020-06-01 00:00:00,No Response,2020-10-14 00:00:00,צהל,2020-12-03 13:37:18,Justified,50,Treatment Completed
+321,276/20,Online Form,2020-07-08 00:00:00,No Response,2020-10-15 00:00:00,צהל,2020-11-05 14:30:35,Justified,21,Treatment Completed
+322,278/20,Online Form,2020-09-02 00:00:00,No Response,2020-10-15 00:00:00,משרד ההתיישבות,2020-11-05 14:35:20,Justified,21,Treatment Completed
+323,281/20,Online Form,2020-09-17 00:00:00,No Response,2020-10-18 00:00:00,הנהלת בתי הדין הרבניים,2020-12-03 10:28:15,Justified,46,Treatment Completed
+324,280/20,Online Form,2020-10-04 00:00:00,Lack of Justification,2020-10-18 00:00:00,הנהלת בתי המשפט,2020-10-27 13:14:45,Treatment Discontinued,9,Treatment Completed
+325,283/20,Online Form,2020-04-27 00:00:00,No Response,2020-10-21 00:00:00,משרד המשפטים,2020-11-10 12:56:50,Justified,20,Treatment Completed
+326,284/20,Online Form,2020-07-06 00:00:00,Lack of Justification,2020-10-21 00:00:00,בית חולים איכילוב,2021-04-28 12:46:45,Justified,189,Treatment Completed
+327,285/20,Online Form,2020-09-23 00:00:00,No Response,2020-10-23 00:00:00,משטרת ישראל,2020-10-27 13:46:11,Unjustified,4,Treatment Completed
+328,288/20,Online Form,2020-05-31 00:00:00,No Response,2020-10-25 00:00:00,משטרת ישראל,2020-12-02 10:15:46,Justified,38,Treatment Completed
+329,292/20,Online Form,2020-09-16 00:00:00,No Response,2020-10-26 00:00:00,משרד התחבורה והבטיחות בדרכים,2021-01-05 13:43:44,Unjustified,71,Treatment Completed
+330,295/20,Online Form,2020-08-24 00:00:00,No Response,2020-10-27 00:00:00,משרד החינוך,2020-11-25 12:06:12,Justified,29,Treatment Completed
+331,297/20,Online Form,2020-06-21 00:00:00,No Response,2020-10-27 00:00:00,משרד החינוך,2020-12-23 15:34:48,Justified,57,Treatment Completed
+332,298/20,Online Form,2020-08-24 00:00:00,No Response,2020-10-28 00:00:00,צהל,2021-04-22 14:30:32,Justified,176,Treatment Completed
+333,299/20,Online Form,2020-08-24 00:00:00,No Response,2020-10-28 00:00:00,רשות מקרקעי ישראל,2020-10-29 12:41:57,Treatment Discontinued,1,Treatment Completed
+334,304/20,Online Form,2020-08-19 00:00:00,No Response,2020-11-02 00:00:00,משרד הבריאות,2020-11-10 08:32:37,Justified,8,Treatment Completed
+335,307/20,Online Form,2020-08-04 00:00:00,No Response,2020-11-02 00:00:00,משרד התרבות והספורט,2020-11-11 10:41:07,Justified,9,Treatment Completed
+336,306/20,Online Form,2020-08-13 00:00:00,No Response,2020-11-02 00:00:00,מתאם פעולות הממשלה בשטחים מתפש,2020-11-11 13:40:56,Justified,9,Treatment Completed
+337,305/20,Online Form,2020-09-21 00:00:00,No Response,2020-11-02 00:00:00,מתאם פעולות הממשלה בשטחים מתפש,2020-11-11 13:47:27,Justified,9,Treatment Completed
+338,303/20,Online Form,2020-07-19 00:00:00,Fees,2020-11-02 00:00:00,משרד המשפטים,2020-11-11 10:19:41,Unjustified,9,Treatment Completed
+339,309/20,Online Form,2020-10-04 00:00:00,No Response,2020-11-03 00:00:00,משטרת ישראל,2021-04-07 15:02:44,Unjustified,155,Treatment Completed
+340,313/20,Online Form,2020-04-01 00:00:00,No Response,2020-11-08 00:00:00,משרד התפוצות,2021-04-08 09:18:54,Justified,151,Treatment Completed
+341,316/20,Online Form,2020-05-24 00:00:00,No Response,2020-11-09 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2021-04-07 15:34:05,Justified,149,Treatment Completed
+342,317/20,Online Form,2020-09-10 00:00:00,No Response,2020-11-09 00:00:00,משרד הכלכלה,2020-11-10 08:21:19,Unjustified,1,Treatment Completed
+343,318/20,Online Form,2020-09-09 00:00:00,No Response,2020-11-09 00:00:00,הרבנות הראשית לישראל,2020-12-23 10:29:04,Unjustified,44,Treatment Completed
+344,333/20,Online Form,2020-10-12 00:00:00,No Response,2020-11-12 00:00:00,משרד הבריאות,2021-05-20 12:19:13,Justified,189,Treatment Completed
+345,334/20,Online Form,2020-10-04 00:00:00,No Response,2020-11-12 00:00:00,רשות שוק ההון הביטוח והחיסכון,2020-12-02 09:44:51,Justified,20,Treatment Completed
+346,332/20,Online Form,2020-10-05 00:00:00,No Response,2020-11-12 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2020-12-23 15:14:23,Justified,41,Treatment Completed
+347,335/20,Online Form,2020-08-04 00:00:00,No Response,2020-11-13 00:00:00,משרד החינוך,2021-01-05 13:55:56,Justified,53,Treatment Completed
+348,338/20,Online Form,2020-01-01 00:00:00,Lack of Justification,2020-11-15 00:00:00,משרד החוץ,2020-12-28 10:53:36,Treatment Discontinued,43,Treatment Completed
+349,339/20,Online Form,2020-09-24 00:00:00,Lack of Justification,2020-11-15 00:00:00,הרבנות הראשית לישראל,2021-01-05 14:04:03,Unjustified,51,Treatment Completed
+350,343/20,Online Form,2020-03-29 00:00:00,No Response,2020-11-16 00:00:00,מנהל אזרחי אזור יהודה ושומרון,2021-07-14 12:36:41,Justified,240,Treatment Completed
+351,340/20,Online Form,2020-08-04 00:00:00,No Response,2020-11-16 00:00:00,צהל,2021-01-06 12:03:15,Justified,51,Treatment Completed
+352,352/20,Online Form,2020-09-30 00:00:00,No Response,2020-11-17 00:00:00,משרד הבריאות,2020-12-23 13:39:34,Justified,36,Treatment Completed
+353,347/20,Online Form,2020-04-26 00:00:00,No Response,2020-11-17 00:00:00,מנהל אזרחי אזור יהודה ושומרון,2021-07-14 12:08:26,Unjustified,239,Treatment Completed
+354,373/20,Online Form,2020-07-23 00:00:00,No Response,2020-11-22 00:00:00,משרד החינוך,2021-01-05 14:19:35,Justified,44,Treatment Completed
+355,375/20,Online Form,2020-08-12 00:00:00,Lack of Justification,2020-11-22 00:00:00,הנהלת בתי הדין הרבניים,2021-06-02 13:20:01,Treatment Discontinued,192,Treatment Completed
+356,383/20,Online Form,2020-09-30 00:00:00,No Response,2020-11-25 00:00:00,רשות שוק ההון הביטוח והחיסכון,2021-04-07 12:52:28,Unjustified,133,Treatment Completed
+357,384/20,Online Form,2020-10-20 00:00:00,No Response,2020-11-25 00:00:00,משרד המשפטים,2021-01-05 14:26:13,Unjustified,41,Treatment Completed
+358,388/20,Online Form,2020-11-04 00:00:00,No Response,2020-11-26 00:00:00,רשות המסים בישראל,2020-12-03 10:45:18,Unjustified,7,Treatment Completed
+359,390/20,Online Form,2020-09-08 00:00:00,No Response,2020-11-30 00:00:00,משרד הבריאות,2020-12-28 11:25:56,Justified,28,Treatment Completed
+360,397/20,Online Form,2020-08-25 00:00:00,No Response,2020-12-01 00:00:00,נציבות שירות המדינה,2021-04-08 09:28:42,Justified,128,Treatment Completed
+361,395/20,Online Form,2020-09-07 00:00:00,No Response,2020-12-01 00:00:00,צהל,2021-06-02 12:21:45,Justified,183,Treatment Completed
+362,396/20,Online Form,2020-10-11 00:00:00,No Response,2020-12-01 00:00:00,נציבות שירות המדינה,2021-06-03 10:44:15,Justified,184,Treatment Completed
+363,399/20,Online Form,2020-09-12 00:00:00,No Response,2020-12-02 00:00:00,משרד הפנים,2021-04-08 10:31:02,Partially Justified,127,Treatment Completed
+364,400/20,Online Form,2020-11-10 00:00:00,No Response,2020-12-02 00:00:00,משרד התחבורה והבטיחות בדרכים,2020-12-03 11:39:37,Unjustified,1,Treatment Completed
+365,401/20,Online Form,2020-09-24 00:00:00,No Response,2020-12-02 00:00:00,הנהלת בתי הדין הרבניים,2020-12-23 14:21:59,Unjustified,21,Treatment Completed
+366,402/20,Online Form,2020-07-29 00:00:00,No Response,2020-12-03 00:00:00,המשרד להגנת הסביבה,2021-01-05 14:35:48,Justified,33,Treatment Completed
+367,406/20,Online Form,2020-08-05 00:00:00,No Response,2020-12-06 00:00:00,משרד התחבורה והבטיחות בדרכים,2021-04-28 14:21:33,Justified,143,Treatment Completed
+368,409/20,Online Form,2020-10-12 00:00:00,No Response,2020-12-07 00:00:00,משרד ראש הממשלה,2021-04-08 11:09:37,Justified,122,Treatment Completed
+369,411/20,Online Form,2020-08-24 00:00:00,No Response,2020-12-07 00:00:00,נציבות שירות המדינה,2021-06-03 11:05:12,Justified,178,Treatment Completed
+370,416/20,Online Form,2020-11-03 00:00:00,No Response,2020-12-09 00:00:00,משרד ראש הממשלה,2021-04-22 09:26:02,Partially Justified,134,Treatment Completed
+371,417/20,Online Form,2020-09-26 00:00:00,No Response,2020-12-09 00:00:00,המשרד לביטחון הפנים,2021-04-07 12:27:01,Justified,119,Treatment Completed
+372,415/20,Online Form,2020-10-12 00:00:00,No Response,2020-12-09 00:00:00,משרד הבריאות,2021-01-06 11:35:00,Justified,28,Treatment Completed
+373,419/20,Online Form,2020-11-09 00:00:00,No Response,2020-12-10 00:00:00,נציבות שירות המדינה,2021-06-03 11:11:43,Justified,175,Treatment Completed
+374,422/20,Online Form,2020-10-07 00:00:00,No Response,2020-12-12 00:00:00,משרד הבריאות,2021-04-12 11:17:08,Justified,121,Treatment Completed
+375,424/20,Online Form,2020-10-06 00:00:00,No Response,2020-12-13 00:00:00,נציבות שירות המדינה,2021-04-14 11:24:26,Justified,122,Treatment Completed
+376,423/20,Online Form,2020-10-06 00:00:00,No Response,2020-12-13 00:00:00,נציבות שירות המדינה,2021-06-03 11:50:07,Justified,172,Treatment Completed
+377,429/20,Online Form,2020-11-26 00:00:00,No Response,2020-12-15 00:00:00,שירות בתי הסוהר,2021-04-08 13:10:10,Treatment Discontinued,114,Treatment Completed
+378,428/20,Online Form,2020-11-10 00:00:00,No Response,2020-12-15 00:00:00,רשות האכיפה והגבייה,2021-01-06 11:51:35,Unjustified,22,Treatment Completed
+379,432/20,Online Form,2020-09-24 00:00:00,No Response,2020-12-16 00:00:00,משרד החקלאות ופיתוח הכפר,2021-04-22 09:36:00,Justified,127,Treatment Completed
+380,435/20,Online Form,2020-04-12 00:00:00,No Response,2020-12-20 00:00:00,נציבות שירות המדינה,2021-06-03 12:31:22,Justified,165,Treatment Completed
+381,443/20,Online Form,2020-07-21 00:00:00,No Response,2020-12-27 00:00:00,צהל,2021-04-22 09:46:57,Justified,116,Treatment Completed
+382,446/20,Online Form,2020-07-19 00:00:00,No Response,2020-12-28 00:00:00,משרד המשפטים,2021-04-14 11:45:58,Justified,107,Treatment Completed
+383,447/20,Online Form,2020-08-20 00:00:00,No Response,2020-12-28 00:00:00,המשרד להגנת הסביבה,2021-05-11 15:33:39,Justified,134,Treatment Completed
+384,444/20,Online Form,2020-10-26 00:00:00,No Response,2020-12-28 00:00:00,נציבות שירות המדינה,2021-06-03 13:42:51,Justified,157,Treatment Completed
+385,7/21,Online Form,2020-11-30 00:00:00,No Response,2021-01-04 00:00:00,רשות מקרקעי ישראל,2021-04-18 10:00:45,Partially Justified,104,Treatment Completed
+386,4/21,Online Form,2020-08-13 00:00:00,No Response,2021-01-04 00:00:00,המשרד להגנת הסביבה,2021-06-06 12:24:09,Partially Justified,153,Treatment Completed
+387,5/21,Online Form,2020-01-15 00:00:00,No Response,2021-01-04 00:00:00,המשרד להגנת הסביבה,2021-04-14 12:59:25,Justified,100,Treatment Completed
+388,6/21,Online Form,2020-01-28 00:00:00,No Response,2021-01-04 00:00:00,המשרד להגנת הסביבה,2021-04-14 14:47:25,Justified,100,Treatment Completed
+389,9/21,Online Form,2020-11-30 00:00:00,No Response,2021-01-05 00:00:00,משרד האוצר,2021-06-03 13:52:38,Justified,149,Treatment Completed
+390,11/21,Online Form,2020-12-06 00:00:00,No Response,2021-01-07 00:00:00,מתאם פעולות הממשלה בשטחים מתפש,2021-04-18 10:17:12,Unjustified,101,Treatment Completed
+391,12/21,Online Form,2020-12-06 00:00:00,No Response,2021-01-07 00:00:00,מתאם פעולות הממשלה בשטחים מתפש,2021-04-18 10:26:38,Unjustified,101,Treatment Completed
+392,13/21,Online Form,2020-10-22 00:00:00,No Response,2021-01-10 00:00:00,משרד החינוך,2021-04-08 11:46:04,Justified,88,Treatment Completed
+393,16/21,Online Form,2020-12-14 00:00:00,No Response,2021-01-12 00:00:00,משרד התחבורה והבטיחות בדרכים,2021-04-08 12:31:42,Unjustified,86,Treatment Completed
+394,17/21,Online Form,2020-08-16 00:00:00,No Response,2021-01-14 00:00:00,משרד ראש הממשלה,2021-04-11 10:17:32,Justified,87,Treatment Completed
+395,18/21,Online Form,2020-11-11 00:00:00,No Response,2021-01-15 00:00:00,משרד המשפטים,2021-04-18 11:14:17,Unjustified,93,Treatment Completed
+396,20/21,Online Form,2020-12-01 00:00:00,No Response,2021-01-17 00:00:00,משרד ראש הממשלה,2021-04-11 10:36:35,Justified,84,Treatment Completed
+397,23/21,Online Form,2020-12-17 00:00:00,No Response,2021-01-18 00:00:00,משרד ראש הממשלה,2021-04-11 11:07:02,Unjustified,83,Treatment Completed
+398,29/21,Online Form,2020-11-16 00:00:00,No Response,2021-01-19 00:00:00,צהל,2021-04-18 10:30:59,Justified,89,Treatment Completed
+399,31/21,Online Form,2020-11-18 00:00:00,No Response,2021-01-20 00:00:00,משרד הבריאות,2021-04-12 11:25:01,Justified,82,Treatment Completed
+400,34/21,Online Form,2020-12-17 00:00:00,No Response,2021-01-21 00:00:00,רשות האוכלוסין וההגירה,2021-04-11 11:46:25,Unjustified,80,Treatment Completed
+401,35/21,Online Form,2020-10-27 00:00:00,No Response,2021-01-21 00:00:00,משרד העבודה הרווחה והשירותים החברתיים,2021-04-11 12:36:29,Unjustified,80,Treatment Completed
+402,36/21,Online Form,2020-12-17 00:00:00,No Response,2021-01-22 00:00:00,רשות האוכלוסין וההגירה,2021-06-02 11:04:13,Unjustified,131,Treatment Completed
+403,41/21,Online Form,2020-11-18 00:00:00,No Response,2021-01-26 00:00:00,משרד האוצר,2021-04-18 10:50:09,Justified,82,Treatment Completed
+404,44/21,Online Form,2021-01-18 00:00:00,Lack of Justification,2021-01-27 00:00:00,משרד התקשורת,2021-04-21 11:34:03,Unjustified,84,Treatment Completed
+405,48/21,Online Form,2020-12-20 00:00:00,No Response,2021-01-31 00:00:00,משרד ראש הממשלה,2021-06-03 12:38:52,Justified,123,Treatment Completed
+406,57/21,Online Form,2021-01-05 00:00:00,No Response,2021-02-08 00:00:00,משרד החינוך,2021-04-11 13:06:32,Justified,62,Treatment Completed
+407,59/21,Online Form,2020-12-14 00:00:00,No Response,2021-02-09 00:00:00,רשות מקרקעי ישראל,2021-04-18 11:34:23,Partially Justified,68,Treatment Completed
+408,60/21,Online Form,2020-08-26 00:00:00,No Response,2021-02-09 00:00:00,צהל,2021-07-14 10:59:02,Justified,155,Treatment Completed
+409,66/21,Online Form,2020-12-26 00:00:00,No Response,2021-02-15 00:00:00,משרד החינוך,2021-03-14 15:36:48,Treatment Discontinued,27,Treatment Completed
+410,75/21,Online Form,2021-01-14 00:00:00,No Response,2021-02-18 00:00:00,משרד החינוך,2021-04-11 13:41:50,Justified,52,Treatment Completed
+411,77/21,Online Form,2021-01-20 00:00:00,No Response,2021-02-21 00:00:00,צהל,2021-06-02 14:53:06,Unjustified,101,Treatment Completed
+412,81/21,Online Form,2020-12-08 00:00:00,No Response,2021-02-22 00:00:00,משרד ראש הממשלה,2021-04-12 10:09:29,Justified,49,Treatment Completed
+413,82/21,Online Form,2020-11-25 00:00:00,No Response,2021-02-22 00:00:00,משרד הבריאות,2021-04-12 11:55:23,Justified,49,Treatment Completed
+414,85/21,Online Form,2020-12-23 00:00:00,No Response,2021-02-23 00:00:00,הרבנות הראשית לישראל,2021-07-14 11:12:53,Justified,141,Treatment Completed
+415,87/21,Online Form,2021-01-21 00:00:00,No Response,2021-02-23 00:00:00,משרד התקשורת,2021-04-11 14:41:29,Unjustified,47,Treatment Completed
+416,90/21,Online Form,2017-04-06 00:00:00,No Response,2021-03-01 00:00:00,משרד הביטחון,2021-07-14 12:38:55,Justified,135,Treatment Completed
+417,95/21,Online Form,2020-10-08 00:00:00,No Response,2021-03-02 00:00:00,משרד החקלאות ופיתוח הכפר,2021-04-11 16:14:51,Justified,40,Treatment Completed
+418,97/21,Online Form,2021-01-04 00:00:00,No Response,2021-03-04 00:00:00,משרד הפנים,2021-04-12 09:58:45,Unjustified,39,Treatment Completed
+419,98/21,Online Form,2021-01-25 00:00:00,No Response,2021-03-05 00:00:00,משרד החינוך,2021-06-02 14:26:58,Justified,89,Treatment Completed
+420,100/21,Online Form,2021-02-02 00:00:00,No Response,2021-03-07 00:00:00,משרד התקשורת,2021-04-07 11:40:26,Unjustified,31,Treatment Completed
+421,102/21,Online Form,2021-02-03 00:00:00,No Response,2021-03-08 00:00:00,משרד הבריאות,2021-04-14 15:21:06,Unjustified,37,Treatment Completed
+422,105/21,Online Form,2020-12-24 00:00:00,No Response,2021-03-09 00:00:00,משרד החינוך,2021-04-07 12:10:01,Justified,29,Treatment Completed
+423,107/21,Online Form,2021-02-17 00:00:00,Fees,2021-03-09 00:00:00,משרד התיירות,2021-04-25 11:48:19,Unjustified,47,Treatment Completed
+424,108/21,Online Form,2021-01-14 00:00:00,No Response,2021-03-10 00:00:00,הרשות הארצית לכבאות והצלה,2021-06-02 13:53:21,Justified,84,Treatment Completed
+425,109/21,Online Form,2020-12-16 00:00:00,No Response,2021-03-12 00:00:00,רשות מקרקעי ישראל,2021-07-14 11:46:45,Justified,124,Treatment Completed
+426,111/21,Online Form,2021-03-09 00:00:00,No Response,2021-03-15 00:00:00,רשות מקרקעי ישראל,2021-06-07 09:57:40,Unjustified,84,Treatment Completed
+427,118/21,Online Form,2021-02-17 00:00:00,No Response,2021-03-21 00:00:00,משרד החינוך,2021-06-03 10:52:26,Justified,74,Treatment Completed
+428,121/21,Online Form,2021-01-15 00:00:00,No Response,2021-03-22 00:00:00,משרד הבינוי והשיכון,2021-05-12 12:25:47,Partially Justified,51,Treatment Completed
+429,122/21,Online Form,2021-02-16 00:00:00,No Response,2021-03-22 00:00:00,משרד החינוך,2021-04-22 10:27:09,Justified,31,Treatment Completed
+430,124/21,Online Form,2020-10-29 00:00:00,No Response,2021-03-22 00:00:00,משרד הבריאות,2021-04-12 12:42:44,Unjustified,21,Treatment Completed
+431,127/21,Online Form,2021-01-16 00:00:00,No Response,2021-03-25 00:00:00,משרד הבריאות,2021-04-21 14:57:10,Unjustified,27,Treatment Completed
+432,132/21,Online Form,2021-02-21 00:00:00,No Response,2021-04-04 00:00:00,רשות מקרקעי ישראל,2021-06-03 13:09:22,Partially Justified,60,Treatment Completed
+433,133/21,Online Form,2021-03-03 00:00:00,No Response,2021-04-04 00:00:00,רשות האוכלוסין וההגירה,2021-06-24 12:49:08,Justified,81,Treatment Completed
+434,137/21,Online Form,2021-03-04 00:00:00,No Response,2021-04-04 00:00:00,רשות שוק ההון הביטוח והחיסכון,2021-04-18 12:51:58,Unjustified,14,Treatment Completed
+435,144/21,Online Form,2020-09-14 00:00:00,No Response,2021-04-05 00:00:00,המשרד להגנת הסביבה,2021-06-03 13:57:34,Justified,59,Treatment Completed
+436,142/21,Online Form,2020-11-04 00:00:00,No Response,2021-04-05 00:00:00,המשרד להגנת הסביבה,2021-06-27 11:25:56,Treatment Discontinued,83,Treatment Completed
+437,146/21,Online Form,2021-02-15 00:00:00,No Response,2021-04-05 00:00:00,רשות מקרקעי ישראל,2021-07-14 12:12:00,Unjustified,100,Treatment Completed
+438,166/21,Online Form,2021-02-14 00:00:00,Lack of Justification,2021-04-11 00:00:00,רשות מקרקעי ישראל,2021-04-18 13:25:13,Treatment Discontinued,7,Treatment Completed
+439,168/21,Online Form,2021-03-10 00:00:00,No Response,2021-04-12 00:00:00,נציבות שירות המדינה,2021-04-22 14:47:49,Unjustified,10,Treatment Completed
+440,170/21,Online Form,2021-03-09 00:00:00,No Response,2021-04-14 00:00:00,משרד התחבורה והבטיחות בדרכים,2021-07-14 10:55:47,Justified,91,Treatment Completed
+441,173/21,Online Form,2021-02-23 00:00:00,No Response,2021-04-16 00:00:00,משרד הבריאות,2021-06-02 11:53:25,Unjustified,47,Treatment Completed
+442,179/21,Online Form,2019-01-10 00:00:00,No Response,2021-04-22 00:00:00,משרד החקלאות ופיתוח הכפר,2021-06-03 12:45:31,Justified,42,Treatment Completed
+443,186/21,Online Form,2021-03-22 00:00:00,No Response,2021-04-25 00:00:00,משרד החינוך,2021-06-02 12:13:49,Unjustified,38,Treatment Completed
+444,185/21,Online Form,2021-03-22 00:00:00,No Response,2021-04-25 00:00:00,משרד החינוך,2021-06-03 12:10:59,Unjustified,39,Treatment Completed

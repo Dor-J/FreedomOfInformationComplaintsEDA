@@ -1,0 +1,643 @@
+_id,Complaint Number,Initial Request Date for Information,Complaint Receipt Date,Channel of Receipt,Complainant Type,Complaint Subject,Entity Complained Against,Freedom of Information Request Subject,Status,Decision,Closing Date,Number of Treatment Days
+1, 240/21,2021-01-03,2021-09-05,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,"דוח מוניטור בנושא יישום דו""ח מבקר שנתי )2010 )61ב""",Treatment Completed,Justified,2021-06-20,42
+2, 251/21,2020-10-23,2021-05-14,Online Form,אזרח,No Response,המרכז הירושלמי לבריאות הנפש,נתונים על מחלקות פסיכיאטריות ,Treatment Completed,Justified,2021-11-17,187
+3, 259/21,2021-04-20,2021-05-19,Online Form,אזרח,No Response,משרד האוצר,פרמיות סטודנטים,Treatment Completed,Justified,2021-08-30,103
+4, 301/21,2021-06-06,2021-08-06,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,אי מתן מענה סמוכין 273664 ,Treatment Completed,Unjustified,2021-06-09,1
+5, 328/21,2020-02-23,2021-04-07,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,דישון KCL אורגני לשנה בקרקעות ישראל,Treatment Completed,Partially Justified,2021-07-21,17
+6, 329/21,2021-02-06,2021-04-07,Online Form,אזרח,No Response,הנהלת בתי המשפט,אי המצאת אסמכתאות ללא סיבה מוצדקת בחוק,Treatment Completed,Unjustified,2021-08-30,57
+7, 345/21,2021-11-07,2021-07-13,Online Form,אזרח,No Response,רשות המים והביוב,אי מתן מענה סמוכין 279542 11.07.21 ,Treatment Completed,Unjustified,2021-07-21,8
+8, 353/21,2021-06-04,2021-07-19,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,יומני פגישות התייעצות לדוח RIA בקשה 260862,Treatment Completed,Justified,2022-05-30,315
+9, 355/21,2020-09-24,2021-07-20,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,מניעויות דיינים,Treatment Completed,Unjustified,2022-03-09,232
+10, 363/21,2021-04-20,2021-07-21,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,פגישות נציגי משרד התחבורה לדוח הria בקשה 264938,Treatment Completed,Justified,2022-05-26,309
+11, 364/21,2021-04-04,2021-07-21,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,רישום דגם עגורן בפנקס עגורנים בקשה 260898,Treatment Completed,Justified,2022-05-26,309
+12, 367/21,2021-04-04,2021-07-23,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,יומני פגישות עובדי מינהל הבטיחות לדוח הria,Treatment Completed,Justified,2021-08-30,38
+13, 382/21,2021-07-14,2021-06-08,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,מי הוא גורם מקצוע למתן תשובה במנהל הבטיחות,Treatment Completed,Unjustified,2021-08-09,3
+14, 466/21,2021-01-09,2021-01-10,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,רשימת תיקים שטרם נסגרו,Treatment Completed,Justified,2022-03-09,159
+15, 372/22,2022-02-06,2022-08-31,Email,אזרח,No Response,רשות המסים בישראל,אירועי שומר החומות - פירוט המידע בדבר פיצויים ששולמו או שהוחלט כי ישולמו בגין נזקי רכוש,Treatment Completed,Justified,2023-05-04,242
+16, 62/23,2022-08-24,2023-02-18,Email,אזרח,No Response,משרד הבריאות,בקשה לקבלת תקנה,Treatment Completed,Justified,2023-04-20,60
+17, 159/23,2023-03-17,2023-04-05,Email,אזרח,No Response,הרשות לאכיפה במקרקעין  משרד האוצר,קבלת מידע אודות עסק חוות השלושה,Treatment Completed,Justified,2023-05-09,5
+18, 237/23,2023-12-01,2023-06-20,Email,אזרח,No Response,משרד הבינוי והשיכון,הגדרת מיצוי כושר השתכרות,Treatment Completed,Justified,2023-06-28,8
+19, 142/24,2023-09-13,2024-02-05,Email,עמותה,No Response,המשרד לשירותי דת,מינוי נשים לתפקידים בכירים במועצות דתיות,Unknown,,2024-05-29,103
+20, 143/24,2024-03-13,2024-01-05,Email,אזרח,No Response,משרד החינוך,היקף סל שירותים,Treatment Completed,Justified,2024-05-22,20
+21, 218/24,2024-03-26,2024-06-22,Online Form,אזרח,No Response,משרד החינוך,תמריצים לעובדי ההוראה ים המלח,Treatment Completed,Justified,2024-06-26,3
+22, 190/21,2021-04-18,2021-04-26,Online Form,אזרח,Lack of Justification,מועצה אזורית אלונה,בדיקה בדיקה111,Treatment Completed,Justified,2022-08-03,464
+23, 191/21,2021-04-18,2021-04-26,Email,אזרח,Lack of Justification,בית חולים אסף הרופא,בדיקה בדיקה,Treatment Completed,Partially Justified,2024-05-27,1127
+24, 200/21,2021-10-02,2021-04-27,Online Form,אזרח,No Response,משטרת ישראל,רשימת כל התלונות שהגיש המתלונן למשטרה נגד גרושתו.,Treatment Completed,Unjustified,2022-01-27,276
+25, 204/21,2021-02-21,2021-04-27,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה על בקשת חופש מידע,Treatment Completed,Unjustified,2021-05-04,7
+26, 288/21,2021-01-04,2021-03-06,Online Form,עמותה,No Response,משרד הבריאות,שיווק תמרוקים וניסויים בבעלי חיים,Treatment Completed,Unjustified,2021-06-22,19
+27, 304/21,2021-04-04,2021-10-06,Online Form,אזרח,No Response,משרד האוצר,דרגת שכר בשירות המדינה,Treatment Completed,Justified,2021-11-16,159
+28, 318/21,2020-11-23,2021-06-22,Online Form,עמותה,No Response,משרד ראש הממשלה,החלטת ועדת השרים לביטחון לאומי ב/44 מיום 20.6.10,Treatment Completed,Justified,2021-12-14,175
+29, 323/21,2021-11-04,2021-06-27,Online Form,אחר,No Response,משרד הרווחה והשירותים החברתיים,יישום תקנה 3(ב) לתקנות הבטיחות בעבודה,Treatment Completed,Justified,2022-03-10,256
+30, 325/21,2021-02-03,2021-06-28,Online Form,עמותה,No Response,הנהלת בתי הדין הרבניים,הליכי בירור יהדות,Treatment Completed,Justified,2022-03-10,255
+31, 405/21,2021-04-28,2021-08-24,Online Form,אזרח,No Response,משרד האוצר,מידע לגבי מערכת מלשינון,Treatment Completed,Justified,2021-08-30,7
+32, 423/21,2021-08-24,2021-05-09,Online Form,עמותה,Fees,הרשות הארצית לכבאות והצלה,מקרי הצתה שנחקרו בשנים 2015-2021 בחשד להצתה,Treatment Completed,Unjustified,2022-03-10,187
+33, 484/21,2021-02-09,2021-10-15,Online Form,עמותה,Lack of Justification,משרד הבינוי והשיכון,דיור ציבורי מכר דירות,Treatment Completed,Unjustified,2022-03-10,147
+34, 504/21,2021-08-16,2021-10-24,Online Form,עמותה,No Response,משרד המשפטים,מספר כתבי אישום שהגישה פרקליטות המדינה בשנים 2021-2015 בגין הצתה לפי סעיף 448 (א) לחוק העונשין.,Treatment Completed,Justified,2022-03-16,143
+35, 475/21,2021-06-21,2021-08-10,Online Form,אזרח,No Response,משרד החינוך,בקשת מידע על תשלומי הורים בחטיבת ביניים בר לב בכפר,Treatment Completed,Justified,2022-02-09,124
+36, 457/21,2021-07-22,2021-09-29,Online Form,אזרח,No Response,רשות המסים בישראל,מתן מידע אודות חברת מעטים,Treatment Completed,Unjustified,2022-03-10,162
+37, 343/21,2021-02-23,2021-12-07,Online Form,אזרח,No Response,משרד הבריאות,מספר המונשמים בכל בתי החולים בשנים האחרונות,Treatment Completed,Justified,2022-03-16,247
+38, 342/21,2021-04-27,2021-12-07,Online Form,אזרח,No Response,משרד הפנים,"אישורי מנכל משרד הפנים והממונה ביו""ש""",Treatment Completed,Justified,2021-08-30,49
+39, 341/21,2021-04-27,2021-12-07,Online Form,אזרח,No Response,משרד האוצר,"אישורי מנכל משרד האוצר לוועד מקומי שערי תקווה""",Treatment Completed,Unjustified,2022-02-14,217
+40, 295/21,2021-01-28,2021-06-06,Online Form,אזרח,No Response,מנהל אזרחי אזור יהודה ושומרון,חאן לבונה,Treatment Completed,Justified,2021-08-16,71
+41, 294/21,2021-09-02,2021-06-06,Online Form,עמותה,No Response,משרד ראש הממשלה,מערך הגיור,Treatment Completed,Justified,2021-08-30,85
+42, 290/21,2021-01-26,2021-05-06,Online Form,אזרח,No Response,המשרד להגנת הסביבה,שיעורי מחזור של בקבוקים גדולים,Treatment Completed,Justified,2021-07-28,54
+43, 286/21,2021-02-13,2021-02-06,Online Form,אזרח,No Response,משרד ראש הממשלה,גיור (שתי בקשות שונות),Treatment Completed,Justified,2021-08-18,77
+44, 284/21,2021-05-27,2021-05-31,Online Form,אזרח,No Response,משרד התיירות,מידע על החברות שזכו במכרז להבאת תיירים מחוסנים,Treatment Completed,Unjustified,2021-07-07,37
+45, 270/21,2021-08-04,2021-05-24,Online Form,אזרח,No Response,משרד התקשורת,החלטה להיטל קנס על חברת הדואר,Treatment Completed,Unjustified,2021-11-17,177
+46, 223/21,2020-10-25,2021-01-05,Online Form,אזרח,No Response,המרכז הרפואי לבריאות הנפש מעלה הכרמל,נתונים על מחלקות פסיכיאטריות ,Treatment Completed,Justified,2021-11-17,200
+47, 222/21,2020-10-27,2021-01-05,Online Form,אזרח,No Response,מרכז בריאות הנפש מזור,נתונים על מחלקות פסיכיאטריות ,Treatment Completed,Justified,2021-11-17,200
+48, 221/21,2020-10-29,2021-01-05,Online Form,אזרח,No Response,מרכז בריאות הנפש באר שבע,נתונים על מחלקות פסיכיאטריות ,Treatment Completed,Justified,2021-11-17,200
+49, 220/21,2020-10-29,2021-01-05,Online Form,אזרח,No Response,המרכז לבריאות הנפש באריעקב נסציונה מבן שבס,נתונים על מחלקות פסיכיאטריות ,Treatment Completed,Justified,2021-11-17,200
+50, 218/21,2020-10-29,2021-01-05,Online Form,אזרח,No Response,המרכז לבריאות הנפש שער מנשה,נתונים על מחלקות פסיכיאטריות ,Treatment Completed,Justified,2021-11-17,200
+51, 217/21,2020-11-17,2021-01-05,Online Form,אזרח,No Response,בית חולים רמבם,נתונים על מחלקות פסיכיאטריות ,Treatment Completed,Unjustified,2021-05-23,22
+52, 571/21,2021-09-08,2021-02-11,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,"נוהל הטיפול"" של רישום ילד שנולד בחוץ לארץ לאזרחים ישראליים""",Treatment Completed,Unjustified,2021-11-24,23
+53, 572/21,2021-11-04,2021-02-11,Online Form,אחר,No Response,צהל,מידע לגבי טיפול צה''ל בחיילים שהורשעו בעבירות סמים,Treatment Completed,Justified,2022-03-28,146
+54, 575/21,2021-05-26,2021-08-11,Online Form,אזרח,No Response,המשרד להגנת הסביבה,"רשימת דוחות במסגרת יישום אזור אוויר נקי בחיפה""",Treatment Completed,Justified,2022-02-07,91
+55, 577/21,2021-08-24,2021-09-11,Online Form,אזרח,No Response,משרד החינוך,"עמידה בנהלי חוזרי מנכל - לימודי יסוד""",Treatment Completed,Justified,2022-02-07,90
+56, 580/21,2021-12-08,2021-11-16,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,תקצוב משרד התחבורה פרויקטים תחבורתיים וסובסידיות ב,Treatment Completed,Justified,2022-02-09,85
+57, 585/21,2021-09-30,2021-11-22,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,ישבת  דיינים בבתי דין,Treatment Completed,Justified,2022-03-24,122
+58, 266/22,2022-07-04,2022-06-15,Email,אזרח,No Response,משרד הבריאות,רישיון תמרוק ל- listerine,Treatment Completed,Justified,2022-08-01,46
+59, 315/22,2022-06-27,2022-07-28,Email,אזרח,No Response,משרד הבריאות,אי קבלת מענה לפנייה 645414,Treatment Completed,Unjustified,2022-08-10,13
+60, 328/22,2022-04-04,2022-06-08,Email,אזרח,Lack of Justification,משרד הבינוי והשיכון,קבלת מסמכים לפרויקט מחיר למשתכן שבירו רמת גן,Treatment Completed,Justified,2024-01-24,535
+61, 383/22,2022-02-21,2022-11-09,Email,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,פרוטוקולים - תחנה מרכזית תל אביב,Treatment Completed,Justified,2023-07-12,304
+62, 467/22,2022-12-08,2022-04-12,Email,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,נתוני זיהום אוויר חברת קארדאטא בקשת מידע מס' 336640,Treatment Completed,Justified,2023-03-09,94
+63, 17/23,2022-09-20,2023-10-01,Email,אזרח,No Response,משרד ההתיישבות,תמיכה בגרעיני משימה,Treatment Completed,Justified,2023-02-19,39
+64, 18/23,2022-08-15,2023-10-01,Email,אזרח,No Response,משרד החינוך,בקשת מידע על ערך הנקודה במספר תקנות,Treatment Completed,Justified,2023-02-09,29
+65, 128/23,2023-01-19,2023-03-27,Email,אזרח,Lack of Justification,משרד הכלכלה,מפת חלוקת קרקעות הודיה,Treatment Completed,Unjustified,2023-04-20,23
+66, 156/23,2023-06-03,2023-03-05,Email,אזרח,No Response,צהל,אסמכתאות לקיום הכרזה כשטח אש,Treatment Completed,Justified,2023-05-24,21
+67, 250/23,2020-11-15,2023-06-19,Email,אזרח,No Response,המשרד להגנת הסביבה,מטרדי ריח,Treatment Completed,Justified,2023-08-08,42
+68, 314/23,2023-10-03,2023-06-08,Email,אזרח,No Response,משרד הבריאות,הנחיות המשרד,Treatment Completed,Partially Justified,2024-01-24,169
+69, 270/23,2022-06-19,2023-10-07,Email,אזרח,No Response,משרד הבריאות,"תנאי מכרז קול הבריאות""""",Treatment Completed,Justified,2023-08-10,29
+70, 408/23,2022-03-08,2023-11-09,Online Form,אזרח,No Response,משרד הבריאות,תקציבי פרסום,Treatment Completed,Justified,2024-01-10,120
+71, 409/23,2023-02-20,2023-11-09,Online Form,אזרח,No Response,משרד הבריאות,שיתוק רפה חד,Treatment Completed,Justified,2024-01-10,120
+72, 410/23,2022-09-28,2023-11-09,Online Form,אזרח,No Response,משרד הבריאות,מסקנות ועדה,Treatment Completed,Justified,2024-01-10,120
+73, 183/23,2023-03-23,2023-08-05,Email,אזרח,No Response,רשות שוק ההון הביטוח והחיסכון,חוזרי המפקח על הביטוח,Treatment Completed,Justified,2023-06-13,33
+74, 413/23,2023-01-29,2023-07-25,Online Form,עמותה,No Response,משרד העבודה,פעולות אכיפה של מינהל הבטיחות,Treatment Completed,Justified,2024-04-08,209
+75, 25/24,2023-07-30,2024-01-23,Email,אזרח,No Response,משרד החינוך,"החלת אופק חדש על החינוך המוכשר""",Treatment Completed,Justified,2024-02-26,33
+76, 98/24,2023-07-17,2024-03-17,Online Form,אזרח,No Response,משרד העבודה,מפעילי עגורן צריח - מנופאים,Treatment Completed,Unjustified,2024-05-09,52
+77, 100/24,2024-02-20,2024-03-20,Email,אזרח,No Response,משרד הפנים,תיקי פיקוח,Treatment Completed,Unjustified,2024-03-20,0
+78, 122/24,2024-08-02,2024-11-04,Online Form,עמותה,No Response,צהל,"גיוס מלשביות וועדות ערר""",Treatment Completed,Justified,2024-06-20,66
+79, 172/23,2023-02-14,2023-09-05,Email,אזרח,No Response,הרשות הארצית לכבאות והצלה,שריפות פסולת,Treatment Completed,Justified,2023-05-31,22
+80, 362/22,2022-01-20,2022-08-25,Email,עמותה,No Response,משרד ראש הממשלה,נתונים על פעילות מערך הגיור,Treatment Completed,Justified,2022-09-14,20
+81, 272/22,2022-10-04,2022-06-20,Email,חברה,No Response,משרד העבודה,מפקחי עבודה פעילים ותאריכי הסמכה,Treatment Completed,Justified,2022-08-01,42
+82, 251/22,2022-04-26,2022-01-06,Email,אזרח,Lack of Justification,משטרת ישראל,תלונות שהוגשו על ידי עיריית נס ציונה על אי שליחת ילדים למסגרת חינוכית,Treatment Completed,Unjustified,2022-06-13,4
+83, 250/22,2022-03-02,2022-07-06,Email,אזרח,No Response,משרד הבריאות,"דוח הוועדה בנושא גזענות, אפליה והדרה במערכת הבריאות",Treatment Completed,Justified,2022-08-01,53
+84, 24/22,2021-07-11,2022-01-20,Online Form,עמותה,No Response,משרד החינוך,תקצוב ארגוני המורים,Treatment Completed,Justified,2022-02-14,25
+85, 234/22,2022-06-02,2022-05-31,Online Form,עמותה,No Response,משרד העבודה,אכיפת איסור העסקה ביום המנוחה,Treatment Completed,Justified,2022-07-19,49
+86, 205/22,2022-12-01,2022-11-05,Email,אזרח,No Response,משרד המשפטים,מידע לעניין נזקי גוף משטרת ישראל,Treatment Completed,Unjustified,2022-05-23,11
+87, 407/23,2022-12-25,2023-12-09,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,תקציבי פרסום,Treatment Completed,Justified,2024-02-29,170
+88, 77/23,2022-08-31,2023-02-03,Online Form,אזרח,No Response,משרד החינוך,ציוני בגרות,Treatment Completed,Justified,2023-03-29,27
+89, 567/21,2021-08-26,2021-10-31,Online Form,אזרח,No Response,רשות המסים בישראל,שאלות בנושא רשימון ייצוא מרוכז,Treatment Completed,Unjustified,2021-11-07,7
+90, 213/22,2022-02-22,2022-05-16,Online Form,עמותה,No Response,משרד הבריאות,מס' פניה 651507,Treatment Completed,Justified,2022-06-07,22
+91, 233/22,2021-12-22,2022-05-30,Email,אזרח,No Response,המשרד להגנת הסביבה,מידע על אתר פסולת פיראטי,Treatment Completed,Justified,2022-07-12,43
+92, 255/23,2022-07-11,2023-01-07,Online Form,עמותה,No Response,מנהל אזרחי אזור יהודה ושומרון,שריפות פסולת ואכיפה סביבתית,Treatment Completed,Justified,2023-09-11,72
+93, 298/22,2022-03-31,2022-12-07,Email,אזרח,Lack of Justification,רשות המסים בישראל,עסקת הפקעת מקרקעין - מתחם פיכמן חולון,Treatment Completed,Unjustified,2022-08-11,24
+94, 70/24,2023-09-08,2024-03-03,Online Form,עמותה,No Response,משרד הבריאות,העתק הסכם משרד הבריאות,Treatment Completed,Justified,2024-04-18,46
+95, 635/21,2021-10-26,2021-12-27,Online Form,אזרח,No Response,משרד הבריאות,אי מתן מענה לפנייה דרך חוק חופש המידע,Treatment Completed,Justified,2022-02-09,44
+96, 307/22,2022-06-20,2022-07-21,Email,אזרח,No Response,משרד החינוך,אופן החלת חוק חינוך חובה וחינם,Treatment Completed,Justified,2022-09-14,55
+97, 495/23,2022-12-25,2023-12-14,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,פרסום מזון וצער בעלי חיים,Treatment Completed,Justified,2024-03-18,95
+98, 22/22,2021-09-30,2022-01-19,Online Form,אזרח,No Response,משרד הבריאות,כמות ניפוקי קנאביס רפואי בפועל,Treatment Completed,Justified,2022-05-26,127
+99, 496/22,2022-02-10,2022-12-23,Online Form,אזרח,No Response,שירות בתי הסוהר,בקשת מידע,Treatment Completed,Unjustified,2022-12-28,5
+100, 377/22,2022-05-30,2022-06-09,Email,אזרח,Lack of Justification,משרד החוץ,פרוטוקול ישיבה מ02/2022,Treatment Completed,Unjustified,2023-05-04,240
+101, 329/22,2021-06-20,2022-09-08,Online Form,אחר,No Response,משרד המשפטים,"מסמכים שונים -יועמש""",Treatment Completed,Justified,2023-12-31,509
+102, 114/24,2024-01-17,2024-10-04,Online Form,עמותה,No Response,צהל,"כלבי שירות בצהל""",Treatment Completed,Justified,2024-06-06,57
+103, 254/22,2022-01-27,2022-12-06,Online Form,אזרח,No Response,מנהל אזרחי אזור יהודה ושומרון,צו 348: הנחיות מנהליות ומידע,Treatment Completed,Justified,2022-07-18,36
+104, 92/24,2024-04-02,2024-03-14,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,ביצוע בפועל של קווים שונים 2022-2023,Treatment Completed,Justified,2024-06-26,105
+105, 363/22,2022-05-29,2022-08-27,Online Form,אזרח,No Response,משרד הבריאות,"קבלת דוח מומחה חיצוני""",Treatment Completed,Justified,2023-05-04,251
+106, 304/22,2022-05-07,2022-07-20,Online Form,אזרח,No Response,משרד העבודה,מידע על צהרונים ופרטי קשר,Treatment Completed,Unjustified,2022-08-01,12
+107, 323/23,2023-12-03,2023-11-08,Online Form,אחר,No Response,משרד החקלאות ופיתוח הכפר,נוהל המלצות להעסקת עובדים פלסטינים,Treatment Completed,Justified,2023-08-31,20
+108, 131/23,2023-01-30,2023-03-29,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,פיקוח השירות הוטרינרי על אוניות המשמשות להובלת מקנה,Treatment Completed,Justified,2023-08-24,148
+109, 188/23,2022-12-22,2023-05-14,Online Form,אזרח,No Response,משרד הבריאות,מידע בדבר פעילות לאכיפת נוהל השתתפות סטודנטים ,Treatment Completed,Justified,2023-07-25,72
+110, 296/23,2023-04-20,2023-07-27,Online Form,עמותה,No Response,צהל,"פרישה ושחרור מצהל נוכח נסיבות רפואיות""",Treatment Completed,Justified,2023-09-21,56
+111, 48/23,2023-06-01,2023-09-02,Email,עמותה,No Response,משרד האוצר,פגישות נציגי משרד האוצר עם נציגי משרד הביטחון בנושא הפנסיה הצוברת של משרתי הקבע,Treatment Completed,Unjustified,2023-06-08,119
+112, 150/23,2023-09-03,2023-04-27,Email,עמותה,No Response,משרד החינוך,הרחקות של תלמידים עם אוטיזם ממסגרות החינוך,Treatment Completed,Justified,2023-06-07,41
+113, 201/23,2022-12-21,2023-05-23,Email,אזרח,No Response,משרד הבריאות,השמדות קנאביס רפואי,Treatment Completed,Justified,2023-09-04,103
+114, 202/23,2023-01-15,2023-05-23,Email,אזרח,No Response,משרד הבריאות,רישיונות קונסטרוקטיביים + יבוא ויצוא,Treatment Completed,Justified,2023-09-04,103
+115, 99/22,2021-10-20,2022-03-13,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,היתרי מופעים עם בעלי חיים,Treatment Completed,Justified,2022-05-30,78
+116, 220/23,2023-03-30,2023-08-06,Online Form,עמותה,No Response,צהל,תקופת ההסתגלות השנייה,Treatment Completed,Justified,2024-02-08,245
+117, 84/22,2022-01-02,2022-02-03,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,בקשה לקבלת מידע מכח חוק חופש המידע,Treatment Completed,Unjustified,2022-03-07,6
+118, 203/23,2023-06-02,2023-05-24,Email,אזרח,No Response,משרד הבריאות,נתוני משאף קנאביס רפואי,Treatment Completed,Justified,2023-09-04,103
+119, 14/24,2023-02-11,2024-07-01,Email,אזרח,No Response,משרד החינוך,מסמכים,Treatment Completed,Unjustified,2024-01-10,0
+120, 612/21,2021-12-15,2021-12-15,Online Form,אזרח,No Response,משרד החינוך,בתי ספר מצטיינים,Treatment Completed,Justified,2022-04-28,134
+121, 2/22,2021-09-11,2022-02-01,Online Form,אזרח,No Response,משרד החוץ,בקשה לקבלת מידע לפי חוק חופש המידע,Treatment Completed,Unjustified,2022-03-10,68
+122, 468/23,2023-10-09,2023-10-11,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,אי מתן מענה סמוכין 388601  10.09.23,Treatment Completed,Unjustified,2023-12-14,34
+123, 566/21,2021-01-08,2021-10-31,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,"התכתובת של משרד התחבורה מול מר דינר וחברת אמבולנס סמי, בנוגע לקבלת אישור להסבת הרכב, לרכב רגיל שאינו אמבולנס",Treatment Completed,Justified,2022-05-30,211
+124, 564/21,2021-06-16,2021-10-27,Online Form,אזרח,No Response,האפוטרופוס הכללי והכונס הרשמי,קרן תובענות יצוגיות,Treatment Completed,Justified,2021-11-03,7
+125, 492/21,2021-02-09,2021-10-18,Online Form,עמותה,No Response,משרד ראש הממשלה,פריסת הפרסום בין כלי התקשורת,Treatment Completed,Justified,2022-02-17,122
+126, 53/22,2022-01-18,2022-10-02,Online Form,אזרח,Lack of Justification,בית חולים איכילוב,מידע בנושאים שונים בנושא קורונה,Treatment Completed,Unjustified,2022-02-21,11
+127, 72/24,2024-04-02,2024-04-03,Online Form,אזרח,No Response,משרד הבריאות,תוצאות הטיפול בחברת סנקי,Treatment Completed,Justified,2024-05-02,59
+128, 415/22,2022-05-09,2022-10-24,Online Form,עמותה,No Response,צהל,קוד מוסד לישיבות,Treatment Completed,Justified,2023-05-03,191
+129, 139/23,2023-02-02,2023-03-04,Online Form,עמותה,No Response,צהל,רכישת זכויות בגין שנים קודמות בשירות קבע,Treatment Completed,Justified,2023-07-10,98
+130, 142/22,2022-02-27,2022-03-31,Online Form,אזרח,No Response,המשרד לביטחון לאומי,מתן נימוקים אודות החמרה בקריטריונים לחידוש רישיון,Treatment Completed,Partially Justified,2022-04-28,28
+131, 293/23,2023-04-14,2023-07-26,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,"מענה מהמנכל""",Treatment Completed,Unjustified,2023-07-30,4
+132, 498/23,2023-03-08,2023-12-27,Online Form,אזרח,No Response,מנהל אזרחי אזור יהודה ושומרון,הנחיות מנהליות וחקיקה ראשית ומשנית בצו 348,Treatment Completed,Justified,2024-06-03,159
+133, 479/21,2021-04-02,2021-10-13,Online Form,עמותה,No Response,המשרד להגנת הסביבה,אירועי הזרמת חירום של שפכים לים,Treatment Completed,Justified,2022-03-16,154
+134, 208/23,2023-03-01,2023-05-30,Online Form,עמותה,No Response,משרד המשפטים,הפגנות ומחאות,Treatment Completed,Justified,2023-07-12,43
+135, 450/22,2022-09-07,2022-11-24,Online Form,אזרח,No Response,משרד הפנים,אישור ונימוקים להעלאת ארנונה - שערי תקווה,Treatment Completed,Unjustified,2022-12-22,28
+136, 473/21,2021-01-28,2021-06-10,Online Form,אזרח,No Response,משרד האוצר,נתונים בדבר תשלום ניכויים לארגוני עובדים,Treatment Completed,Justified,2022-04-11,188
+137, 120/23,2023-07-02,2023-03-16,Online Form,עמותה,No Response,משרד החינוך,מידע בנושא הרפורמה בחינוך המיוחד,Treatment Completed,Justified,2023-05-24,69
+138, 15/22,2021-04-10,2022-01-16,Online Form,אזרח,No Response,משרד הבריאות,פרטי שכר ראש מטה מגן ישראל,Treatment Completed,Justified,2022-03-28,71
+139, 520/22,2022-11-30,2022-12-30,Online Form,אזרח,No Response,משטרת ישראל,אי קבלת מענה מפניות הציבור,Treatment Completed,Unjustified,2023-01-11,12
+140, 46/23,2022-12-26,2023-08-02,Online Form,עמותה,No Response,משרד החינוך,בעלי חיים במוסדות חינוך,Treatment Completed,Justified,2023-03-02,22
+141, 446/21,2021-06-29,2021-09-26,Online Form,עמותה,No Response,משרד הבריאות,מאגרי מידע במשרד הבריאות,Treatment Completed,Justified,2022-03-28,183
+142, 250/24,2023-11-19,2024-07-15,Online Form,עמותה,No Response,צהל,אישור חיילים לשימוש בזרעם,In Treatment,,,29
+143, 438/21,2021-03-16,2021-09-25,Online Form,אזרח,No Response,משרד המשפטים,הוראות הפרקליטות בדבר המשך חקירה,Treatment Completed,Justified,2022-03-10,166
+144, 432/21,2021-06-24,2021-09-22,Online Form,אזרח,No Response,משרד החינוך,מידע הקיים במשרד החינוך אודות אירוע אלימות שהתרחש כלפי המתלוננת בבית ספר אלונים בקרית אתא,Treatment Completed,Unjustified,2022-03-24,183
+145, 31/24,2023-12-25,2024-01-30,Online Form,אזרח,No Response,המשרד לביטחון לאומי,מינויי השר לפקידי רישוי לכלי יריה,Treatment Completed,Justified,2024-04-04,65
+146, 184/22,2022-03-16,2022-04-26,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,מסמכים מהחלטת פקיד היערות להשגה,Treatment Completed,Partially Justified,2022-06-28,63
+147, 36/23,2022-03-14,2023-06-02,Online Form,אזרח,No Response,משרד החינוך,ביקורת שעות בחטיבות עליונות,Treatment Completed,Justified,2023-02-23,17
+148, 266/23,2023-01-31,2023-09-07,Online Form,עמותה,No Response,צהל,"בוגרי החינוך החרדי בצהל""",Treatment Completed,Justified,2023-09-21,74
+149, 127/23,2023-02-28,2023-03-26,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה,Treatment Completed,Unjustified,2023-05-10,45
+150, 266/24,2024-05-16,2024-07-17,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,פרוטוקולים,In Treatment,,,28
+151, 22/23,2022-12-12,2023-01-16,Online Form,אזרח,No Response,צהל,מסמכים אישיים,Treatment Completed,Justified,2023-03-12,55
+152, 67/23,2022-12-18,2023-02-21,Online Form,עמותה,No Response,צהל,תשלום וטיפול בבקשות פורשים לקבלת העתק מן התיק האיש,Treatment Completed,Justified,2023-05-11,79
+153, 93/22,2021-12-15,2022-03-13,Online Form,אזרח,No Response,משרד הביטחון,תקצוב,Treatment Completed,Justified,2022-03-24,11
+154, 183/24,2024-07-05,2024-05-22,Online Form,אזרח,Lack of Justification,הנהלת בתי הדין הרבניים,"מאגר שות של מבחני טוענים רבניים""",Treatment Completed,Unjustified,2024-06-13,22
+155, 207/23,2022-11-12,2023-05-30,Online Form,עמותה,No Response,משטרת ישראל,אכיפה נגד מחאות,Treatment Completed,Justified,2023-07-25,56
+156, 132/24,2024-03-20,2024-01-05,Online Form,אזרח,No Response,משרד העבודה,פרסום נהלים מינהל הבטיחות והבריאות,In Treatment,,,104
+157, 55/24,2023-10-20,2024-02-13,Online Form,עמותה,No Response,משרד המשפטים,מידע לשנתון סטטיסטי- סיוע משפטי,Treatment Completed,Unjustified,2024-03-06,23
+158, 430/21,2021-08-08,2021-09-14,Online Form,אזרח,No Response,משרד ראש הממשלה,"הוצאות אבטחה מלון דן כרמל, לביקור נתניהו",Treatment Completed,Justified,2022-03-16,183
+159, 276/24,2024-05-05,2024-07-28,Online Form,אזרח,Lack of Justification,משטרת ישראל,קבלת רשימת תלונות שהוגשו,Treatment Completed,Unjustified,2024-07-31,3
+160, 428/21,2021-08-20,2021-09-13,Online Form,אזרח,No Response,משרד החינוך,מידע על הכשרת מורים למקצוע,Treatment Completed,Justified,2022-02-14,154
+161, 80/24,2023-05-11,2024-08-03,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה סמוכין 394563 מתאריך 05.11.23 ,Treatment Completed,Unjustified,2024-03-13,5
+162, 312/23,2023-12-06,2023-06-08,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,"אי מתן מענה אורן לביא מנכל לבקשת מידע 375457 """,Treatment Completed,Unjustified,2023-12-14,130
+163, 90/24,2024-12-02,2024-03-14,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,פעילות אוטובוס מס' רישוי 37-789-55,Treatment Completed,Unjustified,2024-04-03,21
+164, 257/24,2024-02-15,2024-07-15,Online Form,עמותה,No Response,משרד הבריאות,נטילת זרע מנפטר - כריתת אשכים,In Treatment,,,29
+165, 383/21,2021-06-21,2021-07-08,Online Form,אזרח,Lack of Justification,משרד החינוך,פרטי תתומי  הורים,Treatment Completed,Unjustified,2021-08-09,2
+166, 210/23,2023-03-01,2023-05-30,Online Form,עמותה,No Response,משרד המשפטים,נהלים ומדיניות- פרקליטות המדינה,Treatment Completed,Justified,2023-07-12,43
+167, 292/23,2023-04-05,2023-07-26,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,גיור בישראל,Treatment Completed,Justified,2023-07-31,5
+168, 230/22,2022-05-04,2022-05-28,Online Form,אזרח,Lack of Justification,משרד הבינוי והשיכון,גילוי מסמכים בעניין הצמדת מדד תשומות הבניה,Treatment Completed,Unjustified,2022-05-30,2
+169, 320/22,2021-09-09,2022-02-08,Online Form,אזרח,No Response,משרד הבריאות,דוח ביקורת מלון פלזה - נוף הגליל,Treatment Completed,Justified,2023-02-09,191
+170, 135/23,2022-11-12,2023-02-04,Online Form,עמותה,No Response,צהל,"אי-מתן מענה (מסד)""",Treatment Completed,Justified,2023-06-28,87
+171, 638/21,2021-12-23,2021-12-27,Online Form,חברה,No Response,משרד הכלכלה,מענה לחופש המידע,Treatment Completed,Unjustified,2022-03-10,73
+172, 381/21,2021-02-16,2021-04-08,Online Form,עמותה,No Response,צהל,נתונים בנוגע לחיילים אוכ' ייחודיות ונתוני נשר,Treatment Completed,Justified,2022-02-14,194
+173, 277/23,2022-03-20,2023-07-19,Online Form,אזרח,No Response,משרד התיירות,אין מתן מענה,Treatment Completed,Unjustified,2024-02-29,225
+174, 374/21,2021-03-18,2021-07-26,Online Form,עמותה,No Response,משרד הבריאות,הוצאות קמפיין מגן 2,Treatment Completed,Justified,2022-02-23,212
+175, 241/24,2024-05-30,2024-08-07,Online Form,אזרח,No Response,משרד הבריאות,תלונה על קבלת מידע שלא על פי החוק,Treatment Completed,Justified,2024-08-08,31
+176, 224/24,2024-11-02,2024-06-25,Online Form,עמותה,No Response,משרד הבריאות,חיסון הפפילומה - יעילות ותופעות,Treatment Completed,Justified,2024-08-12,48
+177, 430/23,2023-09-15,2023-10-14,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,קבלת סיכום טיפול בפניה,Treatment Completed,Unjustified,2023-12-18,65
+178, 348/21,2021-02-22,2021-07-15,Online Form,אזרח,Lack of Justification,משרד הפנים,דחיית בקשה לקבלת מידע,Treatment Completed,Justified,2021-08-10,26
+179, 195/24,2023-07-12,2024-05-30,Email,אזרח,No Response,משרד הרווחה והשירותים החברתיים,נתונים בנושא המלחמה,Treatment Completed,Justified,2024-06-05,6
+180, 108/24,2024-02-15,2024-03-04,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,תוכנית שנתית של פקידי יערות,Treatment Completed,Justified,2024-04-17,13
+181, 64/24,2023-11-20,2024-02-14,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,הפעלת תחבורה ציבורית בשעת חירום,Treatment Completed,Justified,2024-05-15,84
+182, 488/22,2022-10-22,2022-12-22,Online Form,אזרח,No Response,הנהלת בתי המשפט,בקשת מידע צווים שיפוטים,Treatment Completed,Unjustified,2022-12-22,0
+183, 95/22,2021-08-31,2022-03-13,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,ניצול תקציבים,Treatment Completed,Justified,2022-05-19,67
+184, 146/24,2023-10-22,2024-06-05,Online Form,אזרח,No Response,משרד הבינוי והשיכון,בירור בפרויקט מחיר למשתכן,Treatment Completed,Justified,2024-06-13,38
+185, 213/24,2024-05-02,2024-06-20,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,תוכנית התחבורה הציבורית מואז שדות דן,Treatment Completed,Justified,2024-07-31,41
+186, 303/22,2022-05-29,2022-07-20,Online Form,אזרח,No Response,משרד החינוך,פרטי מפעילי קייטנות,Treatment Completed,Justified,2022-07-28,8
+187, 248/23,2022-07-11,2023-06-26,Online Form,עמותה,No Response,מתאם פעולות הממשלה בשטחים מתפש,"נתונים על שריפות פסולת ועל אכיפה סביבתית ביוש""",Treatment Completed,Unjustified,2023-06-28,3
+188, 34/22,2021-11-15,2022-01-28,Online Form,אזרח,No Response,משרד הבריאות,הסברה בציבור החרדי,Treatment Completed,Justified,2022-03-28,59
+189, 400/23,2023-10-07,2023-07-09,Online Form,אזרח,No Response,מנהל אזרחי אזור יהודה ושומרון,בניין ארמון הנציב,Treatment Completed,Unjustified,2023-11-29,83
+190, 32/23,2022-05-12,2023-01-31,Online Form,אזרח,No Response,משרד הבריאות,בקשה לקבלת מידע ומסמכים בעניינה של המיוצגת ,Treatment Completed,Justified,2023-06-08,128
+191, 63/23,2023-11-01,2023-02-19,Online Form,אזרח,No Response,משרד החינוך,"השעיית תלמידי חינוך מיוחד בביס האלה במודיעין""",Treatment Completed,Justified,2023-03-29,38
+192, 35/23,2022-06-12,2023-06-02,Online Form,עמותה,No Response,צהל,נתונים אודות פיטורים בעילת צמצום כוחות סדירים,Treatment Completed,Justified,2023-05-11,94
+193, 55/22,2022-01-31,2022-02-14,Online Form,אזרח,No Response,משרד המשפטים,"ועדת איתור ליועמש""",Treatment Completed,Justified,2022-09-11,209
+194, 448/22,2022-09-10,2022-11-24,Online Form,אזרח,No Response,משרד המשפטים,בקשת מידע,Treatment Completed,Unjustified,2022-12-22,28
+195, 496/23,2023-11-22,2023-12-24,Email,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,קבלת מסמכים,Treatment Completed,Justified,2024-02-14,52
+196, 428/23,2023-04-07,2023-11-10,Online Form,אזרח,No Response,משרד ראש הממשלה,אי מתן מענה לבקשת מידע סמוכין 378452   04.07.23   ,Treatment Completed,Unjustified,2023-12-14,64
+197, 307/23,2023-06-25,2023-01-08,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,היתרים להעסקת עובדים זרים,Treatment Completed,Justified,2023-08-10,9
+198, 317/23,2023-05-25,2023-09-08,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,מידע אישי,Treatment Completed,Justified,2024-03-28,232
+199, 150/24,2024-10-01,2024-10-05,Online Form,אחר,No Response,משרד התחבורה והבטיחות בדרכים,פרטים אודות מכון הדרום,Treatment Completed,Justified,2024-08-12,95
+200, 406/23,2023-02-08,2023-11-09,Email,אזרח,No Response,מינהל התכנון,"מינוי דר אורית ניר""",Treatment Completed,Unjustified,2023-09-12,1
+201, 276/22,2022-07-02,2022-06-22,Online Form,אזרח,No Response,משרד הבריאות,תגובות לתלונות,Treatment Completed,Justified,2022-09-11,81
+202, 405/23,2023-02-08,2023-11-09,Email,אזרח,No Response,מינהל התכנון,"קבלת חווד בתת""ל 108""",Treatment Completed,Unjustified,2024-04-04,206
+203, 122/22,2021-09-08,2022-03-24,Online Form,אזרח,No Response,משרד הבריאות,פנייתי לחוק חופש המידע במשרד הבריאות 283829,Treatment Completed,Justified,2022-04-13,20
+204, 263/23,2022-10-22,2023-06-07,Email,אזרח,No Response,משרד העבודה,מידע על התנהלות הוועדה,Treatment Completed,Unjustified,2023-08-31,56
+205, 404/22,2022-04-27,2022-10-16,Online Form,אזרח,No Response,צהל,"נתונים אודות חיילים בודדים בצהל""",Treatment Completed,Justified,2023-05-03,199
+206, 240/23,2022-08-28,2023-06-19,Email,אזרח,No Response,המשרד להגנת הסביבה,השלכות מקווי מתח עיליים,Treatment Completed,Justified,2023-08-01,40
+207, 39/23,2023-06-01,2023-07-02,Online Form,עמותה,No Response,משרד האוצר,"פעילות משרד האוצר ביחס לפנסיה הצוברת בצהל""",Treatment Completed,Unjustified,2023-06-08,121
+208, 51/24,2023-07-11,2024-07-02,Online Form,אזרח,No Response,צהל,"קבלת הצו על הצבת שלט שטח צבאי סגור"" בשטח פרטי""",Treatment Completed,Justified,2024-04-15,68
+209, 119/22,2022-06-02,2022-03-23,Online Form,אזרח,No Response,רשות מקרקעי ישראל,הקצאת מקרקעין,Treatment Completed,Unjustified,2022-03-31,8
+210, 199/23,2023-10-02,2023-05-24,Email,אזרח,No Response,משרד המשפטים,"יפוכ יועמ""ש""",Treatment Completed,Justified,2023-06-07,14
+211, 213/23,2023-02-21,2023-05-31,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,נשים מאוימות בלוד,Treatment Completed,Justified,2023-07-13,43
+212, 82/24,2023-12-18,2024-09-03,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,דיג מכמורת לצרכי מחקר מצפון לדור,Treatment Completed,Justified,2024-03-27,18
+213, 613/21,2021-04-11,2021-12-16,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,מניעת נישואי קרובים- בנק הזרע,Treatment Completed,Justified,2022-02-09,55
+214, 131/24,2024-02-26,2024-04-30,Online Form,אזרח,No Response,משרד המשפטים,כתבי אישום בעבירות הסתה  לפי דת,Treatment Completed,Unjustified,2024-05-06,6
+215, 493/23,2023-10-13,2023-12-13,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה  סמוכין 392585 מתאריך 13.10.23 ,Treatment Completed,Unjustified,2023-12-14,1
+216, 108/22,2022-05-01,2022-03-20,Online Form,אזרח,No Response,משרד הבריאות,קבלת הוראת נוהל,Treatment Completed,Justified,2022-04-11,22
+217, 99/23,2023-12-01,2023-02-28,Email,אזרח,No Response,משרד הבינוי והשיכון,הוראת שעה- מיצוי כושר השתכרות,Treatment Completed,Justified,2023-03-09,4
+218, 140/24,2023-08-20,2024-02-05,Online Form,אזרח,No Response,רשות מקרקעי ישראל,מידע דחוף,Treatment Completed,Unjustified,2024-07-25,84
+219, 294/22,2022-03-22,2022-07-13,Online Form,אזרח,No Response,משטרת ישראל,נהלי חקירת ירי,Treatment Completed,Justified,2022-08-28,46
+220, 200/22,2021-01-25,2022-09-05,Email,עמותה,Lack of Justification,רשות המסים בישראל,בקשה לקבלת המקור החוקי מכוחו מנקים מס הכנסה מעובדים תושבי הרשות הפלסטינית,Treatment Completed,Justified,2022-08-01,84
+221, 394/23,2023-03-29,2023-04-09,Online Form,עמותה,No Response,שירות בתי הסוהר,אסירים זרים,Treatment Completed,Justified,2024-01-24,143
+222, 325/23,2022-04-19,2023-08-14,Online Form,אזרח,No Response,משרד התיירות,מידע דחוף,Treatment Completed,Justified,2024-03-07,206
+223, 5/22,2021-05-27,2022-03-01,Online Form,אחר,No Response,משרד הבריאות,וועדת ההיגוי לטיפול במרחבים סגורים ,Treatment Completed,Justified,2022-05-26,143
+224, 225/24,2024-03-14,2024-06-26,Online Form,עמותה,No Response,משרד העבודה,"יישום החלטת ממשלה 1226 - הוקרה, סיוע ותגמול לחיילי מילואים המשרתים במלחמת חרבות ברזל"" ותיקון החלטת ממשלה""",Treatment Completed,Justified,2024-07-03,7
+225, 97/24,2023-09-19,2024-03-17,Online Form,אזרח,No Response,משרד העבודה,עגורנאים,Treatment Completed,Justified,2024-05-29,73
+226, 141/23,2022-11-16,2023-03-04,Online Form,אזרח,No Response,משרד הבריאות,מסמכים ביחס לדיווח על אשפוזו ומותו של איתי למברסקי,Treatment Completed,Justified,2023-09-07,157
+227, 581/21,2021-01-09,2021-11-18,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,מינויים כמנהל עבודה באתרים,Treatment Completed,Unjustified,2021-11-24,6
+228, 574/21,2021-07-18,2021-06-11,Online Form,אזרח,No Response,משרד הבריאות,11 שאלות בנושא הקורונה,Treatment Completed,Justified,2022-03-28,142
+229, 366/23,2023-07-23,2023-08-24,Online Form,עמותה,No Response,משרד החינוך,פיילוט הסעות בחינוך המיוחד,Treatment Completed,Unjustified,2023-08-30,6
+230, 605/21,2021-08-24,2021-07-12,Online Form,אזרח,No Response,צהל,"דין משמעתי של חיילי צהל""",Treatment Completed,Justified,2022-02-14,69
+231, 569/21,2021-02-08,2021-01-11,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,"הוצאות משפט""""",Treatment Completed,Justified,2022-03-16,135
+232, 596/21,2021-02-05,2021-11-26,Online Form,אחר,No Response,המשרד להגנת הסביבה,אכיפה ורגולציה בענפי החקלאות מהחי,Treatment Completed,Justified,2022-05-26,182
+233, 8/23,2022-11-23,2023-08-01,Online Form,אזרח,No Response,המשרד להגנת הסביבה,מסדרון וצוואר בקבוק אקולוגי גדרה,Treatment Completed,Unjustified,2024-05-22,500
+234, 74/23,2022-12-28,2023-01-03,Online Form,עמותה,No Response,משרד הבריאות,חלופות ניסויים משרד הבריאות,Treatment Completed,Justified,2023-06-15,106
+235, 3/24,2023-09-19,2024-02-01,Online Form,עמותה,No Response,המשרד להגנת הסביבה,דוחות נתוני איכות אויר,Treatment Completed,Unjustified,2024-01-18,16
+236, 298/23,2023-06-15,2023-07-27,Online Form,עמותה,No Response,משרד המשפטים,עיון בהקדש,Treatment Completed,Justified,2023-08-24,28
+237, 58/24,2024-05-02,2024-02-14,Online Form,אזרח,No Response,משרד המשפטים,חופש מידע ,Treatment Completed,Unjustified,2024-02-15,1
+238, 231/23,2023-10-05,2023-06-15,Online Form,עמותה,No Response,משרד החינוך,קיצור ימי לימודים תשפג,Treatment Completed,Justified,2023-07-06,21
+239, 33/24,2023-12-27,2024-01-02,Online Form,אזרח,No Response,המשרד לביטחון לאומי,נתונים על בקשות לקבלת רשיון נשק,Treatment Completed,Justified,2024-02-29,28
+240, 162/22,2021-11-21,2022-04-13,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,אישור או התנגדות למינוי מנהלי עבודה בבנייה,Treatment Completed,Justified,2022-09-11,151
+241, 255/22,2022-02-23,2022-06-13,Online Form,עמותה,No Response,צהל,"נתונים תגמולים אלמנות צהל""",Treatment Completed,Justified,2022-09-04,83
+242, 134/23,2023-01-22,2023-02-04,Online Form,עמותה,No Response,צהל,אי-מתן מענה,Treatment Completed,Justified,2023-08-10,130
+243, 568/21,2021-11-07,2021-01-11,Online Form,אזרח,No Response,משרד החינוך,"תיק אישי המלא במשרד החינוך – כלל המסמכים, מכל תקופה, המצויים במשרד החינוך",Treatment Completed,Justified,2022-03-06,125
+244, 89/24,2024-11-02,2024-03-14,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,נוהל פריסת פקחים בקווי עליה מכל הדלתות,Treatment Completed,Justified,2024-05-22,70
+245, 145/23,2023-03-15,2023-04-16,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,פרוטוקול ועדת האכיפה,Treatment Completed,Justified,2023-12-18,246
+246, 123/22,2021-08-23,2022-03-24,Online Form,אזרח,No Response,משרד הבריאות,פנייה מספר 285393,Treatment Completed,Unjustified,2022-05-09,46
+247, 507/21,2021-09-17,2021-10-24,Online Form,עמותה,No Response,הרשות הארצית לכבאות והצלה,התקציב שהקצתה הרשות לנושא של שיט וסירות בשנים 2007 עד 2021,Treatment Completed,Justified,2022-03-10,137
+248, 506/21,2021-05-23,2021-10-24,Online Form,עמותה,No Response,הרשות הארצית לכבאות והצלה,פניות למוקד הכבאות שנעשו בעכו ברמלה ובלוד בתאריכים9/5/21 ועד 17/5/21 .,Treatment Completed,Justified,2022-03-10,137
+249, 180/22,2022-10-03,2022-04-25,Online Form,אזרח,No Response,המשרד להגנת הסביבה,בקשה לקבלת סיכום פגישה קמין עצים,Treatment Completed,Unjustified,2022-05-16,21
+250, 505/21,2021-08-24,2021-10-24,Online Form,עמותה,No Response,הרשות הארצית לכבאות והצלה,מספר מקרי שריפה שנחקרו בשנים 2015-2021 בחשד להצתה,Treatment Completed,Justified,2022-03-24,151
+251, 495/21,2021-11-08,2021-10-19,Online Form,אזרח,No Response,משרד הבריאות,שאלות לגבי בידוד הווירוס והווריאנטים ,Treatment Completed,Unjustified,2021-10-27,8
+252, 478/21,2021-11-10,2021-11-10,Online Form,עמותה,No Response,משטרת ישראל,תנאי ביקור הנהוגים בהר הבית,Treatment Completed,Partially Justified,2021-11-07,27
+253, 152/22,2021-11-23,2022-06-04,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,קבלת חומרים נלווים בנוגע לפרסום,Treatment Completed,Justified,2022-08-01,117
+254, 421/21,2021-05-31,2021-02-09,Online Form,אזרח,No Response,משטרת ישראל,קבלת מידע בעניין כתבי אישו כנגד מי שרכב על גבי אופניים רגילות (לא חשמליים) במצב של שכרות,Treatment Completed,Justified,2021-11-03,62
+255, 420/21,2021-07-15,2021-02-09,Online Form,אחר,No Response,רשות המסים בישראל,נתוני הכרה של גופים לפי סעיף 46 א,Treatment Completed,Unjustified,2021-10-21,49
+256, 273/23,2022-09-24,2023-07-14,Online Form,עמותה,No Response,המשרד להגנת הסביבה,פעילות מוקד הסביבה,Treatment Completed,Justified,2023-07-25,11
+257, 285/22,2022-05-15,2022-06-30,Online Form,אזרח,No Response,משרד החינוך,בירור לגבי העברת מענק מיוחד,Treatment Completed,Justified,2022-07-05,5
+258, 422/22,2022-05-22,2022-04-11,Online Form,אזרח,No Response,משרד הבריאות,מחלת פוליו בארץ,Treatment Completed,Justified,2023-05-04,181
+259, 385/22,2022-07-17,2022-09-18,Online Form,אזרח,No Response,משרד הבריאות,מידע חייב בפרסום לעניין אישי,Treatment Completed,Justified,2023-05-03,227
+260, 138/23,2021-06-21,2023-03-04,Online Form,אזרח,No Response,משרד הבריאות,פעילות הדסק החרדי בקורונה,Treatment Completed,Justified,2023-08-10,129
+261, 408/22,2022-05-09,2022-10-18,Online Form,אחר,No Response,רשות החברות הממשלתיות, פרטים על הוועדה המייעצת בנושא מינוי דירקטורים,Treatment Completed,Unjustified,2023-04-23,187
+262, 289/22,2022-02-15,2022-06-07,Online Form,אחר,No Response,משרד הבריאות,מידע לגבי יבוא טובין,Treatment Completed,Justified,2022-09-11,67
+263, 244/24,2024-02-05,2024-11-07,Online Form,אזרח,No Response,משרד הפנים,נתונים לגבי תווי המזון - סבב שני ,Treatment Completed,Unjustified,2024-07-15,4
+264, 137/23,2023-01-15,2023-03-04,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,אגף הדיג,Treatment Completed,Justified,2023-07-10,99
+265, 118/22,2022-09-02,2022-03-23,Online Form,אזרח,No Response,משרד הבריאות,החלטות בדבר בנק הדם,Treatment Completed,Justified,2022-05-26,64
+266, 426/22,2022-05-09,2022-10-11,Online Form,אחר,No Response,רשות החברות הממשלתיות,אי מתן מענה גם אחרי ארכה,Treatment Completed,Justified,2023-04-23,164
+267, 375/22,2022-04-07,2022-05-09,Online Form,אזרח,No Response,צהל,מידע על התנהלות בשער שני במודל הקבע,Treatment Completed,Justified,2023-05-04,241
+268, 278/23,2022-10-02,2023-07-19,Online Form,אזרח,No Response,משרד התיירות,בקשת מידע,Treatment Completed,Unjustified,2024-02-29,225
+269, 40/23,2022-09-23,2023-07-02,Online Form,אזרח,No Response,מתאם פעולות הממשלה בשטחים מתפש,מספר הפלסטינים בגדה המערבית וברצועת עזה,Treatment Completed,Justified,2023-02-19,12
+270, 374/22,2022-08-31,2022-04-09,Online Form,אזרח,No Response,משרד הביטחון,מידע על אגף שיקום נכים במשהבט,Treatment Completed,Unjustified,2022-09-08,4
+271, 140/23,2022-12-18,2023-03-04,Online Form,עמותה,No Response,צהל,"פגישות נציגי צהל עם נציגי משרד האוצר בנושא תקנות """,Treatment Completed,Justified,2023-07-10,98
+272, 248/22,2022-07-02,2022-08-06,Online Form,אזרח,No Response,משרד הבריאות,הוספת סטודנטים לרפואה,Treatment Completed,Justified,2022-08-01,55
+273, 441/23,2023-01-03,2023-10-27,Online Form,אזרח,No Response,משרד האוצר,אי מתן מענה סמוכין 361890 מתאריך 01.03.23 ,Treatment Completed,Unjustified,2023-12-14,48
+274, 399/22,2022-08-28,2022-02-10,Online Form,אזרח,No Response,משרד החינוך,נהלי טראנסג'נדרים ,Treatment Completed,Justified,2023-04-20,200
+275, 256/24,2024-09-06,2024-07-15,Online Form,אזרח,Lack of Justification,משטרת ישראל,הסדר ניגוד עניינים,Treatment Completed,Unjustified,2024-08-08,24
+276, 353/22,2022-01-06,2022-08-22,Online Form,עמותה,No Response,צהל,קביעת תאריך גיוס,Treatment Completed,Justified,2022-09-21,30
+277, 119/24,2023-09-11,2024-04-15,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה סמוכין 395069 תאריך 09.11.23 ,Treatment Completed,Unjustified,2024-04-15,0
+278, 425/23,2023-07-19,2023-09-29,Online Form,אזרח,Publication of Administrative Guidelines,המשרד להגנת הסביבה,Unknown,Treatment Completed,Unjustified,2024-01-10,103
+279, 69/22,2022-01-16,2022-02-20,Online Form,אזרח,No Response,משרד הבריאות,אי מתן מענה בבקשה לקבלת מידע על פי חוק,Treatment Completed,Justified,2022-05-26,95
+280, 467/23,2023-11-08,2023-07-11,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,אי מתן מענה לבקשה 11.08.23 סמוכין  384552 ,Treatment Completed,Unjustified,2023-12-14,37
+281, 6/22,2022-04-01,2022-04-01,Online Form,אזרח,Publication of Administrative Guidelines,משרד התיירות,Unknown,Treatment Completed,Unjustified,2022-03-10,65
+282, 417/21,2021-06-21,2021-12-08,Email,אזרח,Lack of Justification,רשות מקרקעי ישראל,"אדמות יהודים ביוש""",Treatment Completed,Justified,2021-11-03,63
+283, 220/24,2024-02-19,2024-06-24,Online Form,עמותה,No Response,משרד הבריאות,פירוט התקשרויות מאושרות למחקר,Treatment Completed,Justified,2024-08-12,49
+284, 204/22,2022-01-19,2022-10-05,Online Form,אזרח,No Response,משרד האוצר,"נתוני משפטנים בצהל""",Treatment Completed,Justified,2022-06-08,29
+285, 412/21,2021-08-19,2021-08-30,Online Form,אזרח,No Response,משרד הכלכלה,מידע על הוועדה המייעצת להעברת מעונות היום,Treatment Completed,Unjustified,2021-11-03,65
+286, 204/23,2023-03-23,2023-05-25,Online Form,אזרח,No Response,משרד החינוך,בירור אפלייה ותנאי רפורמת אופק חדש,Treatment Completed,Justified,2023-07-24,61
+287, 71/23,2022-09-24,2023-02-28,Online Form,עמותה,No Response,הרשות הארצית לכבאות והצלה,שריפות פסולת,Treatment Completed,Justified,2023-12-14,290
+288, 221/24,2023-01-29,2024-06-25,Online Form,אזרח,No Response,משרד הבריאות,מסמכים לגבי החיסון מותאם אומיקרון,Treatment Completed,Justified,2024-08-12,48
+289, 397/21,2020-01-01,2021-08-16,Online Form,עמותה,No Response,הנהלת בתי הדין הרבניים, 9 בקשות שונות שלא נענו מאז 2020,Treatment Completed,Justified,2022-03-16,212
+290, 201/22,2022-11-04,2022-09-05,Online Form,אזרח,Fees,משרד התחבורה והבטיחות בדרכים, מידע ממאגר,Treatment Completed,Justified,2022-07-25,77
+291, 476/22,2022-05-17,2022-11-12,Online Form,אחר,No Response,משרד החינוך,אמיר לנציאנו,Treatment Completed,Justified,2023-02-16,67
+292, 164/22,2022-01-19,2022-04-14,Online Form,חברה,No Response,משרד הבינוי והשיכון,שימועים בגין עבירות בטיחות – רשם הקבלנים,Treatment Completed,Unjustified,2022-04-28,14
+293, 247/23,2022-06-09,2023-06-26,Online Form,אזרח,No Response,הרבנות הראשית לישראל,העלמת מידע ,Treatment Completed,Unjustified,2023-07-31,36
+294, 8/24,2023-05-09,2024-07-01,Online Form,עמותה,Lack of Justification,משרד החינוך,מבחן מחוננים,Treatment Completed,Justified,2024-01-18,11
+295, 182/23,2023-01-29,2023-11-05,Online Form,אזרח,No Response,משרד האוצר,קבלת העתק מסמך תשובת שר האוצר,Treatment Completed,Unjustified,2023-07-13,63
+296, 18/24,2024-12-01,2024-01-14,Online Form,אזרח,No Response,מנהל אזרחי אזור יהודה ושומרון,פסקי דין מאושרים לצו 348,Treatment Completed,Justified,2024-03-07,53
+297, 255/24,2024-03-25,2024-07-15,Online Form,עמותה,No Response,משרד המשפטים,צו הורות פסיקתי,In Treatment,,,29
+298, 272/23,2022-09-24,2023-07-14,Online Form,עמותה,No Response,המשרד להגנת הסביבה,פעילות המשטרה הירוקה,Treatment Completed,Justified,2023-08-31,48
+299, 395/21,2021-12-08,2021-08-16,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,תקצוב משרד התחבורה פרויקטים תחבורתיים וסובסידיות ב,Treatment Completed,Unjustified,2021-08-17,1
+300, 404/23,2023-04-20,2023-11-09,Online Form,אזרח,No Response,משרד הבריאות,אצוות חיסון פייזר,Treatment Completed,Justified,2024-01-10,121
+301, 215/22,2021-04-12,2022-05-18,Online Form,אזרח,No Response,מנהל אזרחי אזור יהודה ושומרון,פעולות אכיפה בתחום איכות הסביבה,Treatment Completed,Justified,2022-06-01,14
+302, 387/21,2021-02-15,2021-09-08,Online Form,אזרח,No Response,משרד הבריאות,פניה מס' 643068 ופניה מספר 644187,Treatment Completed,Justified,2022-03-16,219
+303, 70/22,2021-12-14,2022-02-20,Online Form,אזרח,No Response,משרד ראש הממשלה,עלות חכירת מטוס מסחרי לטיסות,Treatment Completed,Justified,2022-05-26,95
+304, 166/24,2023-12-02,2024-05-20,Online Form,אזרח,No Response,משרד הבריאות,אופן חישוב השתתפות בדמי אשפוז,Treatment Completed,Justified,2024-07-01,42
+305, 51/22,2021-09-09,2022-10-02,Online Form,אזרח,No Response,המשרד להגנת הסביבה,רותם אמפרט,Treatment Completed,Justified,2022-05-26,105
+306, 411/22,2022-09-18,2022-10-19,Online Form,עמותה,No Response,משרד החינוך,פרטים על מורי החטיבות העליונות,Treatment Completed,Justified,2023-05-03,196
+307, 259/24,2024-03-13,2024-07-15,Online Form,עמותה,No Response,צהל,כריתת אשך ללא הסכמה,In Treatment,,,29
+308, 393/22,2022-07-16,2022-09-20,Online Form,אזרח,No Response,משרד הכלכלה,מתן חסויות על ידי משרד הכלכלה ועובדי ציברר ממשרד ה,Treatment Completed,Unjustified,2023-05-04,226
+309, 72/22,2022-02-22,2022-02-22,Online Form,עמותה,No Response,משרד הבריאות,חלופות ניסויים משרד הבריאות,Treatment Completed,Justified,2022-04-12,49
+310, 31/23,2022-02-12,2023-01-27,Online Form,אזרח,No Response,הרשות הארצית לכבאות והצלה,הנילונה לא מסרה את המסמכים המבוקשים,Treatment Completed,Justified,2023-07-10,164
+311, 439/22,2022-06-27,2022-11-20,Online Form,אזרח,Lack of Justification,האפוטרופוס הכללי והכונס הרשמי,חופש מידע,Treatment Completed,Unjustified,2023-05-18,179
+312, 72/23,2022-09-26,2023-02-28,Online Form,עמותה,Lack of Justification,משרד החקלאות ופיתוח הכפר,שריפות גזם ופסולת חקלאית,Treatment Completed,Justified,2023-09-07,192
+313, 375/21,2021-01-27,2021-07-27,Email,אזרח,No Response,משטרת ישראל,רישום משטרתי ליוצאי אתיופיה,Treatment Completed,Justified,2021-08-30,34
+314, 91/22,2022-06-02,2022-10-03,Online Form,אזרח,No Response,משרד החינוך,מעקב תהליכים - שאלון,Treatment Completed,Justified,2022-03-29,19
+315, 27/23,2022-12-12,2023-01-22,Online Form,אזרח,No Response,משרד הפנים,בקשה למידע ציבורי- הקצאות מקרקעין,Treatment Completed,Partially Justified,2023-12-14,326
+316, 112/22,2022-03-01,2022-03-22,Online Form,אזרח,No Response,משרד התיירות,הקצאת מקרקעין,Treatment Completed,Justified,2022-04-27,36
+317, 367/22,2022-10-05,2022-08-29,Online Form,אזרח,No Response,צהל,"נתונים על אירועים לבבים בצהל בשנים 18-21""",Treatment Completed,Justified,2023-05-04,248
+318, 629/21,2021-04-30,2021-12-23,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,מידע בנושא מעבר מבחני רשיונות,Treatment Completed,Justified,2022-02-07,46
+319, 614/21,2021-10-21,2021-12-17,Online Form,אזרח,No Response,מתאם פעולות הממשלה בשטחים מתפש,מידע בנוגע לפעילות יחידת הפיקוח,Treatment Completed,Unjustified,2022-03-09,83
+320, 234/24,2023-07-06,2024-05-07,Online Form,אזרח,No Response,משרד הבריאות,"נתונים אודות תחומים שונים (ריטלין, פסיכיאטריה, נזעי חשמל, פירכוס, אובדנות, אשפוז בכפיה ועוד)",In Treatment,,,39
+321, 246/23,2023-07-05,2023-06-25,Online Form,אחר,No Response,מתאם פעולות הממשלה בשטחים מתפש,אופן הטלת מניעה,Treatment Completed,Justified,2023-09-27,94
+322, 274/22,2022-06-15,2022-06-21,Online Form,אזרח,Lack of Justification,משרד המשפטים,מספר עובדים עם מוגבלות משמעותית ,Treatment Completed,Unjustified,2022-06-28,8
+323, 30/22,2021-12-14,2022-01-26,Online Form,אזרח,No Response,משרד העבודה,קבלת מידע על מכללות לתחבורה בצפון,Treatment Completed,Justified,2022-02-13,18
+324, 217/24,2024-05-13,2024-06-23,Online Form,אזרח,No Response,הרשות להגנת הצרכן ולסחר הוגן,אי קבלת מענה ענייני,Treatment Completed,Unjustified,2024-07-10,17
+325, 139/24,2023-08-13,2024-02-05,Online Form,אזרח,No Response,רשות מקרקעי ישראל,מידע דחוף,Treatment Completed,Unjustified,2024-07-25,84
+326, 637/21,2021-11-17,2021-12-27,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,תגמולים לחברות על תיקופים של הנוסעים,Treatment Completed,Justified,2022-02-27,62
+327, 60/22,2022-08-01,2022-02-14,Online Form,אזרח,No Response,משרד החינוך,פירוט חלוקת תמיכות,Treatment Completed,Justified,2022-05-26,101
+328, 75/23,2023-01-25,2023-01-03,Online Form,אזרח,No Response,משרד החינוך,פרוטוקול וועדה פריטטית,Treatment Completed,Justified,2023-05-03,63
+329, 346/22,2021-11-02,2022-08-19,Online Form,אזרח,No Response,משטרת ישראל,"בקשה לקבלת תיק חקירה פלא 19/373477""",Treatment Completed,Unjustified,2022-09-08,20
+330, 357/21,2021-03-25,2021-07-20,Email,אזרח,Lack of Justification,משרד המשפטים,קבלת העתק צווי איסור פרסום,Treatment Completed,Unjustified,2021-08-11,22
+331, 62/24,2023-12-18,2024-02-20,Online Form,אזרח,No Response,משרד התקשורת,מספר מקוצר כוכבית וארבע ספרות,Treatment Completed,Justified,2024-03-04,13
+332, 276/23,2023-03-30,2023-07-18,Online Form,אזרח,No Response,רשות שוק ההון הביטוח והחיסכון,המסלקה הפנסיונית,Treatment Completed,Justified,2023-09-21,65
+333, 268/23,2023-03-07,2023-10-07,Online Form,אזרח,No Response,רשות מקרקעי ישראל,מידע על עסקאות ,Treatment Completed,Unjustified,2023-07-10,0
+334, 126/23,2023-02-28,2023-03-26,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה,Treatment Completed,Unjustified,2023-05-10,45
+335, 61/22,2022-08-01,2022-02-14,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,פירוט חלוקת תמיכות,Treatment Completed,Justified,2022-02-17,3
+336, 104/24,2023-07-11,2024-03-04,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה !במועד! סמוכין 394794 תאריך 07.11.23 ,Treatment Completed,Unjustified,2024-04-03,0
+337, 149/24,2024-12-02,2024-09-05,Online Form,אחר,No Response,משרד המשפטים,כתבי אישום,Treatment Completed,Justified,2024-05-22,13
+338, 457/22,2022-12-07,2022-11-28,Online Form,אחר,No Response,משרד הבריאות,תיקון העלון לתרופת פרופסיה,Treatment Completed,Justified,2023-07-10,224
+339, 376/22,2022-02-08,2022-06-09,Online Form,אזרח,No Response,משרד החינוך,וועדת החריגים תמריצים,Treatment Completed,Justified,2022-09-14,8
+340, 76/23,2023-01-29,2023-02-03,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,אי מתן מענה לבקשת מידע  29.01.23 סמוכין 357354 ,Treatment Completed,Unjustified,2023-12-14,287
+341, 248/24,2024-02-20,2024-07-14,Online Form,אחר,No Response,משרד האוצר,נגישות לאנשים עם מוגבלות,In Treatment,,,30
+342, 105/22,2022-01-23,2022-03-14,Online Form,אזרח,No Response,משרד העבודה,מחקר תחלואת סרטן עודפת,Treatment Completed,Justified,2022-05-26,73
+343, 268/24,2024-05-16,2024-07-17,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,פרוטוקולים ותכוניות בנייה,In Treatment,,,28
+344, 151/22,2022-07-02,2022-05-04,Online Form,אזרח,No Response,משרד הבריאות,הוספת סטודנטים לרפואה,Treatment Completed,Partially Justified,2022-04-27,22
+345, 296/22,2022-03-03,2022-07-17,Online Form,אזרח,No Response,הנהלת בתי המשפט,הכשרות שופטים בנושא אלימות מינית,Treatment Completed,Justified,2022-09-14,59
+346, 591/21,2021-10-20,2021-11-24,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,קבלת מידע נוקדות חובה,Treatment Completed,Unjustified,2021-12-12,18
+347, 501/22,2022-12-09,2022-12-25,Online Form,עמותה,No Response,צהל,תאורה באסדת הגז לוויתן,Treatment Completed,Justified,2023-03-28,93
+348, 457/23,2023-04-07,2023-10-29,Online Form,אזרח,No Response,משרד הבריאות,אי מתן מענה לבקשה סמוכין 378524 04.07.23 ,Treatment Completed,Unjustified,2023-12-14,46
+349, 77/24,2024-02-15,2024-06-03,Online Form,אזרח,No Response,משרד המשפטים,שמאי מכריע,Treatment Completed,Unjustified,2024-03-13,7
+350, 227/24,2024-03-27,2024-01-07,Online Form,אזרח,Fees,משרד התחבורה והבטיחות בדרכים,תוכניות עתידיות אוטובוס אקורדיון וקומותיים,In Treatment,,,43
+351, 50/24,2024-01-22,2024-07-02,Online Form,אזרח,No Response,הרשות לאכיפה במקרקעין  משרד האוצר,מדיע בנוגע להפעלת סמכות מקבילה,Treatment Completed,Unjustified,2024-03-27,49
+352, 308/22,2022-06-27,2022-07-25,Online Form,אזרח,No Response,משרד הבריאות,פניה מתאריך ה- 27.06.2022 - אי מתן מענה,Treatment Completed,Unjustified,2022-07-28,3
+353, 243/24,2024-12-03,2024-09-07,Online Form,אזרח,No Response,משרד הבינוי והשיכון,תמהיל דירות פרויקט 1572 בתוכנית מחיר למשתכן ,Treatment Completed,Justified,2024-07-30,21
+354, 432/22,2022-07-17,2022-11-15,Online Form,אזרח,No Response,משרד הבריאות,אי מתן מתן לקבלת תקנות ,Treatment Completed,Justified,2023-04-20,156
+355, 115/22,2022-01-25,2022-03-22,Online Form,אזרח,No Response,משרד הבריאות,פנייה לנציב קבילות הרופאים,Treatment Completed,Unjustified,2022-05-09,48
+356, 132/22,2022-02-23,2022-03-27,Online Form,אזרח,No Response,צהל,נתונים על דין משמעתי,Treatment Completed,Justified,2022-05-30,64
+357, 9/24,2023-05-09,2024-07-01,Online Form,עמותה,No Response,משרד הבריאות,אשפוז עקב חשיפה לחום,Treatment Completed,Justified,2024-03-13,66
+358, 16/22,2021-07-11,2022-01-17,Online Form,עמותה,No Response,משרד הביטחון,ניסויים בבעלי חיים במשרד הביטחון,Treatment Completed,Justified,2022-02-21,35
+359, 300/23,2023-07-16,2023-07-30,Online Form,אזרח,Publication of Administrative Guidelines,הרשות הארצית לכבאות והצלה,Unknown,Treatment Completed,Justified,2023-09-19,52
+360, 237/22,2021-12-13,2022-02-06,Online Form,אחר,No Response,משרד הבריאות,"החלטות וועדות, מידע אודות המבקש ומידע סטטיסטי",Treatment Completed,Justified,2022-08-01,60
+361, 252/23,2023-07-05,2023-06-28,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה לבקשה 07.05.23 סמוכין 370052 ,Treatment Completed,Unjustified,2023-11-09,134
+362, 71/22,2021-12-26,2022-02-22,Online Form,חברה,No Response,משרד העבודה,אמל שבלי,Treatment Completed,Justified,2022-05-26,93
+363, 339/21,2021-11-07,2021-11-07,Online Form,אזרח,No Response,משרד הבריאות,"בית החולים הצרפתי, נצרת",Treatment Completed,Unjustified,2022-02-21,225
+364, 337/21,2020-08-03,2021-11-07,Online Form,אזרח,No Response,צהל,אי מתן מענה לפי הוראות החוק,Treatment Completed,Justified,2022-03-16,248
+365, 335/21,2020-12-30,2021-08-07,Online Form,אזרח,No Response,הרשות הארצית לכבאות והצלה, חשיפת יומנו של נציב הכבאות,Treatment Completed,Justified,2022-03-10,245
+366, 332/21,2020-12-21,2021-05-07,Online Form,חברה,No Response,המשרד להגנת הסביבה,בקשת מידע על מפעל כנפית,Treatment Completed,Justified,2022-03-16,254
+367, 320/21,2021-03-02,2021-06-23,Online Form,אזרח,Lack of Justification,משרד הבריאות,פרוטוקול טיפול תרופתי בחולי קורונה,Treatment Completed,Unjustified,2021-08-09,47
+368, 319/21,2021-04-22,2021-06-23,Online Form,אזרח,No Response,משרד הבריאות,נתוני תמותה בישראל,Treatment Completed,Justified,2022-04-27,308
+369, 315/21,2019-05-22,2021-06-17,Online Form,אחר,No Response,משרד הרווחה והשירותים החברתיים,הכרעת דין בנושא עגורנים שהועברה למשרד העבודה לטיפול,Treatment Completed,Unjustified,2023-05-11,693
+370, 306/21,2020-07-12,2021-06-13,Online Form,עמותה,No Response,משרד החינוך,שימועים ובדיקות לגבי מנהל,Treatment Completed,Justified,2021-08-30,78
+371, 305/21,2021-03-24,2021-06-13,Online Form,חברה,No Response,משרד הבריאות,רשיון יבואן 7315,Treatment Completed,Justified,2021-12-14,184
+372, 299/21,2021-04-14,2021-07-06,Online Form,אזרח,No Response,משטרת ישראל,אכיפה בתחום פסולת הבניה,Treatment Completed,Unjustified,2021-06-09,2
+373, 296/21,2021-03-02,2021-07-06,Online Form,אזרח,No Response,צהל,חאן לבונה,Treatment Completed,Justified,2021-08-18,72
+374, 267/21,2021-02-22,2021-05-23,Online Form,עמותה,No Response,צהל,נתונים על מספר הפטורים שהצבא הנפיק מסיבות רפואיות-נפשיות ומספר ההתאבדויות של חיילים בתקופה של חמש שנים.,Treatment Completed,Justified,2022-04-27,339
+375, 258/21,2020-06-01,2021-05-18,Online Form,אזרח,No Response,צהל,"בקשת מידע לקבלת נתונים שנאספו עליי במיונים לצהל.""",Treatment Completed,Justified,2021-12-14,210
+376, 257/21,2021-04-18,2021-05-18,Online Form,אזרח,No Response,משרד ראש הממשלה,הנחיות בגיור,Treatment Completed,Justified,2021-11-07,173
+377, 256/21,2021-04-04,2021-05-18,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,הנחיות בגיור,Treatment Completed,Unjustified,2021-11-07,173
+378, 255/21,2021-02-16,2021-05-18,Online Form,אזרח,No Response,משרד הבריאות,מספר נפגעים מתקיפת כלבים,Treatment Completed,Justified,2021-08-16,90
+379, 250/21,2020-08-24,2021-05-13,Online Form,עמותה,No Response,משרד הבריאות,חולי ונפטרי נגיף הקורונה,Treatment Completed,Justified,2021-12-14,215
+380, 249/21,2020-09-24,2021-12-05,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,פרסום מניעויות דיינים,Treatment Completed,Unjustified,2021-05-20,8
+381, 244/21,2020-06-12,2021-10-05,Online Form,אזרח,No Response,מתאם פעולות הממשלה בשטחים מתפש,אי מתן מענה - מעבר אלנבי פלסטינים,Treatment Completed,Unjustified,2021-05-11,1
+382, 238/21,2021-04-04,2021-07-05,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,דוח ria,Treatment Completed,Unjustified,2021-06-01,25
+383, 236/21,2021-05-04,2021-06-05,Online Form,חברה,No Response,משרד הרווחה והשירותים החברתיים,מידע ב 3 בקשות,Treatment Completed,Unjustified,2021-06-01,26
+384, 235/21,2021-10-02,2021-06-05,Online Form,אזרח,No Response,משרד האוצר,קבלת מידע בנושא הקרן לעסקים בערבות המדינה,Treatment Completed,Justified,2021-11-17,195
+385, 234/21,2021-01-02,2021-05-05,Online Form,עמותה,No Response,משרד הבריאות,מרכזים אקוטיים וטיפול בערכות אונס,Treatment Completed,Justified,2021-12-14,223
+386, 233/21,2021-02-14,2021-05-05,Online Form,עמותה,No Response,משרד ראש הממשלה,חומרי רקע מדיוני קבינט הקורונה ומדיניות הפרסום שלו,Treatment Completed,Justified,2021-12-14,223
+387, 232/21,2021-07-03,2021-05-05,Online Form,עמותה,No Response,משרד ראש הממשלה,התכנית להעברת חיסונים למדינות זרות,Treatment Completed,Justified,2021-12-14,223
+388, 227/21,2020-12-31,2021-02-05,Online Form,אזרח,No Response,משרד המשפטים,יומן שר המשפטים,Treatment Completed,Justified,2021-08-30,120
+389, 396/23,2023-03-20,2023-04-09,Online Form,עמותה,No Response,שירות בתי הסוהר,רכישות בקנטינה,Treatment Completed,Justified,2024-01-18,136
+390, 395/23,2023-03-29,2023-04-09,Online Form,עמותה,No Response,שירות בתי הסוהר,אסיר נזקק ועיקולים,Treatment Completed,Justified,2024-01-24,142
+391, 391/23,2023-05-25,2023-09-08,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,פנימיית אורנים,Treatment Completed,Justified,2024-03-28,211
+392, 399/23,2023-02-15,2023-08-21,Online Form,אזרח,No Response,משרד הבריאות,פירוט טיפול בפניות,Treatment Completed,Unjustified,2023-12-14,99
+393, 411/23,2023-01-31,2023-10-09,Email,אזרח,No Response,משרד הבריאות,נתונים גולמיים של הגרלות הסטאז',Treatment Completed,Justified,2023-09-21,9
+394, 198/24,2024-11-04,2024-03-06,Email,אזרח,No Response,משרד המשפטים,דרוג עובדים רשות השידור,Treatment Completed,Unjustified,2024-06-20,17
+395, 208/24,2024-01-06,2024-06-13,Email,אזרח,No Response,משרד המשפטים,עיון בתיק חקירה 16020,Treatment Completed,Justified,2024-07-31,44
+396, 231/24,2024-03-31,2024-04-07,Email,אזרח,No Response,משרד המשפטים,"חווד משרד המשפטים""",Treatment Completed,Justified,2024-08-01,28
+397, 280/24,2024-01-06,2024-06-13,Email,אזרח,No Response,משרד המשפטים,עיון בתיק חקירה 16020,In Treatment,,,14
+398, 282/23,2023-10-06,2023-07-20,Online Form,אזרח,No Response,הרשות הארצית לכבאות והצלה,קבלת הקלטות שיחה,Treatment Completed,Unjustified,2023-08-08,20
+399, 235/24,2023-12-31,2024-07-07,Online Form,אחר,No Response,משרד התחבורה והבטיחות בדרכים,פרטים אודות משאית MAN מדגם TGS,Treatment Completed,Justified,2024-07-11,4
+400, 231/22,2022-09-03,2022-05-30,Online Form,אזרח,No Response,משרד ראש הממשלה,תמיכות משרד ההתיישבות בהקמה ותפעול של מחלקות סיור ,Treatment Completed,Justified,2022-07-13,44
+401, 210/24,2024-11-02,2024-06-19,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,צי האוטובוסים של חברת גלים,Treatment Completed,Justified,2024-07-30,41
+402, 33/22,2021-10-19,2022-01-27,Online Form,אזרח,No Response,משרד ראש הממשלה,ביצוע החלטות הממשלה,Treatment Completed,Justified,2022-05-26,119
+403, 61/24,2024-08-01,2024-02-19,Online Form,אזרח,No Response,המשרד להגנת הסביבה,אי מתן מענה,Treatment Completed,Unjustified,2024-02-26,7
+404, 190/23,2023-10-01,2023-05-16,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,דוח בדיקה על השפעת נוכחות שיטור,Treatment Completed,Justified,2023-06-28,43
+405, 415/23,2023-01-08,2023-12-09,Online Form,אזרח,No Response,משרד התיירות,נהלי משרד התיירות,Treatment Completed,Justified,2024-02-29,170
+406, 611/21,2021-12-13,2021-12-15,Online Form,אזרח,Lack of Justification,רשות המסים בישראל,פטור חלקי ממס רכישה לנכה,Treatment Completed,Unjustified,2022-03-10,85
+407, 477/22,2022-02-12,2022-12-12,Online Form,אזרח,Fees,הרשות הארצית לכבאות והצלה,דרישה לחשיפת ההנחיות המינהליות של הרשות הארצית לכב,Treatment Completed,Justified,2023-02-20,70
+408, 484/23,2023-04-17,2023-11-21,Online Form,אזרח,No Response,משרד הבריאות,פורמולת מזון לתינוקות נוטרילון,Treatment Completed,Justified,2024-01-31,71
+409, 68/24,2024-01-22,2024-02-26,Online Form,אזרח,No Response,משרד הבריאות,הרכב הוועדה בנושא המדיניות על הסיגריות האלקטרוניות,Treatment Completed,Justified,2024-05-13,77
+410, 344/23,2023-07-17,2023-08-20,Online Form,אזרח,No Response,הרשות הארצית לכבאות והצלה,שליחת מסמכים,Treatment Completed,Unjustified,2024-01-29,162
+411, 264/24,2024-01-04,2024-07-16,Online Form,אזרח,No Response,משרד העבודה,אישור מסירת עיצום,Treatment Completed,Unjustified,2024-07-30,14
+412, 113/24,2024-01-14,2024-10-04,Online Form,עמותה,No Response,משרד הבריאות,חלופות ניסויים בבעלי חיים,Treatment Completed,Justified,2024-06-10,61
+413, 416/22,2022-02-05,2022-10-26,Online Form,אחר,No Response,משרד המשפטים,תלונה על אי מתן מענה לבקשה לקבלת מידע על פי החוק,Treatment Completed,Justified,2023-05-03,189
+414, 114/22,2022-02-16,2022-03-22,Online Form,אזרח,No Response,משרד החינוך,גב' דלית שטאובר - ניגוד עניינים וחוות דעת,Treatment Completed,Justified,2022-04-06,15
+415, 127/24,2023-08-08,2024-04-24,Online Form,אזרח,No Response,משרד הבריאות,פרוטוקולים של הועדה הציבורית להרחבת סל השירותים,Treatment Completed,Justified,2024-07-18,85
+416, 228/24,2024-10-01,2024-01-07,Online Form,אזרח,No Response,משרד המשפטים,"חוד היועמ""ש שהוגשה בעע""מ 6542/15""",Treatment Completed,Justified,2024-08-08,38
+417, 135/24,2022-02-27,2024-02-05,Online Form,אזרח,No Response,רשות מקרקעי ישראל,מידע דחוף,Treatment Completed,Unjustified,2024-07-25,84
+418, 32/22,2022-04-01,2022-01-26,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,"בקשה לקבלת מידע לפי חוק חופש המידע התשנח - 1998""",Treatment Completed,Unjustified,2022-02-27,32
+419, 281/23,2023-01-31,2023-07-19,Online Form,אזרח,No Response,משרד המשפטים,ועדת החמישה,Treatment Completed,Justified,2023-07-24,5
+420, 100/23,2023-01-18,2023-06-03,Online Form,עמותה,No Response,רשות החברות הממשלתיות,נבחרת הדירקטורים 2022,Treatment Completed,Justified,2023-05-24,79
+421, 247/22,2021-10-17,2022-07-06,Online Form,אזרח,No Response,משרד החינוך,קיצור שבוע הלימודים,Treatment Completed,Justified,2022-06-13,6
+422, 414/23,2023-06-08,2023-12-09,Online Form,אזרח,No Response,המשרד לירושלים ומורשת,ועדת איתור ליועמש,Treatment Completed,Unjustified,2023-09-20,8
+423, 500/22,2022-02-08,2022-12-25,Online Form,עמותה,No Response,המשרד להגנת הסביבה,תאורה באסדת הגז לוויתן,Treatment Completed,Justified,2023-05-03,129
+424, 227/22,2022-05-18,2022-05-24,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,"דוח תיקופים מפורט""",Treatment Completed,Justified,2022-08-10,78
+425, 216/22,2022-09-01,2022-05-18,Online Form,עמותה,No Response,המשרד להגנת הסביבה,פחים כתומים עיריית ירושלים,Treatment Completed,Justified,2022-08-01,75
+426, 57/22,2021-12-12,2022-02-14,Online Form,אזרח,No Response,משרד ראש הממשלה,הספריה הלאומית,Treatment Completed,Justified,2022-05-26,101
+427, 180/23,2023-01-21,2023-10-05,Online Form,אזרח,No Response,משטרת ישראל,הפגנה מיום 14/01/2023,Treatment Completed,Partially Justified,2023-06-29,50
+428, 287/22,2022-05-22,2022-04-07,Online Form,עמותה,No Response,מנהל אזרחי אזור יהודה ושומרון,העסקת פלסטינים במנהל האזרחי,Treatment Completed,Partially Justified,2022-07-05,1
+429, 497/23,2023-05-24,2023-12-26,Online Form,אחר,No Response,משרד הבריאות,זיהומים ומכונות אקמו,Treatment Completed,Justified,2024-01-29,34
+430, 228/22,2022-05-01,2022-05-25,Online Form,אזרח,No Response,שירות בתי הסוהר,יחידת צור,Treatment Completed,Justified,2022-06-15,21
+431, 220/22,2022-06-03,2022-05-19,Online Form,אזרח,No Response,האפוטרופוס הכללי והכונס הרשמי,בקשות - וועד מקומי פדואל,Treatment Completed,Justified,2022-08-10,83
+432, 594/21,2021-06-24,2021-11-24,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,קבלת תיק אישי,Treatment Completed,Justified,2022-04-14,141
+433, 31/22,2021-12-14,2022-01-26,Online Form,אזרח,No Response,הרשות הארצית לכבאות והצלה,בקשה לקבלת מידע אודות אישורי כבאות במחוז צפון,Treatment Completed,Justified,2022-03-03,36
+434, 290/24,2024-11-04,2024-12-08,Online Form,אזרח,No Response,משרד הבריאות,"צטמ וצוות להתפרצות הפוליו - ניגודי עניינים""",In Treatment,,,2
+435, 275/23,2023-07-18,2023-07-18,Online Form,עמותה,No Response,צהל,מימון לתהליכי שינוי מין,Treatment Completed,Justified,2023-09-21,65
+436, 217/22,2022-03-14,2022-05-19,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,מתן כמויות  של מים שהוזרמו לאגודה ובקשות נוספות,Treatment Completed,Justified,2022-07-13,56
+437, 311/23,2023-05-29,2023-06-08,Online Form,אזרח,No Response,משרד הרווחה והשירותים החברתיים,אלין בית נועם - פרוטוקולים,Treatment Completed,Justified,2023-09-19,44
+438, 36/22,2021-12-26,2022-01-30,Online Form,אזרח,No Response,בית חולים וולפסון,שאלוני שביעות רצון חדר 4,Treatment Completed,Justified,2022-02-27,28
+439, 479/22,2022-06-22,2022-12-12,Online Form,אזרח,No Response,משרד הבינוי והשיכון,"הגרלה 472 פרוייקט השמורה"" - האחים חסיד""",Treatment Completed,Justified,2023-01-05,24
+440, 487/22,2022-10-18,2022-12-22,Online Form,אזרח,No Response,משרד החינוך,"פרוייקט צילה""",Treatment Completed,Justified,2023-02-20,60
+441, 58/22,2022-02-14,2022-02-14,Online Form,אחר,No Response,משרד ראש הממשלה,גיורים וועדות חריגים,Treatment Completed,Justified,2022-05-26,101
+442, 45/22,2021-11-24,2022-07-02,Online Form,אזרח,No Response,משרד הבריאות,אימות מידע שהתקבל ממוסד אחר ,Treatment Completed,Justified,2022-05-26,108
+443, 324/22,2022-02-08,2022-03-08,Online Form,אזרח,Lack of Justification,רשות האוכלוסין וההגירה,תעודות מעבר לילדי אומנה חסרי מעמד ,Treatment Completed,Unjustified,2022-08-18,15
+444, 242/23,2022-05-26,2023-06-22,Online Form,עמותה,No Response,משרד הבריאות,זמני המתנה לניתוח להתאמה מגדרית,Treatment Completed,Justified,2023-12-20,181
+445, 279/22,2022-02-27,2022-06-27,Online Form,אחר,No Response,משרד התיירות,מיזם אמפיסטאר מכתש רמון,Treatment Completed,Justified,2022-07-20,23
+446, 229/23,2023-02-01,2023-06-15,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,מדיניות התנדבות ,Treatment Completed,Justified,2023-09-04,81
+447, 297/22,2022-05-27,2022-07-18,Online Form,אזרח,No Response,משרד התקשורת,"קבלת עותק רישיון רטן""",Treatment Completed,Justified,2022-08-01,14
+448, 478/22,2022-06-10,2022-12-12,Online Form,אחר,No Response,משרד הבריאות,בקשה לקבלת מידע בעניין רשימת המדינות כאמור בבקשתנו,Treatment Completed,Justified,2023-02-07,57
+449, 472/23,2023-11-13,2023-11-13,Online Form,אזרח,No Response,המכון הרפואי לבטיחות בדרכים,דוח תאונת עבודה,Treatment Completed,Justified,2023-12-21,38
+450, 272/24,2024-03-04,2024-07-21,Online Form,אזרח,No Response,משרד האוצר,כספים שהוקפאו מהרשות הפלסטינית,In Treatment,,,24
+451, 161/24,2023-09-27,2024-12-05,Online Form,אזרח,No Response,משרד הבריאות,הוצאות משרד הבריאות על משפיעני רשת,Treatment Completed,Justified,2024-07-01,51
+452, 109/22,2022-02-16,2022-03-20,Online Form,אזרח,Lack of Justification,משטרת ישראל,"דוחות תנועה בצומת """,Treatment Completed,Unjustified,2022-05-03,44
+453, 368/23,2022-03-30,2023-08-24,Online Form,אזרח,No Response,מינהל התכנון,בקשות ותכניות,Treatment Completed,Unjustified,2023-09-04,11
+454, 245/23,2023-04-04,2023-06-25,Online Form,אחר,No Response,צהל,חלוקת מכסות בענף התעשייה והשירותים,Treatment Completed,Justified,2023-07-10,15
+455, 297/23,2023-04-20,2023-07-27,Online Form,עמותה,No Response,צהל,שינוי סיווג מערכי נגדים במהלך חופשת הפסח 2023,Treatment Completed,Justified,2023-09-21,56
+456, 24/23,2022-06-11,2023-01-19,Online Form,עמותה,No Response,משרד החינוך,אי מתן מענה על נתונים שנתבקשו בבקשת חופש מידע ,Treatment Completed,Justified,2023-02-19,31
+457, 440/23,2022-09-18,2023-10-25,Online Form,אזרח,No Response,משרד הבריאות,בקשה למידע במסגרת חוק חופש המידע,Treatment Completed,Justified,2024-01-18,86
+458, 274/24,2024-02-17,2024-07-24,Online Form,אזרח,No Response,משרד הבריאות,תרומות למחקרים קליניים,In Treatment,,,20
+459, 136/24,2023-10-08,2024-02-05,Online Form,אזרח,No Response,רשות מקרקעי ישראל,מידע דחוף,Treatment Completed,Unjustified,2024-07-25,84
+460, 141/24,2022-04-19,2024-02-05,Online Form,אזרח,No Response,רשות מקרקעי ישראל,מידע דחוף,Treatment Completed,Unjustified,2024-07-25,84
+461, 418/22,2022-10-27,2022-10-28,Online Form,אזרח,No Response,משרד החינוך,תלונה נגד רכזת האגף במשרד החינוך אילנית שושני,Treatment Completed,Justified,2023-03-30,154
+462, 101/22,1900-01-01,2022-03-13,Online Form,אזרח,Environmental Information,משרד החינוך,Unknown,Treatment Completed,Unjustified,2022-04-11,29
+463, 385/23,2023-01-06,2023-08-27,Online Form,עמותה,No Response,צהל,"חוזה מול מועדון הלקוחות יותר""""",Treatment Completed,Justified,2024-03-19,205
+464, 469/23,2023-05-24,2023-12-11,Online Form,אזרח,No Response,משרד הבריאות,"בקשה לקבלת מידע בעניין דר אשר שלמון""",Treatment Completed,Justified,2024-01-22,71
+465, 113/22,2022-02-15,2022-03-22,Online Form,אזרח,No Response,משרד ראש הממשלה,"ועדת האיתור לתפקיד מנהל לפמ""",Treatment Completed,Justified,2022-04-27,36
+466, 279/23,2022-08-03,2023-07-19,Online Form,אזרח,No Response,משרד התיירות,כרם שיזף,Treatment Completed,Justified,2024-03-07,232
+467, 386/22,2022-03-08,2022-09-20,Online Form,חברה,No Response,משרד העבודה,צווים שהוטלו על ידי המפחק סימיון,Treatment Completed,Justified,2023-05-03,225
+468, 281/22,2022-02-26,2022-06-28,Online Form,אזרח,No Response,משרד הבריאות,הקלטת שיחה אשר ביצעתי עם המשרד,Treatment Completed,Justified,2022-08-11,44
+469, 22/24,2023-11-22,2024-01-23,Online Form,אזרח,No Response,משרד הבינוי והשיכון,קביעת שכר דירה,Treatment Completed,Unjustified,2024-02-05,14
+470, 81/24,2023-05-11,2024-08-03,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה סמוכין 394563 מתאריך 05.11.23 ,Treatment Completed,Unjustified,2024-03-13,5
+471, 107/24,2024-02-28,2024-04-04,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,דוח תיקופים קו 681,Treatment Completed,Justified,2024-06-20,77
+472, 416/23,2023-07-30,2023-12-09,Online Form,אזרח,No Response,משרד התיירות,מסמכי יכולת פיננסית,Treatment Completed,Justified,2024-02-29,170
+473, 609/21,2021-08-04,2021-12-12,Online Form,עמותה,No Response,מנהל אזרחי אזור יהודה ושומרון,היתרי כניסה לישראל לצורכי עבודה ומניעות כניסת תושב,Treatment Completed,Justified,2022-05-26,165
+474, 182/24,2024-11-03,2024-05-22,Online Form,אזרח,No Response,משרד החינוך,שימוש בפיקדון צבאי,Treatment Completed,Justified,2024-05-29,8
+475, 116/22,2021-12-29,2022-03-22,Online Form,עמותה,No Response,המשרד לביטחון לאומי,"מידע על הריסות בתים, פינויים וחריש בנגב לשנת 2021",Treatment Completed,Justified,2022-03-29,7
+476, 371/22,2022-02-08,2022-04-09,Online Form,אזרח,No Response,משרד החינוך,עיון בתיק אישי - בית הספר שלנו תל מונד,Treatment Completed,Justified,2022-12-18,105
+477, 423/23,2023-01-29,2023-09-26,Online Form,אזרח,No Response,משרד הביטחון,מענים חלקיים בלבד לשתי בקשות מידע,Treatment Completed,Partially Justified,2023-12-13,78
+478, 124/24,2023-07-08,2024-04-17,Online Form,עמותה,No Response,משרד המשפטים,"פילוח תלונות מחש""",Treatment Completed,Justified,2024-05-02,15
+479, 60/24,2024-01-25,2024-02-16,Online Form,אזרח,No Response,משרד החינוך,סמכות ועדה פריטטית בנושא התמריצים למורים ,Treatment Completed,Unjustified,2024-05-02,76
+480, 198/22,2022-06-01,2022-09-05,Online Form,אזרח,No Response,צהל,"חכירת רכבים מצהל""",Treatment Completed,Justified,2022-08-02,85
+481, 2/23,2022-05-09,2023-01-01,Online Form,אזרח,No Response,צהל,מתן מענה לא ענייני וחלקי ביותר,Treatment Completed,Unjustified,2023-01-04,3
+482, 47/23,2022-11-25,2023-08-02,Online Form,אזרח,No Response,רשות מקרקעי ישראל,קבלת מידע,Treatment Completed,Justified,2023-05-31,112
+483, 444/22,2022-08-05,2022-11-23,Online Form,עמותה,No Response,המשרד להגנת הסביבה,מפעלי תעשייה כבידה בישראל,Treatment Completed,Justified,2023-05-24,182
+484, 314/22,2022-06-20,2022-07-28,Online Form,אזרח,No Response,רשות המסים בישראל,החזר כספים בגין הפקדות כספי מעסיק מקופות שונות,Treatment Completed,Unjustified,2022-08-07,10
+485, 463/23,2023-05-31,2023-05-11,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,אי מתן מענה סמוכין 373500 תאריך 31.05.23 ,Treatment Completed,Unjustified,2023-12-14,39
+486, 367/23,2023-07-16,2023-08-24,Online Form,אזרח,No Response,מינהל התכנון,בקשות ותכניות,Treatment Completed,Unjustified,2023-09-04,11
+487, 68/23,2022-12-18,2023-02-26,Online Form,עמותה,No Response,צהל,פרסום כתבות נגד משרתי ופורשי צבא הקבע,Treatment Completed,Justified,2023-06-08,102
+488, 413/22,2022-06-16,2022-10-23,Online Form,עמותה,No Response,צהל,אי מתן מענה לבקשת מידע ,Treatment Completed,Justified,2023-05-03,192
+489, 25/23,2022-11-12,2023-01-19,Online Form,עמותה,No Response,משרד החינוך,אי מתן מענה לבקשת חופש מידע מיום 11.12.22 ,Treatment Completed,Justified,2023-02-15,27
+490, 7/22,2022-04-01,2022-04-01,Online Form,אזרח,Annual Report,משרד התיירות,Unknown,Treatment Completed,Unjustified,2022-03-10,65
+491, 219/22,2022-02-16,2022-05-19,Online Form,אזרח,No Response,רשות המים והביוב,מידע על כמויות מים והיכן נצרכו,Treatment Completed,Unjustified,2022-06-16,29
+492, 117/24,2023-06-12,2024-11-04,Online Form,אזרח,No Response,משרד הבריאות,מסמכים  שונים,Treatment Completed,Justified,2024-06-05,55
+493, 347/22,2021-01-11,2022-08-21,Online Form,אזרח,No Response,משרד התקשורת,בקשה הנוגעת לחווד אודות פטריק דרהי,Treatment Completed,Justified,2022-09-14,24
+494, 223/22,2022-02-27,2022-05-23,Online Form,אזרח,No Response,משרד התיירות,"אי כיבוד הבקשה, גרירת רגליים ופעולה ללא סמכות",Treatment Completed,Unjustified,2022-05-25,3
+495, 245/22,2022-02-25,2022-06-06,Online Form,אזרח,No Response,צהל,"מכות חום, חשיפה לקרינה וכמות בשר",Treatment Completed,Justified,2022-08-11,66
+496, 239/22,2022-03-28,2022-02-06,Online Form,עמותה,No Response,צהל,צווי הרחקה מנהליים,Treatment Completed,Justified,2022-08-01,60
+497, 485/22,2022-08-11,2022-12-20,Online Form,אזרח,No Response,רשות האוכלוסין וההגירה,אי התייחסות לבקשה.,Treatment Completed,Unjustified,2022-12-28,8
+498, 54/22,2022-11-01,2022-12-02,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,חופש המידע בתי דין רבניים מקומות מושב דיינים,Treatment Completed,Justified,2022-04-28,75
+499, 175/22,2022-03-13,2022-04-25,Online Form,אזרח,No Response,משרד החינוך,מסמך הנחיות של יועץ הבטיחות מטעם משרד החינוך,Treatment Completed,Justified,2022-04-28,3
+500, 222/24,2024-03-14,2024-06-25,Online Form,עמותה,No Response,משרד הביטחון,מוניטור 1226 ו-3741,Treatment Completed,Justified,2024-07-30,35
+501, 481/22,2022-04-07,2022-12-15,Online Form,עמותה,No Response,משרד המשפטים,"פילוח נתוני מחש""",Treatment Completed,Justified,2022-12-22,7
+502, 52/22,2021-06-02,2022-10-02,Online Form,אזרח,No Response,משרד הפנים,"כתבי מינוי נוספים של עוד בנימין זלמנוביץ""",Treatment Completed,Unjustified,2022-03-29,47
+503, 206/23,2023-04-14,2023-05-28,Online Form,אזרח,No Response,משרד האוצר,אי מתן מענה בקשת 14.04.23 סמוכין 366866 ,Treatment Completed,Unjustified,2023-07-12,45
+504, 107/23,2023-05-01,2023-10-03,Online Form,עמותה,No Response,צהל,"נתונים אודות בקשות חופש מידע המוגשות לצהל""",Treatment Completed,Justified,2023-03-29,19
+505, 90/22,2022-08-01,2022-07-03,Online Form,אזרח,No Response,משרד הבריאות,פירוט חלוקת תמיכות,Treatment Completed,Partially Justified,2022-04-12,36
+506, 1/24,2023-10-09,2024-01-01,Online Form,חברה,No Response,משרד העבודה,דוחות הדרכות בטיחות,Treatment Completed,Justified,2024-01-04,3
+507, 461/22,2022-01-08,2022-11-30,Online Form,עמותה,No Response,משרד הבריאות,מינויה של פרופ' שורץ לבחון חומר בנושא פרשת ילדי תימן,Treatment Completed,Justified,2023-04-20,141
+508, 202/24,2024-03-16,2024-11-06,Online Form,אזרח,No Response,משרד הבריאות,"נוהל קריטריונים הקמת ועדת בדיקה רשמית, רשלנות רפואית",Treatment Completed,Justified,2024-07-30,49
+509, 26/24,2024-01-25,2024-01-25,Online Form,עמותה,No Response,משרד המשפטים,מידע לשנתון סטטיסטי,Treatment Completed,Unjustified,2024-02-08,14
+510, 352/22,2022-05-31,2022-08-22,Online Form,עמותה,No Response,צהל,מדיניות גיוס בני ישיבות ציונית,Treatment Completed,Justified,2023-01-26,157
+511, 262/24,2023-10-05,2024-07-15,Online Form,אחר,No Response,משרד הבריאות,אנטיביוטיקה מסוג CEFTRIAXONE,In Treatment,,,29
+512, 421/23,2023-05-24,2023-09-26,Online Form,עמותה,No Response,משרד המשפטים,"תלונות למחש""",Treatment Completed,Partially Justified,2023-12-06,71
+513, 136/23,2022-12-15,2023-02-04,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,רישיונות או היתרים לדיג חריג,Treatment Completed,Justified,2023-07-10,99
+514, 388/23,2023-05-18,2023-08-29,Online Form,אזרח,No Response,משרד החינוך,תקנות זכויות התלמיד,Treatment Completed,Justified,2023-09-21,23
+515, 119/23,2023-07-02,2023-03-16,Online Form,עמותה,No Response,משרד החינוך,נתונים לגבי מחסור בעובדי הוראה,Treatment Completed,Justified,2023-06-07,83
+516, 305/23,2023-06-03,2023-01-08,Online Form,אזרח,No Response,משרד הבריאות,הועדה לשינוי מין,Treatment Completed,Justified,2024-01-01,153
+517, 438/22,2022-03-10,2022-11-20,Online Form,אזרח,No Response,משרד החינוך,בקשת חופש מידע,Treatment Completed,Justified,2023-05-24,185
+518, 2/24,2023-05-24,2024-01-01,Online Form,אחר,No Response,משרד הבריאות,מכונות אקמו,Treatment Completed,Justified,2024-02-29,59
+519, 228/23,2023-03-28,2023-06-15,Online Form,אזרח,No Response,משרד התקשורת,רשימת בתי מלון,Treatment Completed,Justified,2023-06-27,12
+520, 162/24,2023-11-24,2024-05-13,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה ! במועד ! סמוכין 396840 תאריך 24.11.23,Treatment Completed,Unjustified,2024-05-13,0
+521, 185/23,2023-06-02,2023-11-05,Online Form,אזרח,Lack of Justification,רשות האכיפה והגבייה,נתונים מהוצאה לפועל והמרכז לגביית קנסות,Treatment Completed,Justified,2023-11-08,181
+522, 137/24,2023-10-07,2024-02-05,Online Form,אזרח,No Response,רשות מקרקעי ישראל,מידע דחוף,Treatment Completed,Unjustified,2024-07-25,84
+523, 174/22,2022-08-02,2022-04-25,Online Form,אזרח,No Response,משרד החינוך,"דוח ביקורת כספית בישיבה תיכונית גבעת שמואל""",Treatment Completed,Unjustified,2022-06-13,49
+524, 310/22,2022-05-17,2022-07-26,Online Form,אזרח,No Response,משרד הבריאות,בקשת חוק חופש המידע,Treatment Completed,Unjustified,2022-07-28,2
+525, 42/22,2021-11-24,2022-03-02,Online Form,אזרח,No Response,צהל,נתונים על משרתות מילואים,Treatment Completed,Justified,2022-05-26,112
+526, 268/22,2022-10-03,2022-06-16,Online Form,אזרח,No Response,משרד הבריאות,"אישור ו/או קבלת רישיון מוסד מכורים לחיים""""",Treatment Completed,Justified,2022-07-12,26
+527, 46/24,2023-03-12,2024-02-02,Online Form,אזרח,No Response,משרד הבריאות,אי מתן מענה ! במועד ! סמוכין 397777 03.12.23 ,Treatment Completed,Unjustified,2024-02-29,27
+528, 184/23,2023-04-02,2023-11-05,Online Form,אזרח,Lack of Justification,משרד המשפטים,פרוטוקולים לשכת היועמש,Treatment Completed,Unjustified,2023-05-11,0
+529, 9/23,2022-08-23,2023-08-01,Online Form,אזרח,No Response,משרד הבריאות,אי מענה לקבלת תקנות ,Treatment Completed,Justified,2023-03-05,56
+530, 392/23,2023-06-27,2023-01-09,Online Form,אזרח,Lack of Justification,מרכז רפואי שיבא,נורות פוטותרפיה,Treatment Completed,Justified,2024-01-10,131
+531, 239/24,2024-05-28,2024-08-07,Online Form,אזרח,No Response,הרשות הארצית לכבאות והצלה,"בקשה לדוח כיבוי חוקר דליקות על שריפה בין 15-14 יולי 2023 בבניין ברחוב יוסף הגידם 13 חיפה""",Treatment Completed,Justified,2024-08-06,29
+532, 6/24,2023-03-12,2024-05-01,Online Form,אזרח,No Response,משרד ראש הממשלה,אי מתן מענה לבקשת מידע סמוכין 397772 03.12.23 ,Treatment Completed,Unjustified,2024-01-29,25
+533, 39/22,2021-05-09,2022-01-31,Online Form,עמותה,No Response,משרד הבריאות,מערך הפיקוח על המזון ,Treatment Completed,Justified,2022-03-28,56
+534, 420/23,2023-07-16,2023-09-26,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,ביקורות בחזיריות,Treatment Completed,Justified,2023-11-06,41
+535, 429/22,2022-04-13,2022-11-13,Online Form,אזרח,No Response,משרד העבודה,שיתוף פעולה בין מנהל הבטיחות בזרוע ויחידת פלס,Treatment Completed,Justified,2023-05-03,171
+536, 269/24,2024-05-18,2024-07-17,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,פרוטוקולים שונים,In Treatment,,,28
+537, 53/24,2023-09-22,2024-11-02,Online Form,אזרח,No Response,משרד הבריאות,"מספר בוגרים ישראלים מחול""",Treatment Completed,Justified,2024-04-04,53
+538, 354/22,2021-10-28,2022-08-22,Online Form,אזרח,No Response,משטרת ישראל,השלמת נתונים - יוצאי אתיופיה,Treatment Completed,Unjustified,2022-09-08,17
+539, 311/22,2022-01-31,2022-07-27,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,תקצוב משרד התחבורה פרויקטים תחבורתיים וסובסידיות בגדה המערבית,Treatment Completed,Justified,2022-08-18,22
+540, 636/21,2021-08-19,2021-12-27,Online Form,אזרח,No Response,משרד הבריאות,שאלות לגבי בידוד נגיף הקורונה,Treatment Completed,Justified,2022-03-28,91
+541, 26/23,2022-11-22,2023-01-22,Online Form,אזרח,Lack of Justification,משרד הבינוי והשיכון,בקשה לקבלת אסמכתאות להעברת כספים,Treatment Completed,Justified,2023-04-25,94
+542, 28/24,2023-07-20,2024-01-27,Online Form,אזרח,No Response,משרד החינוך,הפעלת סמכותו של מנהל המחוז,Treatment Completed,Justified,2024-04-11,75
+543, 108/23,2022-11-21,2023-12-03,Online Form,עמותה,No Response,צהל,הליכי גיוס לבעלי קושי נפשי,Treatment Completed,Justified,2023-06-20,100
+544, 340/22,2022-01-26,2022-08-15,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,העתק ממסמכי מכרז,Treatment Completed,Justified,2023-01-26,164
+545, 395/22,2022-11-05,2022-09-22,Online Form,אזרח,No Response,משרד הבריאות,קבלת מידע בנושא תאי לחץ גבוה ומתון,Treatment Completed,Justified,2023-01-18,119
+546, 5/24,2023-08-24,2024-04-01,Online Form,עמותה,Lack of Justification,רשות האוכלוסין וההגירה,העתק ממרשם האוכלוסין,Treatment Completed,Justified,2024-01-25,21
+547, 63/24,2022-11-14,2024-02-20,Online Form,עמותה,No Response,משרד הבריאות,כיסוי חיסוני בישראל ומדיניות הסברה,Treatment Completed,Justified,2024-04-18,58
+548, 242/24,2024-01-05,2024-09-07,Online Form,אזרח,No Response,משרד התיירות,נהלי משרד התיירות,In Treatment,,,35
+549, 261/24,2024-10-04,2024-07-15,Online Form,אחר,No Response,משרד הבריאות,משלוח מזון מבית עסק לבית הצרכן,In Treatment,,,29
+550, 129/23,2023-02-28,2023-03-28,Online Form,אזרח,No Response,משרד הבריאות,אי מתן מענה לבקשתי לרשומות מהפסיכיאטר המחוזי מרכז,Treatment Completed,Justified,2023-06-07,71
+551, 426/23,2023-07-29,2023-03-10,Online Form,עמותה,No Response,צהל,החלטת ממשלה 682,Treatment Completed,Justified,2024-04-15,195
+552, 288/22,2022-04-24,2022-04-07,Online Form,אזרח,Lack of Justification,משרד הבינוי והשיכון,הטלת קנסות על החברות המשכנות ותלונות הציבור,Treatment Completed,Unjustified,2022-08-10,37
+553, 249/22,2022-02-24,2022-08-06,Online Form,עמותה,No Response,שירות בתי הסוהר,נתוני אסירים בטחוניים 2021,Treatment Completed,Justified,2022-08-23,76
+554, 274/23,2022-11-22,2023-07-14,Online Form,עמותה,No Response,המשרד להגנת הסביבה,תשלום למודיע על השלכת פסלת שלא כדין,Treatment Completed,Justified,2023-08-01,18
+555, 269/22,2022-04-24,2022-06-16,Online Form,אזרח,Lack of Justification,משרד הרווחה והשירותים החברתיים,מידע אודות הוסטל נחלים ברכסים,Treatment Completed,Unjustified,2024-04-09,663
+556, 227/23,2023-09-04,2023-06-15,Online Form,עמותה,No Response,צהל,בני מהגרים בלימודים,Treatment Completed,Justified,2024-01-08,207
+557, 197/22,2022-06-01,2022-09-05,Online Form,אזרח,No Response,צהל,"תנאי הזכאות לקבלת גמול השתלמות (גמוש) לקצינים בשירות קבע""",Treatment Completed,Justified,2022-08-02,85
+558, 257/22,2022-09-02,2022-06-14,Online Form,אזרח,No Response,המשרד להגנת הסביבה,בקשה לקבלת סקרי קרקע בתחנת דלק,Treatment Completed,Justified,2022-09-11,89
+559, 320/23,2023-03-04,2023-10-08,Online Form,אזרח,No Response,משטרת ישראל,קבלת מידע מה עלה ,Treatment Completed,Unjustified,2023-08-24,14
+560, 101/24,2024-02-26,2024-03-28,Online Form,אזרח,No Response,משרד המשפטים,כתבי אישום בחתך דת,Treatment Completed,Unjustified,2024-04-03,6
+561, 271/22,2021-01-12,2022-06-19,Online Form,חברה,No Response,משרד הבריאות,"החלטות ונהלים בנושא שינוי בשבן""",Treatment Completed,Justified,2022-09-11,84
+562, 418/23,2023-08-20,2023-09-21,Online Form,אזרח,No Response,משרד החינוך,תנאי עבודה,Treatment Completed,Unjustified,2023-12-14,84
+563, 428/22,2022-10-09,2022-11-13,Online Form,אזרח,Lack of Justification,משרד הפנים,חיוב אגרת שמירה בניגוד לתקנון וגם ביח' משנה,Treatment Completed,Unjustified,2022-12-22,39
+564, 102/22,2021-12-13,2022-03-13,Online Form,אזרח,No Response,משרד החינוך,כתובת המוסד בית התלמוד שערי תורה,Treatment Completed,Unjustified,2022-04-11,29
+565, 232/22,2022-03-28,2022-05-30,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,נהלי פטורים טוענים רבניים,Treatment Completed,Justified,2022-07-18,49
+566, 209/23,2023-03-01,2023-05-30,Online Form,עמותה,No Response,משרד המשפטים,"נהלים ומדיניות- פמי""",Treatment Completed,Justified,2023-07-12,43
+567, 260/24,2024-02-16,2024-07-15,Online Form,עמותה,No Response,צהל,"פילוח הפיקוד הבכיר בצהל לפי חינוך""",Treatment Completed,Justified,2024-08-11,27
+568, 183/22,2022-04-26,2022-04-26,Online Form,אזרח,No Response,הנהלת בתי הדין הרבניים,עובד ודיינים שהושהו בסוף 2016,Treatment Completed,Unjustified,2022-05-26,30
+569, 238/22,2022-01-19,2022-02-06,Online Form,עמותה,No Response,צהל,"ענישה במקרי עבירות בטחון בבימש הצבאיים באיו""ש""",Treatment Completed,Justified,2022-08-04,63
+570, 414/22,2022-10-05,2022-10-23,Online Form,אזרח,No Response,משרד הבריאות,לידות שקטות והפלות,Treatment Completed,Justified,2023-05-04,193
+571, 59/24,2024-02-14,2024-02-14,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,תחבורה ציבורית,Treatment Completed,Justified,2024-05-06,82
+572, 11/23,2022-11-22,2023-10-01,Online Form,אזרח,No Response,משרד הכלכלה,אי קבלת מענה רשמי ,Treatment Completed,Unjustified,2023-01-11,1
+573, 66/24,2023-04-18,2024-02-25,Online Form,אחר,No Response,משרד הבריאות,מכשיר INVOS,Treatment Completed,Justified,2024-05-02,67
+574, 273/22,2022-05-17,2022-06-20,Online Form,אזרח,No Response,משרד המשפטים,שומת מקרקעין בגוש 7079 חלקה 12,Treatment Completed,Unjustified,2022-06-27,7
+575, 121/24,2023-06-08,2024-04-15,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה !במועד! סמוכין 383730 תאריך 06.08.23 ,Treatment Completed,Unjustified,2024-04-17,2
+576, 289/24,2023-07-29,2024-09-08,Online Form,אזרח,No Response,משרד המשפטים,חקירות אישי ציבור,In Treatment,,,4
+577, 40/22,2021-12-26,2022-01-02,Online Form,חברה,No Response,משרד העבודה,צווי בטיחות חברת ארקאן,Treatment Completed,Justified,2022-05-26,114
+578, 238/24,2024-03-25,2024-08-07,Online Form,אזרח,No Response,משרד התקשורת,מדידות כיסוי סלולרי בכביש 31,Treatment Completed,Justified,2024-07-22,14
+579, 265/22,2021-11-25,2022-06-16,Online Form,עמותה,No Response,משרד החינוך,מיפוי מספר מסגרות ייעודיות ותלמידים עם אוטיזם,Treatment Completed,Justified,2023-01-26,225
+580, 249/24,2024-02-22,2024-07-14,Online Form,אזרח,No Response,משרד הבריאות,דיווח תרומות למשרד הבריאות,In Treatment,,,30
+581, 38/23,2023-06-01,2023-07-02,Online Form,עמותה,No Response,משרד האוצר,"פעילות משרד האוצר בתקשורת ביחס לשכר, תנאים",Treatment Completed,Unjustified,2023-06-08,121
+582, 632/21,2021-02-09,2021-12-24,Online Form,אזרח,No Response,משרד הבריאות,שכר רבנים שכר ממונה חשיפה,Treatment Completed,Unjustified,2022-02-14,52
+583, 173/22,2022-03-24,2022-04-23,Online Form,אזרח,No Response,משטרת ישראל,פנייה 99072,Treatment Completed,Unjustified,2022-05-04,11
+584, 12/23,2022-06-12,2023-10-01,Online Form,אזרח,No Response,משרד הכלכלה,"מתן חסות עובד ציבור על ידי מנכל משרד הכלכלה """,Treatment Completed,Unjustified,2023-02-20,41
+585, 75/24,2023-09-14,2024-05-03,Online Form,אזרח,No Response,משרד המשפטים,ארגונים מאושרים על ידי שר המשפטים,Treatment Completed,Justified,2024-03-13,8
+586, 631/21,2021-10-25,2021-12-23,Online Form,אזרח,No Response,רשות מקרקעי ישראל,"מסמכי הפרויקט הידוע כמנהטן 15 "" בנתיבות""",Treatment Completed,Partially Justified,2022-02-07,46
+587, 71/24,2024-01-31,2024-04-03,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,מידע-מס' בקשות שלא נענו בצורה תקינה,Treatment Completed,Unjustified,2024-03-13,9
+588, 49/23,2022-11-15,2023-09-02,Online Form,עמותה,No Response,שירות בתי הסוהר,אסירי עולם,Treatment Completed,Justified,2023-03-29,48
+589, 23/22,2021-10-20,2022-01-19,Online Form,אזרח,No Response,משרד הבריאות,"רשיונות ללא מגע""""",Treatment Completed,Justified,2022-05-26,127
+590, 49/22,2022-02-01,2022-08-02,Online Form,אזרח,No Response,משרד הבריאות,מידע בנושאים שונים בנושא קורונה,Treatment Completed,Justified,2022-05-26,107
+591, 82/22,2021-09-14,2022-01-03,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,מתן מידע לפי חוק חופש המידע,Treatment Completed,Justified,2022-03-16,15
+592, 621/21,2021-01-12,2021-12-19,Online Form,אזרח,Fees,משטרת ישראל,סימוכין - 100-80-7-1,Treatment Completed,Unjustified,2022-03-16,87
+593, 67/22,2021-12-19,2022-02-20,Online Form,אחר,No Response,משרד הבריאות,העברת מסמכים ,Treatment Completed,Justified,2022-05-26,95
+594, 1/23,2022-01-09,2023-01-01,Online Form,אזרח,No Response,צהל,מתן מענה לא ענייני וחלקי ביותר,Treatment Completed,Justified,2023-08-10,221
+595, 20/23,2022-11-13,2023-01-15,Online Form,עמותה,No Response,משרד התחבורה והבטיחות בדרכים,ערעור טובין בייבוא אישי,Treatment Completed,Justified,2023-05-31,136
+596, 111/24,2023-11-14,2024-09-04,Online Form,עמותה,No Response,משרד הבריאות,יישום חוק חובת דיווח,Treatment Completed,Justified,2024-06-06,58
+597, 73/23,2023-02-22,2023-02-28,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,אי קבלת מענה,Treatment Completed,Unjustified,2023-03-01,1
+598, 387/22,2022-07-31,2022-09-20,Online Form,חברה,No Response,משרד העבודה,פיגומים ממוכנים,Treatment Completed,Justified,2023-05-04,226
+599, 258/24,2024-05-28,2024-07-15,Online Form,אזרח,No Response,משרד החינוך,תיעוד מגן אסיף,Treatment Completed,Justified,2024-07-23,8
+600, 112/24,2023-11-14,2024-09-04,Online Form,עמותה,No Response,משרד החינוך,יישום חוק חובת דיווח,Treatment Completed,Justified,2024-05-02,23
+601, 53/23,2023-09-01,2023-02-14,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,אי מתן מענה ממשרד התחבורה,Treatment Completed,Justified,2023-03-05,20
+602, 479/23,2023-02-10,2023-11-18,Online Form,אחר,No Response,הרשות הארצית לכבאות והצלה,אי קבלת מענה ומענה משתלח מצד הגורם ברשות,Treatment Completed,Unjustified,2023-11-23,5
+603, 50/22,2021-09-08,2022-10-02,Online Form,אזרח,No Response,המשרד להגנת הסביבה,מיחזור צמיגים,Treatment Completed,Justified,2022-05-26,105
+604, 15/24,2023-10-19,2024-11-01,Online Form,עמותה,No Response,שירות בתי הסוהר,מידע סטטיסטי לשנתון,Treatment Completed,Justified,2024-03-13,62
+605, 327/22,2022-04-07,2022-05-08,Online Form,אזרח,No Response,הנהלת בתי המשפט,עדכון מניעויות רשמים,Treatment Completed,Partially Justified,2022-08-07,2
+606, 69/24,2024-01-01,2024-02-26,Online Form,עמותה,No Response,שירות בתי הסוהר,לוחות המזון לעצורים ולאסירים ביטחוניים,Treatment Completed,Justified,2024-04-18,52
+607, 355/22,2022-06-14,2022-08-22,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,תחומי אחריות כפר יונה,Treatment Completed,Justified,2022-12-18,118
+608, 196/22,2022-08-01,2022-08-05,Online Form,אזרח,No Response,משרד הבריאות,פירוט חלוקת תמיכות,Treatment Completed,Justified,2022-08-01,86
+609, 212/24,2024-05-15,2024-06-20,Online Form,עמותה,No Response,משטרת ישראל,"תיקי פלא נוער בהפגנות""",Treatment Completed,Unjustified,2024-07-01,11
+610, 93/24,2023-08-11,2024-03-14,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה !במועד! סמוכין 395054 תאריך 08.11.23 ,Treatment Completed,Unjustified,2024-03-19,5
+611, 419/23,2023-05-16,2023-09-22,Online Form,אזרח,No Response,משרד הבריאות,מסמכי חידוש רישיון,Treatment Completed,Justified,2024-02-08,140
+612, 94/22,2021-11-28,2022-03-13,Online Form,אזרח,No Response,שירות בתי הסוהר,אי קבלת מענה חופש המידע,Treatment Completed,Justified,2022-03-24,11
+613, 309/22,2022-04-26,2022-07-25,Online Form,אזרח,No Response,משרד הבריאות,פנייתי 65539,Treatment Completed,Unjustified,2022-07-27,2
+614, 107/22,2021-11-05,2022-03-18,Online Form,אזרח,No Response,משרד הבריאות,"רשימת משווקי בשר, עופות ודגים ומספרי הזיהוי הווטרינרי שלהם",Treatment Completed,Justified,2022-05-26,69
+615, 267/24,2024-05-16,2024-07-17,Online Form,אזרח,Lack of Justification,משרד התחבורה והבטיחות בדרכים,פרוטוקול רכבת,In Treatment,,,28
+616, 21/22,2021-08-09,2022-01-19,Online Form,אזרח,No Response,משרד הבריאות,השמדת קנאביס רפואי,Treatment Completed,Justified,2022-02-13,25
+617, 158/22,2022-09-02,2022-07-04,Online Form,אזרח,No Response,משרד החינוך,בקשה לקבלת מידע עבור בית ספר בחיפה,Treatment Completed,Justified,2022-04-28,21
+618, 129/24,2023-06-03,2024-04-29,Online Form,אזרח,No Response,משרד המשפטים,הנחיית משרד המשפטים,Treatment Completed,Justified,2024-07-03,65
+619, 7/24,2023-06-12,2024-05-01,Online Form,אזרח,No Response,משרד ראש הממשלה,פירוט הטיפול בטופס פניות הציבור,Treatment Completed,Unjustified,2024-01-29,24
+620, 249/23,2022-10-25,2023-06-26,Online Form,עמותה,No Response,משרד הבריאות,יבוא ושיווק דגים ומוצרי דגים,Treatment Completed,Justified,2023-12-20,177
+621, 240/24,2024-05-28,2024-08-07,Online Form,אזרח,No Response,הרשות הארצית לכבאות והצלה,"בקשה לדוח כיבוי דליקה בין 15-14 יולי 2023 בבניין ברחוב יוסף הגידם 13 חיפה""",Treatment Completed,Justified,2024-08-06,29
+622, 186/23,2023-03-22,2023-11-05,Online Form,עמותה,No Response,צהל,ישיבות הסדר,Treatment Completed,Justified,2023-08-31,112
+623, 43/23,2022-08-07,2023-08-02,Online Form,אזרח,No Response,משרד הבריאות,לא נשלח הדוח,Unknown,Treatment Completed,,25/04/2023
+624, 243/23,2023-06-13,2023-06-25,Online Form,אזרח,No Response,משטרת ישראל,נוהל יממ,Treatment Completed,Unjustified,2023-07-10,15
+625, 221/22,2022-05-18,2022-05-22,Online Form,אזרח,Lack of Justification,הנהלת בתי הדין הרבניים,פסילת הרכב דיינים בנתניה 2020 - 2022,Treatment Completed,Justified,2022-07-31,71
+626, 280/23,2023-05-18,2023-07-19,Online Form,אזרח,No Response,משרד התיירות,מועדון הזמר האילתי,Treatment Completed,Justified,2024-03-07,232
+627, 12/22,2021-07-29,2022-11-01,Online Form,אחר,No Response,משרד הבריאות,"שירותים והתקשרויות בין משרד הבריאות למדא לשנים 2019-2020""",Treatment Completed,Justified,2022-03-16,64
+628, 85/22,2022-10-01,2022-02-03,Online Form,אחר,No Response,רשות האוכלוסין וההגירה,בקשה לקבלת מידע לפי חוק חופש המידע,Treatment Completed,Unjustified,2022-03-07,5
+629, 495/22,2022-01-10,2022-12-23,Online Form,אזרח,No Response,משטרת ישראל,בקשת מידע,Treatment Completed,Unjustified,2022-12-28,5
+630, 32/24,2023-09-10,2024-01-30,Online Form,עמותה,No Response,המשרד לביטחון לאומי,טיפול בבקשות לרישיונות לשאת כלי ירייה פרטי,Treatment Completed,Justified,2024-04-04,65
+631, 29/22,2021-11-14,2022-01-25,Online Form,אזרח,No Response,האפוטרופוס הכללי והכונס הרשמי,קרן תובענות יצוגיות ,Treatment Completed,Justified,2022-02-13,19
+632, 592/21,2021-04-10,2021-11-24,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,מסמכים הנוגעים לחברת גלים,Treatment Completed,Justified,2022-05-30,187
+633, 464/23,2023-07-26,2023-07-11,Online Form,עמותה,No Response,משרד החקלאות ופיתוח הכפר,דיג במפרץ אילת,Treatment Completed,Justified,2024-02-28,113
+634, 24/24,2023-11-10,2024-01-24,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה סמוכין 392394 מתאריך 11.10.23 ,Treatment Completed,Unjustified,2024-02-07,14
+635, 263/24,2022-06-20,2024-07-15,Online Form,אחר,No Response,משרד הבריאות,זמני המתנה לרופאים בקהילה,In Treatment,,,29
+636, 105/24,2024-02-18,2024-03-04,Online Form,אזרח,No Response,משרד החקלאות ופיתוח הכפר,תוכנית 2023 של פקידי יערות,Treatment Completed,Justified,2024-06-24,82
+637, 91/24,2024-01-30,2024-03-14,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,אי מתן מענה והודעת ארכה לא לפי חוק,Treatment Completed,Unjustified,2024-03-18,5
+638, 198/23,2023-04-16,2023-05-24,Online Form,אזרח,Lack of Justification,משטרת ישראל,סירוב גורף לבקשת מידע  מיום 16.4.23,Treatment Completed,Unjustified,2024-08-01,435
+639, 103/24,2023-08-11,2024-02-04,Online Form,אזרח,No Response,משרד המשפטים,אי מתן מענה !במועד! סמוכין 395054 תאריך 08.11.23 ,Treatment Completed,Unjustified,2024-04-03,1
+640, 211/24,2024-11-01,2024-06-19,Online Form,עמותה,No Response,המשרד לשוויון חברתי,הסכמי התקשוריות ומכרזים,Treatment Completed,Justified,2024-06-27,8
+641, 459/22,2022-08-16,2022-11-29,Online Form,אזרח,No Response,משרד הבריאות,בידוד נגיף הקורונה,Treatment Completed,Justified,2023-03-02,93
+642, 306/22,2022-06-14,2022-07-21,Online Form,אזרח,No Response,משרד התחבורה והבטיחות בדרכים,תחומי אחריות כפר יונה,Treatment Completed,Partially Justified,2022-07-25,5
